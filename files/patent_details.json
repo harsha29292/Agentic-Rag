@@ -1,0 +1,710 @@
+{
+    "search_metadata": {
+        "id": "6910b81ba4817c9e81907598",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a7746f4238d334f3/6910b81ba4817c9e81907598.json",
+        "created_at": "2025-11-09 15:49:47 UTC",
+        "processed_at": "2025-11-09 15:49:47 UTC",
+        "google_patents_details_url": "https://patents.google.com/patent/SA523442135B1/en",
+        "raw_html_file": "https://serpapi.com/searches/a7746f4238d334f3/6910b81ba4817c9e81907598.html",
+        "total_time_taken": 0.66
+    },
+    "search_parameters": {
+        "engine": "google_patents_details",
+        "patent_id": "patent/SA523442135B1/en"
+    },
+    "title": "Hybrid Renewable System for Heat and Power Production",
+    "type": "patent",
+    "publication_number": "SA523442135B1",
+    "country": "Saudi Arabia",
+    "prior_art_keywords": [
+        "layer",
+        "photovoltaic",
+        "thermal",
+        "incident solar",
+        "heat"
+    ],
+    "prior_art_date": "2020-07-14",
+    "application_number": "SA523442135A",
+    "inventors": [
+        {
+            "name": "\u062c\u064a\u0631\u064a\u062c\u064a \u0639\u0635\u0627\u0645",
+            "link": "https://patents.google.com/?inventor=%D8%AC%D9%8A%D8%B1%D9%8A%D8%AC%D9%8A+%D8%B9%D8%B5%D8%A7%D9%85",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%D8%AC%D9%8A%D8%B1%D9%8A%D8%AC%D9%8A+%D8%B9%D8%B5%D8%A7%D9%85"
+        },
+        {
+            "name": "\u064a\u0648\u0646\u0633 \u0645\u0631\u0627\u062f",
+            "link": "https://patents.google.com/?inventor=%D9%8A%D9%88%D9%86%D8%B3+%D9%85%D8%B1%D8%A7%D8%AF",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%D9%8A%D9%88%D9%86%D8%B3+%D9%85%D8%B1%D8%A7%D8%AF"
+        }
+    ],
+    "priority_date": "2020-07-14",
+    "filing_date": "2023-01-11",
+    "publication_date": "2024-01-03",
+    "worldwide_applications": {
+        "2020": [
+            {
+                "filing_date": "2020-07-14",
+                "country_code": "US",
+                "application_number": "US16/928,732",
+                "document_id": "patent/US11588436B2/en",
+                "legal_status_cat": "active",
+                "legal_status": "Active"
+            }
+        ],
+        "2021": [
+            {
+                "filing_date": "2021-07-14",
+                "country_code": "WO",
+                "application_number": "PCT/US2021/041526",
+                "document_id": "patent/WO2022015787A1/en",
+                "legal_status_cat": "not_active",
+                "legal_status": "Ceased"
+            }
+        ],
+        "2023": [
+            {
+                "filing_date": "2023-01-11",
+                "country_code": "SA",
+                "application_number": "SA523442135A",
+                "document_id": "patent/SA523442135B1/en",
+                "legal_status_cat": "unknown",
+                "this_app": true
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": "2023-01-11",
+            "title": "Application filed by \u0634\u0631\u0643\u0640\u0640\u0640\u0640\u0629 \u0627\u0644\u0632\u064a\u0640\u0640\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0640\u0640\u0640\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0640\u0640\u0629",
+            "type": "filed",
+            "critical": true,
+            "assignee_search": "\u0634\u0631\u0643\u0640\u0640\u0640\u0640\u0629 \u0627\u0644\u0632\u064a\u0640\u0640\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0640\u0640\u0640\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0640\u0640\u0629"
+        },
+        {
+            "date": "2024-01-03",
+            "title": "Publication of SA523442135B1",
+            "type": "publication",
+            "critical": true,
+            "document_id": "patent/SA523442135B1/en"
+        }
+    ],
+    "external_links": [
+        {
+            "text": "Espacenet",
+            "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=SA&NR=523442135B1&KC=B1&FT=D"
+        },
+        {
+            "text": "Global Dossier",
+            "link": "https://globaldossier.uspto.gov/result/application/SA/523442135/1"
+        },
+        {
+            "text": "Discuss",
+            "link": "https://patents.stackexchange.com/questions/tagged/SA523442135B1"
+        }
+    ],
+    "classifications": [
+        {
+            "code": "F24S10/00",
+            "description": "Solar heat collectors using working fluids",
+            "leaf": true,
+            "first_code": true,
+            "is_cpc": true
+        },
+        {
+            "code": "F24S60/30",
+            "description": "Arrangements for storing heat collected by solar heat collectors storing heat in liquids",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "H02S40/44",
+            "description": "Means to utilise heat energy, e.g. hybrid systems producing warm water and electricity at the same time",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "H10F77/492",
+            "description": "Spectrum-splitting means, e.g. dichroic mirrors",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "H10K39/10",
+            "description": "Organic photovoltaic [PV] modules; Arrays of single organic PV cells",
+            "leaf": true,
+            "is_cpc": true
+        },
+        {
+            "code": "F24S2020/17",
+            "description": "Arrangements of solar thermal modules combined with solar PV modules",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "Y02E10/44",
+            "description": "Heat exchange systems",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "Y02E10/52",
+            "description": "PV systems with concentrators",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        },
+        {
+            "code": "Y02E10/60",
+            "description": "Thermal-PV hybrids",
+            "leaf": true,
+            "additional": true,
+            "is_cpc": true
+        }
+    ],
+    "abstract": "The present disclosure describes a hybrid photovoltaic (PV) panel comprising: a first photovoltaic (PV) layer including photovoltaic cells capable of converting energy from incident solar energy into electricity; A second transparent layer is arranged below the first photovoltaic layer so that a portion of the incident solar power passes through it; A third thermal collection layer is arranged below the second transparent layer and includes an absorption material capable of absorbing energy from the section of incident solar power that has passed through the second transparent layer, where the second transparent layer includes a thermal insulation material to provide a thermal barrier between the first photovoltaic layer and the third thermal collection layer, whereby PV panel operation The first PV layer operates at a lower temperature than the thermal collector layer. Figure 4.",
+    "abstract_original": "\u064a\u0642\u0648\u0645 \u0627\u0644\u0643\u0634\u0641 \u0627\u0644\u062d\u0627\u0644\u064a \u0628\u0648\u0635\u0641 \u0644\u0648\u062d \u0641\u0648\u0644\u0637\u0627\u0636\u0648\u0626\u064a (PV) \u0647\u062c\u064a\u0646 \u064a\u062a\u0636\u0645\u0646: \u0637\u0628\u0642\u0629 \u0641\u0648\u0644\u0637\u0627\u0636\u0648\u0626\u064a\u0629 (PV) \u0623\u0648\u0644\u0649 \u062a\u0634\u0645\u0644 \u062e\u0644\u0627\u064a\u0627 \u0641\u0648\u0644\u0637\u0627\u0636\u0648\u0626\u064a\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u062d\u0648\u064a\u0644 \u0637\u0627\u0642\u0629 \u0645\u0646 \u0642\u062f\u0631\u0629 \u0634\u0645\u0633\u064a\u0629 \u0633\u0627\u0642\u0637\u0629 \u0625\u0644\u0649 \u0643\u0647\u0631\u0628\u0627\u0621\u061b \u0637\u0628\u0642\u0629 \u0634\u0641\u0627\u0641\u0629 \u062b\u0627\u0646\u064a\u0629 \u0645\u064f\u0631\u062a\u0628\u0629 \u0623\u0633\u0641\u0644 \u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0641\u0648\u0644\u0637\u0627\u0636\u0648\u0626\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u062d\u064a\u062b \u064a\u0645\u0631 \u0642\u0633\u0645 \u0645\u0646 \u0627\u0644\u0642\u062f\u0631\u0629 \u0627\u0644\u0634\u0645\u0633\u064a\u0629 \u0627\u0644\u0633\u0627\u0642\u0637\u0629 \u062e\u0644\u0627\u0644\u0647\u0627\u061b \u0648\u0637\u0628\u0642\u0629 \u062a\u062c\u0645\u064a\u0639 \u062d\u0631\u0627\u0631\u064a \u062b\u0627\u0644\u062b\u0629 \u0645\u064f\u0631\u062a\u0628\u0629 \u0623\u0633\u0641\u0644 \u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0634\u0641\u0627\u0641\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0648\u062a\u0634\u0645\u0644 \u0645\u0627\u062f\u0629 \u0627\u0645\u062a\u0635\u0627\u0635 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0645\u062a\u0635\u0627\u0635 \u0637\u0627\u0642\u0629 \u0645\u0646 \u0642\u0633\u0645 \u0627\u0644\u0642\u062f\u0631\u0629 \u0627\u0644\u0634\u0645\u0633\u064a\u0629 \u0627\u0644\u0633\u0627\u0642\u0637\u0629 \u0627\u0644\u0630\u064a \u0645\u0631 \u062e\u0644\u0627\u0644 \u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0634\u0641\u0627\u0641\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629\u060c \u062d\u064a\u062b \u062a\u0634\u062a\u0645\u0644 \u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0634\u0641\u0627\u0641\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0639\u0644\u0649 \u0645\u0627\u062f\u0629 \u0639\u0632\u0644 \u062d\u0631\u0627\u0631\u064a \u0644\u062a\u0648\u0641\u064a\u0631 \u062d\u0627\u062c\u0632 \u062d\u0631\u0627\u0631\u064a \u0628\u064a\u0646 \u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0641\u0648\u0644\u0637\u0627\u0636\u0648\u0626\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0648\u0637\u0628\u0642\u0629 \u0627\u0644\u062a\u062c\u0645\u064a\u0639 \u0627\u0644\u062d\u0631\u0627\u0631\u064a \u0627\u0644\u062b\u0627\u0644\u062b\u0629 \u062d\u064a\u062b \u0639\u0646\u062f \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0644\u0648\u062d \u0627\u0644\u0641\u0648\u0644\u0637\u0627\u0636\u0648\u0626\u064a\u060c \u062a\u0639\u0645\u0644 \u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0641\u0648\u0644\u0637\u0627\u0636\u0648\u0626\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0639\u0646\u062f \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0623\u0642\u0644 \u0645\u0646 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0637\u0628\u0642\u0629 \u0627\u0644\u062a\u062c\u0645\u064a\u0639 \u0627\u0644\u062d\u0631\u0627\u0631\u064a. \u0634\u0643\u0644 4.",
+    "applications_claiming_priority": [
+        {
+            "application_number": "US16/928,732",
+            "representative_publication": "US11588436B2",
+            "primary_language": "en",
+            "priority_date": "2020-07-14",
+            "filing_date": "2020-07-14",
+            "title": "Hybrid renewable system for heat and power production"
+        },
+        {
+            "application_number": "PCT/US2021/041526",
+            "representative_publication": "WO2022015787A1",
+            "primary_language": "en",
+            "priority_date": "2020-07-14",
+            "filing_date": "2021-07-14",
+            "title": "Hybrid renewable system for heat and power production"
+        }
+    ],
+    "family_id": "77300991",
+    "patent_citations": {
+        "family_to_family": [
+            {
+                "publication_number": "US4106952A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "1977-09-09",
+                "publication_date": "1978-08-15",
+                "assignee_original": "Kravitz Jerome H",
+                "title": "Solar panel unit",
+                "patent_id": "patent/US4106952A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4106952A%2Fen"
+            },
+            {
+                "publication_number": "DE19809883A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "1998-03-07",
+                "publication_date": "1999-09-09",
+                "assignee_original": "Solarwerk Gmbh",
+                "title": "Hybrid solar collection panel producing both heat and electricity",
+                "patent_id": "patent/DE19809883A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19809883A1%2Fen"
+            },
+            {
+                "publication_number": "US10303035B2",
+                "primary_language": "en",
+                "priority_date": "2009-12-22",
+                "publication_date": "2019-05-28",
+                "assignee_original": "View, Inc.",
+                "title": "Self-contained EC IGU",
+                "patent_id": "patent/US10303035B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10303035B2%2Fen"
+            },
+            {
+                "publication_number": "GB201001156D0",
+                "primary_language": "en",
+                "priority_date": "2010-01-25",
+                "publication_date": "2010-03-10",
+                "assignee_original": "Cambridge Entpr Ltd",
+                "title": "Photovoltaic cell",
+                "patent_id": "patent/GB201001156D0/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201001156D0%2Fen"
+            },
+            {
+                "publication_number": "CN102736342A",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2011-04-01",
+                "publication_date": "2012-10-17",
+                "assignee_original": "\u4ecb\u9762\u5149\u7535\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "title": "Electrochromic device",
+                "patent_id": "patent/CN102736342A/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102736342A%2Fen"
+            },
+            {
+                "publication_number": "WO2013043948A2",
+                "primary_language": "en",
+                "priority_date": "2011-09-21",
+                "publication_date": "2013-03-28",
+                "assignee_original": "King Saud University",
+                "title": "Solid particle receiver with porous structure for flow regulation and enhancement of heat transfer",
+                "patent_id": "patent/WO2013043948A2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013043948A2%2Fen"
+            },
+            {
+                "publication_number": "US10043932B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2013-08-22",
+                "publication_date": "2018-08-07",
+                "assignee_original": "Massachusetts Institute Of Technology",
+                "title": "Internally-heated thermal and externally-cool photovoltaic cascade solar energy system for full solar spectrum utilization",
+                "patent_id": "patent/US10043932B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10043932B2%2Fen"
+            },
+            {
+                "publication_number": "WO2015041991A1",
+                "primary_language": "en",
+                "priority_date": "2013-09-19",
+                "publication_date": "2015-03-26",
+                "assignee_original": "Polyceed Inc",
+                "title": "Chromatic systems",
+                "patent_id": "patent/WO2015041991A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015041991A1%2Fen"
+            },
+            {
+                "publication_number": "WO2016019327A1",
+                "primary_language": "en",
+                "priority_date": "2014-08-01",
+                "publication_date": "2016-02-04",
+                "assignee_original": "The Penn State Research Foundation",
+                "title": "Transparent conducting films including complex oxides",
+                "patent_id": "patent/WO2016019327A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016019327A1%2Fen"
+            },
+            {
+                "publication_number": "DE202015008287U1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2015-11-30",
+                "publication_date": "2015-12-18",
+                "assignee_original": "Solarworld Innovations Gmbh",
+                "title": "solar module",
+                "patent_id": "patent/DE202015008287U1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202015008287U1%2Fen"
+            },
+            {
+                "publication_number": "DE102016203813A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2016-03-09",
+                "publication_date": "2017-09-14",
+                "assignee_original": "Fraunhofer-Gesellschaft zur F\u00f6rderung der angewandten Forschung e.V.",
+                "title": "Photovoltaic module and container equipped therewith",
+                "patent_id": "patent/DE102016203813A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102016203813A1%2Fen"
+            },
+            {
+                "publication_number": "WO2018009645A1",
+                "primary_language": "en",
+                "priority_date": "2016-07-06",
+                "publication_date": "2018-01-11",
+                "assignee_original": "Polyceed Inc.",
+                "title": "Methods and structures of electrochromic devices",
+                "patent_id": "patent/WO2018009645A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018009645A1%2Fen"
+            },
+            {
+                "publication_number": "KR102509995B1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2017-02-10",
+                "publication_date": "2023-03-13",
+                "assignee_original": "\uc820\ud14d\uc2a4 \ucf54\ud3ec\ub808\uc774\uc158",
+                "title": "Transparent photovoltaic coatings for electrochromic devices",
+                "patent_id": "patent/KR102509995B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102509995B1%2Fen"
+            },
+            {
+                "publication_number": "ES2713096A1",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2017-11-16",
+                "publication_date": "2019-05-17",
+                "assignee_original": "Univ Sevilla",
+                "title": "THERMAL SOLAR INSTALLATION (Machine-translation by Google Translate, not legally binding)",
+                "patent_id": "patent/ES2713096A1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2713096A1%2Fen"
+            },
+            {
+                "publication_number": "CN208563680U",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2018-04-04",
+                "publication_date": "2019-03-01",
+                "assignee_original": "\u56db\u5ddd\u805a\u521b\u77f3\u58a8\u70ef\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                "title": "A kind of architecture-integral photovoltaic and photothermal alliance component based on the design of indoor and outdoor perception",
+                "patent_id": "patent/CN208563680U/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN208563680U%2Fen"
+            },
+            {
+                "publication_number": "CN209544369U",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2019-04-18",
+                "publication_date": "2019-10-25",
+                "assignee_original": "\u6d59\u6c5f\u6b63\u6cf0\u65b0\u80fd\u6e90\u5f00\u53d1\u6709\u9650\u516c\u53f8",
+                "title": "A kind of solar double-glass assemblies",
+                "patent_id": "patent/CN209544369U/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN209544369U%2Fen"
+            },
+            {
+                "publication_number": "CN111006400B",
+                "primary_language": "en",
+                "priority_date": "2019-12-18",
+                "publication_date": "2021-03-23",
+                "assignee_original": "\u5434\u7965\u521d",
+                "title": "Solar photovoltaic photo-thermal collector",
+                "patent_id": "patent/CN111006400B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111006400B%2Fen"
+            }
+        ]
+    },
+    "cited_by": {
+        "family_to_family": [
+            {
+                "publication_number": "US12031751B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2020-12-24",
+                "publication_date": "2024-07-09",
+                "assignee_original": "Purdue Research Foundation",
+                "title": "Energy efficient and adaptive space cooling and heating system",
+                "patent_id": "patent/US12031751B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12031751B2%2Fen"
+            },
+            {
+                "publication_number": "US12428743B2",
+                "primary_language": "en",
+                "priority_date": "2021-02-02",
+                "publication_date": "2025-09-30",
+                "assignee_original": "Saudi Arabian Oil Company",
+                "title": "Porous copper/copper oxide xerogel catalyst",
+                "patent_id": "patent/US12428743B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12428743B2%2Fen"
+            },
+            {
+                "publication_number": "CN112985145B",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2021-02-07",
+                "publication_date": "2022-03-11",
+                "assignee_original": "\u767e\u7a70\u65b0\u80fd\u6e90\u79d1\u6280(\u6df1\u5733)\u6709\u9650\u516c\u53f8",
+                "title": "Energy storage device and method based on carbon dioxide gas-liquid phase change",
+                "patent_id": "patent/CN112985145B/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112985145B%2Fen"
+            },
+            {
+                "publication_number": "US11617981B1",
+                "primary_language": "en",
+                "priority_date": "2022-01-03",
+                "publication_date": "2023-04-04",
+                "assignee_original": "Saudi Arabian Oil Company",
+                "title": "Method for capturing CO2 with assisted vapor compression",
+                "patent_id": "patent/US11617981B1/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11617981B1%2Fen"
+            },
+            {
+                "publication_number": "US11939965B2",
+                "primary_language": "en",
+                "examiner_cited": "*",
+                "priority_date": "2022-04-01",
+                "publication_date": "2024-03-26",
+                "assignee_original": "Saudi Arabian Oil Company",
+                "title": "Use of concentrated solar to enhance the power generation of the turboexpander in gas wells",
+                "patent_id": "patent/US11939965B2/en",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11939965B2%2Fen"
+            }
+        ]
+    },
+    "similar_documents": [
+        {
+            "is_scholar": true,
+            "scholar_id": "1266972774377942895",
+            "scholar_authors": "Brahim et al.",
+            "publication_date": "2017",
+            "title": "Economical assessment and applications of photovoltaic/thermal hybrid solar technology: A review",
+            "patent_id": "scholar/1266972774377942895",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1266972774377942895"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "14961471605381558979",
+            "scholar_authors": "Elavarasan et al.",
+            "publication_date": "2022",
+            "title": "Pathways toward high-efficiency solar photovoltaic thermal management for electrical, thermal and combined generation applications: A critical review",
+            "patent_id": "scholar/14961471605381558979",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14961471605381558979"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "SA523442135B1",
+            "primary_language": "en",
+            "publication_date": "2024-01-03",
+            "title": "Hybrid Renewable System for Heat and Power Production",
+            "patent_id": "patent/SA523442135B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSA523442135B1%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "1560339349819593469",
+            "scholar_authors": "Hussain et al.",
+            "publication_date": "2013",
+            "title": "Design development and performance evaluation of photovoltaic/thermal (PV/T) air base solar collector",
+            "patent_id": "scholar/1560339349819593469",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1560339349819593469"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN101740650B",
+            "primary_language": "en",
+            "publication_date": "2012-09-19",
+            "title": "Whole plate tube plate photovoltaic hot water module",
+            "patent_id": "patent/CN101740650B/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101740650B%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN104598716B",
+            "primary_language": "en",
+            "publication_date": "2017-05-17",
+            "title": "Concentrating photovoltaic/thermal hot water solar energy system design method based on model analysis",
+            "patent_id": "patent/CN104598716B/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104598716B%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN204329345U",
+            "primary_language": "en",
+            "publication_date": "2015-05-13",
+            "title": "A kind of composite boiler system of providing multiple forms of energy to complement each other",
+            "patent_id": "patent/CN204329345U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204329345U%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "5777410502196257711",
+            "scholar_authors": "Lu et al.",
+            "publication_date": "2023",
+            "title": "Performance analysis of a novel PV/T hybrid system based on spectral beam splitting",
+            "patent_id": "scholar/5777410502196257711",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5777410502196257711"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "KR100945164B1",
+            "primary_language": "en",
+            "publication_date": "2010-03-08",
+            "title": "Multilevel solar cell array structure for solar concentration light",
+            "patent_id": "patent/KR100945164B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100945164B1%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN102270689A",
+            "primary_language": "en",
+            "publication_date": "2011-12-07",
+            "title": "Electrothermal cogeneration cell panel for photovoltaic curtain walls",
+            "patent_id": "patent/CN102270689A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102270689A%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "13404645609501782508",
+            "scholar_authors": "Sultan et al.",
+            "publication_date": "2014",
+            "title": "Performance analysis of the photovoltaic/thermal collector (PV/T) system for different Malaysian climatic conditions",
+            "patent_id": "scholar/13404645609501782508",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13404645609501782508"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "WO2022040159A3",
+            "primary_language": "en",
+            "publication_date": "2022-03-31",
+            "title": "Thermal power conversion systems including heat pipes and photovoltaic cells",
+            "patent_id": "patent/WO2022040159A3/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022040159A3%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "11574196148268168106",
+            "scholar_authors": "Huang et al.",
+            "publication_date": "2022",
+            "title": "Potential analysis of a system hybridizing dye-sensitized solar cell with thermally regenerative electrochemical devices",
+            "patent_id": "scholar/11574196148268168106",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11574196148268168106"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "1703564073568312946",
+            "scholar_authors": "Gao et al.",
+            "publication_date": "2023",
+            "title": "Model construction and electro-thermal-hydrogen co-generation performance for multi-section compound parabolic concentrator",
+            "patent_id": "scholar/1703564073568312946",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1703564073568312946"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "11319208345600460625",
+            "scholar_authors": "Ren et al.",
+            "publication_date": "2024",
+            "title": "Theoretical study of a novel intermediate temperature photovoltaic/thermal system equipped with heat pipe and evacuated tube",
+            "patent_id": "scholar/11319208345600460625",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11319208345600460625"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN205864323U",
+            "primary_language": "en",
+            "publication_date": "2017-01-04",
+            "title": "A kind of photovoltaic and photothermal comprehensive utilization TRT",
+            "patent_id": "patent/CN205864323U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205864323U%2Fen"
+        },
+        {
+            "is_scholar": true,
+            "scholar_id": "4827581496215178984",
+            "scholar_authors": "Tabook et al.",
+            "publication_date": "2014",
+            "title": "A review paper on PV/T combination flat plate collector system and design",
+            "patent_id": "scholar/4827581496215178984",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4827581496215178984"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN202039513U",
+            "primary_language": "en",
+            "publication_date": "2011-11-16",
+            "title": "Temperature-regulating solar photovoltaic tile",
+            "patent_id": "patent/CN202039513U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202039513U%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN206946016U",
+            "primary_language": "en",
+            "publication_date": "2018-01-30",
+            "title": "A kind of glass light guide plate and apply its lamination big-power solar cell panel",
+            "patent_id": "patent/CN206946016U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206946016U%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN207395213U",
+            "primary_language": "en",
+            "publication_date": "2018-05-22",
+            "title": "A kind of cavity type thermal-collecting tube of cogeneration",
+            "patent_id": "patent/CN207395213U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207395213U%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN214371011U",
+            "primary_language": "en",
+            "publication_date": "2021-10-08",
+            "title": "Hollow solar glass curtain wall",
+            "patent_id": "patent/CN214371011U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN214371011U%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN219499932U",
+            "primary_language": "en",
+            "publication_date": "2023-08-08",
+            "title": "Electric heating laminated assembly",
+            "patent_id": "patent/CN219499932U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN219499932U%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN221488222U",
+            "primary_language": "en",
+            "publication_date": "2024-08-06",
+            "title": "Laminated photovoltaic module",
+            "patent_id": "patent/CN221488222U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN221488222U%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "CN104682829A",
+            "primary_language": "en",
+            "publication_date": "2015-06-03",
+            "title": "Solar comprehensive power generation device",
+            "patent_id": "patent/CN104682829A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104682829A%2Fen"
+        },
+        {
+            "is_patent": true,
+            "publication_number": "KR102366724B1",
+            "primary_language": "en",
+            "publication_date": "2022-02-23",
+            "title": "Solar-photovoltaic/solar-thermal hybrid generating apparatus",
+            "patent_id": "patent/KR102366724B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102366724B1%2Fen"
+        }
+    ],
+    "concepts": {
+        "match": [
+            {
+                "id": "238000010521",
+                "name": "absorption reaction",
+                "domain": "Methods",
+                "similarity": 0.0,
+                "sections": [
+                    "abstract"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000004888",
+                "name": "barrier function",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "abstract"
+                ],
+                "count": 1
+            },
+            {
+                "id": "230000005611",
+                "name": "electricity",
+                "domain": "Effects",
+                "similarity": 0.0,
+                "sections": [
+                    "abstract"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000012774",
+                "name": "insulation material",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "abstract"
+                ],
+                "count": 1
+            },
+            {
+                "id": "239000000463",
+                "name": "material",
+                "domain": "Substances",
+                "similarity": 0.0,
+                "sections": [
+                    "abstract"
+                ],
+                "count": 1
+            }
+        ]
+    }
+}

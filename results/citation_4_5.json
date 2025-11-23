@@ -1,0 +1,2281 @@
+{
+  "search_metadata": {
+    "id": "691889c4ad9ecf0d893d6347",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d408d09b9244c93e/691889c4ad9ecf0d893d6347.json",
+    "created_at": "2025-11-15 14:10:12 UTC",
+    "processed_at": "2025-11-15 14:10:12 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20150096299A1/en",
+    "raw_html_file": "https://serpapi.com/searches/d408d09b9244c93e/691889c4ad9ecf0d893d6347.html",
+    "total_time_taken": 0.77
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20150096299A1/en"
+  },
+  "title": "Solar-nuclear hybrid power plant",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/c5/5a/83/3438f73bb48970/US20150096299A1.pdf",
+  "publication_number": "US20150096299A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "downstream",
+    "loop",
+    "steam generator",
+    "nuclear",
+    "plant"
+  ],
+  "prior_art_date": "2013-10-07",
+  "application_number": "US14/047,697",
+  "inventors": [
+    {
+      "name": "Bartev B SAKADJIAN",
+      "link": "https://patents.google.com/?inventor=Bartev+B+SAKADJIAN",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Bartev+B+SAKADJIAN"
+    },
+    {
+      "name": "William A ARNOLD",
+      "link": "https://patents.google.com/?inventor=William+A+ARNOLD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=William+A+ARNOLD"
+    },
+    {
+      "name": "David L KRAFT",
+      "link": "https://patents.google.com/?inventor=David+L+KRAFT",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=David+L+KRAFT"
+    }
+  ],
+  "assignees": [
+    "Babcock and Wilcox Co"
+  ],
+  "priority_date": "2013-10-07",
+  "filing_date": "2013-10-07",
+  "publication_date": "2015-04-09",
+  "worldwide_applications": {
+    "2013": [
+      {
+        "filing_date": "2013-10-07",
+        "country_code": "US",
+        "application_number": "US14/047,697",
+        "document_id": "patent/US9200622B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013-10-07",
+      "title": "Application filed by Babcock and Wilcox Power Generation Group Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Babcock and Wilcox Power Generation Group Inc"
+    },
+    {
+      "date": "2013-10-07",
+      "title": "Priority to US14/047,697",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US9200622B2/en"
+    },
+    {
+      "date": "2013-12-18",
+      "title": "Assigned to BABCOCK & WILCOX POWER GENERATION GROUP, INC.",
+      "type": "reassignment",
+      "assignee_search": "BABCOCK & WILCOX POWER GENERATION GROUP, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ARNOLD, WILLIAM A, KRAFT, DAVID L, SAKADJIAN, BARTEV B"
+      ]
+    },
+    {
+      "date": "2014-05-22",
+      "title": "Assigned to BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "description": [
+        "SECURITY INTEREST",
+        "Assignors: BABCOCK & WILCOX POWER GENERATION GROUP, INC."
+      ]
+    },
+    {
+      "date": "2015-04-09",
+      "title": "Publication of US20150096299A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20150096299A1/en"
+    },
+    {
+      "date": "2015-07-28",
+      "title": "Assigned to BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BABCOCK & WILCOX POWER GENERATION GROUP, INC. (TO BE RENAMED THE BABCOCK AND WILCOX COMPANY)"
+      ]
+    },
+    {
+      "date": "2015-09-24",
+      "title": "Assigned to THE BABCOCK & WILCOX COMPANY",
+      "type": "reassignment",
+      "assignee_search": "THE BABCOCK & WILCOX COMPANY",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BABCOCK & WILCOX POWER GENERATION GROUP, INC."
+      ]
+    },
+    {
+      "date": "2015-12-01",
+      "title": "Publication of US9200622B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US9200622B2/en"
+    },
+    {
+      "date": "2015-12-01",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2017-08-10",
+      "title": "Assigned to LIGHTSHIP CAPITAL LLC",
+      "type": "reassignment",
+      "assignee_search": "LIGHTSHIP CAPITAL LLC",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BABCOCK & WILCOX MEGTEC, LLC, BABCOCK & WILCOX TECHNOLOGY, LLC, BABCOCK & WILCOX UNIVERSAL, INC., DIAMOND POWER INTERNATIONAL, LLC, MEGTEC TURBOSONIC TECHNOLOGIES, INC., THE BABCOCK & WILCOX COMPANY"
+      ]
+    },
+    {
+      "date": "2017-10-27",
+      "title": "Assigned to BANK OF AMERICA, N.A.",
+      "type": "reassignment",
+      "assignee_search": "BANK OF AMERICA, N.A.",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BABCOCK & WILCOX MEGTEC, LLC, DIAMOND POWER INTERNATIONAL, LLC, MEGTEC TURBOSONIC TECHNOLOGIES, INC, THE BABCOCK & WILCOX COMPANY"
+      ]
+    },
+    {
+      "date": "2018-05-17",
+      "title": "Assigned to THE BABCOCK & WILCOX COMPANY, BABCOCK & WILCOX TECHNOLOGY, LLC, BABCOCK & WILCOX UNIVERSAL, INC., DIAMOND POWER INTERNATIONAL, LLC, BABCOCK & WILCOX MEGTEC, LLC, MEGTEC TURBOSONIC TECHNOLOGIES, INC., BABCOCK & WILCOX ENTERPRISES, INC.",
+      "type": "reassignment",
+      "assignee_search": "THE BABCOCK & WILCOX COMPANY",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: LIGHTSHIP CAPITAL LLC"
+      ]
+    },
+    {
+      "date": "2021-07-01",
+      "title": "Assigned to DIAMOND POWER INTERNATIONAL, LLC (F/K/A DIAMOND POWER INTERNATIONAL, INC.), MEGTEC TURBOSONIC TECHNOLOGIES, INC., SOFCO-EFS HOLDINGS LLC, Babcock & Wilcox SPIG, Inc., THE BABCOCK & WILCOX COMPANY (F/K/A BABCOCK & WILCOX POWER GENERATION GROUP, INC.), BABCOCK & WILCOX TECHNOLOGY, LLC (F/K/A MCDERMOTT TECHNOLOGY, INC.), BABCOCK & WILCOX MEGTEC, LLC",
+      "type": "reassignment",
+      "assignee_search": "DIAMOND POWER INTERNATIONAL, LLC (F/K/A DIAMOND POWER INTERNATIONAL, INC.)",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BANK OF AMERICA, N.A."
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2034-11-04",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20150096299.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/14047697"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20150096299"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2015096299A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/14047697/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20150096299"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/7d/15/db/b0c50cfe6f2094/US20150096299A1-20150409-D00000.png",
+    "https://patentimages.storage.googleapis.com/21/e3/39/9e77144376af68/US20150096299A1-20150409-D00001.png",
+    "https://patentimages.storage.googleapis.com/05/50/16/0535d435cc762c/US20150096299A1-20150409-D00002.png",
+    "https://patentimages.storage.googleapis.com/2a/bc/98/ac295a4d6514ae/US20150096299A1-20150409-D00003.png"
+  ],
+  "classifications": [
+    {
+      "code": "F03G6/003",
+      "description": "Devices for producing mechanical power from solar energy having a Rankine cycle",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F01K13/00",
+      "description": "General layout or general methods of operation of complete plants",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/005",
+      "description": "Binary cycle plants where the fluid from the solar collector heats the working fluid via a heat exchanger",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F22B1/006",
+      "description": "Methods of steam generation characterised by form of heating method using solar heat",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F22B1/023",
+      "description": "Methods of steam generation characterised by form of heating method by exploitation of the heat content of hot heat carriers with heating tubes for nuclear reactors, as long as they are not classified according to a specified heating fluid, in another group",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F22B1/123",
+      "description": "Steam generators downstream of a nuclear boiling water reactor",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F22B1/162",
+      "description": "Methods of steam generation characterised by form of heating method by exploitation of the heat content of hot heat carriers the heat carrier being hot liquid or hot vapour, e.g. waste liquid, waste vapour in combination with a nuclear installation",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G21D1/00",
+      "description": "Details of nuclear power plant",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G21D1/006",
+      "description": "Details of nuclear power plant primary side of steam generators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G21D5/00",
+      "description": "Arrangements of reactor and engine in which reactor-produced heat is converted into mechanical energy",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G21D5/10",
+      "description": "Liquid working medium partially heated by reactor and vaporised by heat source external to the core, e.g. with oil heating",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G21D5/16",
+      "description": "Liquid working medium vaporised by reactor coolant superheated by separate heat source",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/46",
+      "description": "Conversion of thermal power into mechanical power, e.g. Rankine, Stirling or solar thermal engines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E30/00",
+      "description": "Energy generation of nuclear origin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E30/30",
+      "description": "Nuclear fission reactors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02P80/15",
+      "description": "On-site combined power, heat or cool generation or distribution, e.g. combined heat and power [CHP] supply",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A solar-nuclear hybrid plant includes a nuclear energy loop, a solar energy loop, and an electrical generation loop. The three loops are closed loops. The nuclear energy loop transfers energy to the electrical generation loop through a steam generator. The solar energy loop transfers energy to either the nuclear energy loop and/or the electrical generation loop through one or more heat exchangers in the appropriate loop. This cogeneration plant has higher efficiency compared to a nuclear power plant alone.",
+  "description_link": "https://serpapi.com/searches/691889c4ad9ecf0d893d6347/google_patents_details/description.html",
+  "claims": [
+    "1. A solar-nuclear hybrid electrical generation plant, comprising:\na nuclear energy loop including a primary fluid that runs through a nuclear reactor and a steam generator downstream of the nuclear reactor; a solar energy loop including heat transfer fluid that runs through a solar receiver and at least one heat exchanger downstream of the solar receiver; and an electrical generation loop including a secondary fluid that runs through the steam generator of the nuclear energy loop and at least one turbine downstream of the steam generator; wherein at least one of the primary fluid and the secondary fluid also runs through the at least one heat exchanger in the solar energy loop, so that heat energy is transferred from the heat transfer fluid to the primary fluid or the secondary fluid.",
+    "2. The plant of claim 1, wherein the at least one heat exchanger comprises a superheater located in the electrical generation loop between the steam generator and the at least one turbine.",
+    "3. The plant of claim 2, wherein the at least one turbine includes a high-pressure turbine and a low-pressure turbine downstream of the high-pressure turbine, and wherein the at least one heat exchanger further comprises a reheater located in the electrical generation loop between the high-pressure turbine and the low-pressure turbine.",
+    "4. The plant of claim 3, wherein the at least one heat exchanger further comprises a primary water heater located in the nuclear energy loop between the nuclear reactor and the steam generator, wherein the primary water heater is downstream of the reheater in the solar energy loop.",
+    "5. The plant of claim 4, wherein the at least one heat exchanger further comprises a preheater located in the electrical generation loop upstream of the steam generator and downstream of the at least one turbine, wherein the preheater is downstream of the primary water heater in the solar energy loop.",
+    "6. The plant of claim 3, wherein the at least one heat exchanger further comprises a preheater located in the electrical generation loop upstream of the steam generator and downstream of the at least one turbine, wherein the preheater is downstream of the reheater in the solar energy loop.",
+    "7. The plant of claim 2, wherein the at least one heat exchanger further comprises a primary water heater located in the nuclear energy loop between the nuclear reactor and the steam generator, wherein the primary water heater is downstream of the superheater in the solar energy loop.",
+    "8. The plant of claim 7, wherein the at least one heat exchanger further comprises a preheater located in the electrical generation loop upstream of the steam generator and downstream of the at least one turbine, wherein the preheater is downstream of the primary water heater in the solar energy loop.",
+    "9. The plant of claim 2, wherein the at least one heat exchanger further comprises a preheater located in the electrical generation loop upstream of the steam generator and downstream of the at least one turbine, wherein the preheater is downstream of the superheater in the solar energy loop.",
+    "10. The plant of claim 1, wherein the at least one turbine includes a high-pressure turbine and a low-pressure turbine downstream of the high-pressure turbine, and wherein the at least one heat exchanger comprises a reheater located in the electrical generation loop between the high-pressure turbine and the low-pressure turbine.",
+    "11. The plant of claim 10, wherein the at least one heat exchanger further comprises a primary water heater located in the nuclear energy loop between the nuclear reactor and the steam generator, wherein the primary water heater is downstream of the reheater in the solar energy loop.",
+    "12. The plant of claim 11, wherein the at least one heat exchanger further comprises a preheater located in the electrical generation loop upstream of the steam generator and downstream of the at least one turbine, wherein the preheater is downstream of the primary water heater in the solar energy loop.",
+    "13. The plant of claim 10, wherein the at least one heat exchanger further comprises a preheater located in the electrical generation loop upstream of the steam generator and downstream of the at least one turbine, wherein the preheater is downstream of the reheater in the solar energy loop.",
+    "14. The plant of claim 1, wherein the at least one heat exchanger comprises a primary water heater located in the nuclear energy loop between the nuclear reactor and the steam generator.",
+    "15. The plant of claim 14, wherein the at least one heat exchanger further comprises a preheater located in the electrical generation loop upstream of the steam generator and downstream of the at least one turbine, wherein the preheater is downstream of the primary water heater in the solar energy loop.",
+    "16. The plant of claim 1, wherein the at least one heat exchanger comprises a preheater located in the electrical generation loop upstream of the steam generator and downstream of the at least one turbine.",
+    "17. The plant of claim 1, wherein the solar energy loop further comprises a cold tank and a hot tank, the hot tank being located downstream of the solar receiver and upstream of the at least one heat exchanger, and the cold tank being located upstream of the solar receiver and downstream of the at least one heat exchanger.",
+    "18. The plant of claim 17, wherein cooler fluid from the cold tank can be mixed with hotter fluid from the hot tank prior to sending the heat transfer fluid through the at least one heat exchanger.",
+    "19. A solar-nuclear hybrid electrical generation plant, comprising:\na nuclear energy loop including a primary fluid that runs through a nuclear reactor and a steam generator downstream of the nuclear reactor; a solar energy loop including heat transfer fluid that runs through a solar receiver and two or more heat exchangers downstream of the solar receiver; and an electrical generation loop including a secondary fluid that runs through the steam generator of the nuclear energy loop, a higher pressure turbine stage downstream of the steam generator, and a lower pressure turbine stage downstream of the higher pressure turbine stage; wherein solar energy is transferred from the heat transfer fluid to the primary fluid or the secondary fluid through the two or more heat exchangers; and wherein the two or more heat exchangers are selected from the group consisting of: (A) a superheater located in the electrical generation loop downstream of the steam generator and upstream of the higher pressure turbine stage; (B) a reheater located in the electrical generation loop between the higher pressure turbine stage and the lower pressure turbine stage; (C) a primary water heater located in the nuclear energy loop downstream of the nuclear reactor and upstream of the steam generator; and (D) a preheater located in the electrical generation loop upstream of the steam generator and downstream of the lower pressure turbine stage."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US14/047,697",
+      "representative_publication": "US9200622B2",
+      "primary_language": "en",
+      "priority_date": "2013-10-07",
+      "filing_date": "2013-10-07",
+      "title": "Solar-nuclear hybrid power plant"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US14/047,697",
+      "representative_publication": "US9200622B2",
+      "primary_language": "en",
+      "priority_date": "2013-10-07",
+      "filing_date": "2013-10-07",
+      "title": "Solar-nuclear hybrid power plant"
+    }
+  ],
+  "family_id": "52775832",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3171791A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1959-12-23",
+        "publication_date": "1965-03-02",
+        "assignee_original": "Babcock & Wilcox Ltd",
+        "title": "Nuclear reactor vapour generating plant",
+        "patent_id": "patent/US3171791A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3171791A%2Fen"
+      },
+      {
+        "publication_number": "US3344776A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1964-10-14",
+        "publication_date": "1967-10-03",
+        "assignee_original": "Rosenblads Patenter Ab",
+        "title": "Steam generator arrangement heated by reactor water from a nuclear reactor",
+        "patent_id": "patent/US3344776A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3344776A%2Fen"
+      },
+      {
+        "publication_number": "US3575002A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1965-06-15",
+        "publication_date": "1971-04-13",
+        "assignee_original": "Combustion Eigineering Inc",
+        "title": "Combination fossil fuel and superheated steam nuclear power plant",
+        "patent_id": "patent/US3575002A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3575002A%2Fen"
+      },
+      {
+        "publication_number": "US3943719A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1975-02-26",
+        "publication_date": "1976-03-16",
+        "assignee_original": "Terry Lynn E",
+        "title": "Hydride-dehydride power system and methods",
+        "patent_id": "patent/US3943719A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3943719A%2Fen"
+      },
+      {
+        "publication_number": "US4093514A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1975-06-13",
+        "publication_date": "1978-06-06",
+        "assignee_original": "Vladimir Grigorievich Iljunin",
+        "title": "Method of bringing nuclear power plant to fractional electrical load conditions",
+        "patent_id": "patent/US4093514A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4093514A%2Fen"
+      },
+      {
+        "publication_number": "US4438630A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-09-07",
+        "publication_date": "1984-03-27",
+        "assignee_original": "Combustion Engineering, Inc.",
+        "title": "Method and system for maintaining operating temperatures in a molten salt co-generating unit",
+        "patent_id": "patent/US4438630A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4438630A%2Fen"
+      },
+      {
+        "publication_number": "US4471618A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-07-16",
+        "publication_date": "1984-09-18",
+        "assignee_original": "Kraftwerk Union Aktiengesellschaft",
+        "title": "Nuclear power plant and method for the operation of such a power plant",
+        "patent_id": "patent/US4471618A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4471618A%2Fen"
+      },
+      {
+        "publication_number": "US4530814A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-05-13",
+        "publication_date": "1985-07-23",
+        "assignee_original": "The Babcock & Wilcox Company",
+        "title": "Apparatus for superheating steam",
+        "patent_id": "patent/US4530814A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4530814A%2Fen"
+      },
+      {
+        "publication_number": "US5361377A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-04-14",
+        "publication_date": "1994-11-01",
+        "assignee_original": "Miller John A",
+        "title": "Apparatus and method for producing electrical power",
+        "patent_id": "patent/US5361377A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5361377A%2Fen"
+      },
+      {
+        "publication_number": "US5526386A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-25",
+        "publication_date": "1996-06-11",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Method and apparatus for steam mixing a nuclear fueled electricity generation system",
+        "patent_id": "patent/US5526386A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5526386A%2Fen"
+      },
+      {
+        "publication_number": "US20050279095A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-21",
+        "publication_date": "2005-12-22",
+        "assignee_original": "Goldman Arnold J",
+        "title": "Hybrid generation with alternative fuel sources",
+        "patent_id": "patent/US20050279095A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050279095A1%2Fen"
+      },
+      {
+        "publication_number": "US20060266039A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-27",
+        "publication_date": "2006-11-30",
+        "assignee_original": "Skowronski Mark J",
+        "title": "Method and system integrating solar heat into a regenerative rankine steam cycle",
+        "patent_id": "patent/US20060266039A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060266039A1%2Fen"
+      },
+      {
+        "publication_number": "US20110302921A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-23",
+        "publication_date": "2011-12-15",
+        "assignee_original": "Hybrid Power Llc",
+        "title": "Hybrid Power Plant",
+        "patent_id": "patent/US20110302921A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110302921A1%2Fen"
+      },
+      {
+        "publication_number": "US20120102950A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-02",
+        "publication_date": "2012-05-03",
+        "assignee_original": "Alliance For Sustainable Energy, Llc.",
+        "title": "Solar thermal power plant with the integration of an aeroderivative turbine",
+        "patent_id": "patent/US20120102950A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120102950A1%2Fen"
+      },
+      {
+        "publication_number": "WO2013132132A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-09",
+        "publication_date": "2013-09-12",
+        "assignee_original": "Sener, Ingenieria Y Sistemas, S.A.",
+        "title": "Method for improving thermal-cycle yield in nuclear power plants",
+        "patent_id": "patent/WO2013132132A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013132132A2%2Fen"
+      },
+      {
+        "publication_number": "US20140182576A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-27",
+        "publication_date": "2014-07-03",
+        "assignee_original": "Yehuda Harats",
+        "title": "System for Improved Hybridization of Thermal Solar and Biomass and Fossil Fuel Based Energy Systems",
+        "patent_id": "patent/US20140182576A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140182576A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7614233B2",
+        "primary_language": "en",
+        "priority_date": "2005-01-28",
+        "publication_date": "2009-11-10",
+        "assignee_original": "Hitachi-Ge Nuclear Energy, Ltd.",
+        "title": "Operation method of nuclear power plant",
+        "patent_id": "patent/US7614233B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7614233B2%2Fen"
+      },
+      {
+        "publication_number": "AU2007348242A1",
+        "primary_language": "en",
+        "priority_date": "2007-03-08",
+        "publication_date": "2008-09-12",
+        "assignee_original": "Research Foundation Of The City University Of New York",
+        "title": "Solar power plant and method and/or system of storing energy in a concentrated solar power plant",
+        "patent_id": "patent/AU2007348242A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2007348242A1%2Fen"
+      },
+      {
+        "publication_number": "DE102008051384B3",
+        "primary_language": "en",
+        "priority_date": "2008-10-11",
+        "publication_date": "2010-02-11",
+        "assignee_original": "Technische Universität Dresden",
+        "title": "Solar-hybrid operated gas and steam power plant has solar plant, gas turbine system and steam turbine system, where heat-carrier circuit is provided for transmitting solar heat",
+        "patent_id": "patent/DE102008051384B3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102008051384B3%2Fen"
+      },
+      {
+        "publication_number": "US8971477B2",
+        "primary_language": "en",
+        "priority_date": "2009-06-10",
+        "publication_date": "2015-03-03",
+        "assignee_original": "Babcock & Wilcox Mpower, Inc.",
+        "title": "Integral helical coil pressurized water nuclear reactor",
+        "patent_id": "patent/US8971477B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8971477B2%2Fen"
+      },
+      {
+        "publication_number": "US20110100005A1",
+        "primary_language": "en",
+        "priority_date": "2009-10-30",
+        "publication_date": "2011-05-05",
+        "assignee_original": "Sampson Glenn A",
+        "title": "Water reclamation in a concentrated solar power-enabled power plant",
+        "patent_id": "patent/US20110100005A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110100005A1%2Fen"
+      },
+      {
+        "publication_number": "WO2011068880A2",
+        "primary_language": "en",
+        "priority_date": "2009-12-01",
+        "publication_date": "2011-06-09",
+        "assignee_original": "Areva Solar, Inc.",
+        "title": "Utilizing steam and/or hot water generated using solar energy",
+        "patent_id": "patent/WO2011068880A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011068880A2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20170067667A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-08",
+        "publication_date": "2017-03-09",
+        "assignee_original": "Peter B. Choi",
+        "title": "Sensible Thermal Energy Storage (STES) Systems",
+        "patent_id": "patent/US20170067667A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170067667A1%2Fen"
+      },
+      {
+        "publication_number": "CN108678915A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-29",
+        "publication_date": "2018-10-19",
+        "assignee_original": "中国电力工程顾问集团西北电力设计院有限公司",
+        "title": "A kind of nuclear energy and tower type solar photo-thermal combined generating system and electricity-generating method",
+        "patent_id": "patent/CN108678915A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108678915A%2Fen"
+      },
+      {
+        "publication_number": "CN108799026A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-29",
+        "publication_date": "2018-11-13",
+        "assignee_original": "中国电力工程顾问集团西北电力设计院有限公司",
+        "title": "A kind of nuclear energy and Fresnel solar energy optical-thermal combined generating system and electricity-generating method",
+        "patent_id": "patent/CN108799026A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108799026A%2Fen"
+      },
+      {
+        "publication_number": "CN108799025A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-29",
+        "publication_date": "2018-11-13",
+        "assignee_original": "中国电力工程顾问集团西北电力设计院有限公司",
+        "title": "A kind of nuclear energy and groove type solar photo-thermal combined generating system and electricity-generating method",
+        "patent_id": "patent/CN108799025A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108799025A%2Fen"
+      },
+      {
+        "publication_number": "FR3086010A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-18",
+        "publication_date": "2020-03-20",
+        "assignee_original": "Commissariat A L'energie Atomique Et Aux Energies Alternatives",
+        "title": "SYSTEM AND METHOD FOR PRODUCING ELECTRICAL ENERGY BY THERMODYNAMIC CYCLE FROM SOLAR ENERGY AND NUCLEAR ENERGY",
+        "patent_id": "patent/FR3086010A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3086010A1%2Fen"
+      },
+      {
+        "publication_number": "US20210287818A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-02",
+        "publication_date": "2021-09-16",
+        "assignee_original": "Xi'an Jiaotong University",
+        "title": "Wind-solar reactor system and working method thereof",
+        "patent_id": "patent/US20210287818A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210287818A1%2Fen"
+      },
+      {
+        "publication_number": "CN113931709A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-26",
+        "publication_date": "2022-01-14",
+        "assignee_original": "国核电力规划设计研究院有限公司",
+        "title": "Solar-assisted pressurized water reactor nuclear power station secondary circuit power generation system and method",
+        "patent_id": "patent/CN113931709A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113931709A%2Fen"
+      },
+      {
+        "publication_number": "KR20220153421A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-11",
+        "publication_date": "2022-11-18",
+        "assignee_original": "한국원자력연구원",
+        "title": "Power generating installation of passive system for reactor",
+        "patent_id": "patent/KR20220153421A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220153421A%2Fen"
+      },
+      {
+        "publication_number": "US20220392657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-03",
+        "publication_date": "2022-12-08",
+        "assignee_original": "Battelle Energy Alliance, Llc",
+        "title": "Energy production devices and associated components, and related heat transfer devices and methods",
+        "patent_id": "patent/US20220392657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220392657A1%2Fen"
+      },
+      {
+        "publication_number": "US20250012260A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-07",
+        "publication_date": "2025-01-09",
+        "assignee_original": "Holtec International",
+        "title": "Hybrid power generation system",
+        "patent_id": "patent/US20250012260A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250012260A1%2Fen"
+      },
+      {
+        "publication_number": "US12429172B2",
+        "primary_language": "en",
+        "priority_date": "2023-02-27",
+        "publication_date": "2025-09-30",
+        "assignee_original": "Peter B. Choi",
+        "title": "LNG cold energy recovery by using ice slurry",
+        "patent_id": "patent/US12429172B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12429172B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US9945585B2",
+        "primary_language": "en",
+        "priority_date": "2014-05-15",
+        "publication_date": "2018-04-17",
+        "assignee_original": "Alliance For Sustainable Energy, Llc",
+        "title": "Systems and methods for direct thermal receivers using near blackbody configurations",
+        "patent_id": "patent/US9945585B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9945585B2%2Fen"
+      },
+      {
+        "publication_number": "US10422552B2",
+        "primary_language": "en",
+        "priority_date": "2015-12-24",
+        "publication_date": "2019-09-24",
+        "assignee_original": "Alliance For Sustainable Energy, Llc",
+        "title": "Receivers for concentrating solar power generation",
+        "patent_id": "patent/US10422552B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10422552B2%2Fen"
+      },
+      {
+        "publication_number": "WO2024187279A1",
+        "primary_language": "en",
+        "priority_date": "2023-03-13",
+        "publication_date": "2024-09-19",
+        "assignee_original": "McConnell Moran Technologies Corporation",
+        "title": "A system and method of producing electricity",
+        "patent_id": "patent/WO2024187279A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024187279A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US9200622B2",
+      "primary_language": "en",
+      "publication_date": "2015-12-01",
+      "title": "Solar-nuclear hybrid power plant",
+      "patent_id": "patent/US9200622B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9200622B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111306001B",
+      "primary_language": "en",
+      "publication_date": "2023-09-08",
+      "title": "Wind-solar reactor system and working method thereof",
+      "patent_id": "patent/CN111306001B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111306001B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3469670085038463229",
+      "scholar_authors": "Naserbegi et al.",
+      "publication_date": "2018",
+      "title": "A novel exergy optimization of Bushehr nuclear power plant by gravitational search algorithm (GSA)",
+      "patent_id": "scholar/3469670085038463229",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3469670085038463229"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1227051888675903163",
+      "scholar_authors": "Dong et al.",
+      "publication_date": "2019",
+      "title": "Dynamical modeling and simulation analysis of a nuclear desalination plant based on the MED-TVC process",
+      "patent_id": "scholar/1227051888675903163",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1227051888675903163"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5645283B2",
+      "primary_language": "en",
+      "publication_date": "2014-12-24",
+      "title": "High temperature gas cooled reactor steam power generation system and method",
+      "patent_id": "patent/JP5645283B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5645283B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1042323328869743998",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2021",
+      "title": "Design and economic analysis of a novel hybrid nuclear-solar complementary power system for power generation and desalination",
+      "patent_id": "scholar/1042323328869743998",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1042323328869743998"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9879839527376583608",
+      "scholar_authors": "Terzi et al.",
+      "publication_date": "2016",
+      "title": "Energy and exergy analyses of a VVER type nuclear power plant",
+      "patent_id": "scholar/9879839527376583608",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9879839527376583608"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9065073258148823400",
+      "scholar_authors": "Yang et al.",
+      "publication_date": "2008",
+      "title": "Research on solar aided coal-fired power generation system and performance analysis",
+      "patent_id": "scholar/9065073258148823400",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9065073258148823400"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16003205651380339833",
+      "scholar_authors": "Popov et al.",
+      "publication_date": "2017",
+      "title": "Innovative configuration of a hybrid nuclear-solar tower power plant",
+      "patent_id": "scholar/16003205651380339833",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16003205651380339833"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17302030963703054900",
+      "scholar_authors": "Yan et al.",
+      "publication_date": "2013",
+      "title": "Study of an incrementally loaded multistage flash desalination system for optimum use of sensible waste heat from nuclear power plant",
+      "patent_id": "scholar/17302030963703054900",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17302030963703054900"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102606340B",
+      "primary_language": "en",
+      "publication_date": "2015-04-15",
+      "title": "Power generation system for driving Stirling engine by using heat of spent fuel",
+      "patent_id": "patent/CN102606340B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102606340B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5361587754737742675",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2020",
+      "title": "Design and exergy evaluation of a novel parabolic trough solar-nuclear combined system",
+      "patent_id": "scholar/5361587754737742675",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5361587754737742675"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5148827158645581215",
+      "scholar_authors": "Popov et al.",
+      "publication_date": "2018",
+      "title": "Innovative configuration of a hybrid nuclear-parabolic trough solar power plant",
+      "patent_id": "scholar/5148827158645581215",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5148827158645581215"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11798108496628591120",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2019",
+      "title": "Thermodynamic and economic analyses of a parabolic trough concentrating solar power plant under off-design conditions",
+      "patent_id": "scholar/11798108496628591120",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11798108496628591120"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9352823577377946214",
+      "scholar_authors": "Qiu et al.",
+      "publication_date": "2023",
+      "title": "System design and operation optimization on the hybrid system with nuclear power, concentrated solar, and thermal storage",
+      "patent_id": "scholar/9352823577377946214",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9352823577377946214"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109026240B",
+      "primary_language": "en",
+      "publication_date": "2021-03-16",
+      "title": "Power generation system and method based on nuclear energy and solar energy coupling",
+      "patent_id": "patent/CN109026240B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109026240B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12838809599907178416",
+      "scholar_authors": "Donatini et al.",
+      "publication_date": "2007",
+      "title": "High efficency integration of thermodynamic solar plant with natural gas combined cycle",
+      "patent_id": "scholar/12838809599907178416",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12838809599907178416"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10770184334775581272",
+      "scholar_authors": "Laskowski et al.",
+      "publication_date": "2022",
+      "title": "Selected aspects of the choice of live steam pressure in PWR nuclear power plant",
+      "patent_id": "scholar/10770184334775581272",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10770184334775581272"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5434890271874357422",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2023",
+      "title": "Technical-economic and environmental protection performance evaluation of a novel hybrid solar-nuclear thermally coupled power and desalination plant",
+      "patent_id": "scholar/5434890271874357422",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5434890271874357422"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105679384A",
+      "primary_language": "en",
+      "publication_date": "2016-06-15",
+      "title": "Small nuclear power plant",
+      "patent_id": "patent/CN105679384A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105679384A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2318959253621237373",
+      "scholar_authors": "Dostal et al.",
+      "publication_date": "2004",
+      "title": "Medium-power lead-alloy fast reactor balance-of-plant options",
+      "patent_id": "scholar/2318959253621237373",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2318959253621237373"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16431605694849910345",
+      "scholar_authors": "Jiang et al.",
+      "publication_date": "2023",
+      "title": "Modeling and Simulation of Secondary Loop Systems of a Pressurized Water Reactor Based on the 3KEYMASTER Platform",
+      "patent_id": "scholar/16431605694849910345",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16431605694849910345"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9915769972835179406",
+      "scholar_authors": "Camporeale et al.",
+      "publication_date": "2011",
+      "title": "Repowering of a Rankine cycle power plant by means of concentrating solar collectors",
+      "patent_id": "scholar/9915769972835179406",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9915769972835179406"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17829603468803209947",
+      "scholar_authors": "Lin et al.",
+      "publication_date": "2024",
+      "title": "Dynamic Modeling of Modular High Temperature Gas-Cooled Reactor Cogeneration System and Control Design Under the Condition of Turbine Isolation",
+      "patent_id": "scholar/17829603468803209947",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17829603468803209947"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN219262468U",
+      "primary_language": "en",
+      "publication_date": "2023-06-27",
+      "title": "Nuclear motor unit decoupling and supplying system based on chemical chain energy storage",
+      "patent_id": "patent/CN219262468U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN219262468U%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2013-12-18",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BABCOCK & WILCOX POWER GENERATION GROUP, INC., OHI"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SAKADJIAN, BARTEV B;ARNOLD, WILLIAM A;KRAFT, DAVID L;REEL/FRAME:031808/0423"
+        },
+        {
+          "label": "Effective date",
+          "value": "20131007"
+        }
+      ]
+    },
+    {
+      "date": "2014-05-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT, CA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:BABCOCK & WILCOX POWER GENERATION GROUP, INC.;REEL/FRAME:032983/0122"
+        },
+        {
+          "label": "Effective date",
+          "value": "20140407"
+        }
+      ]
+    },
+    {
+      "date": "2015-07-28",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT, CA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:BABCOCK & WILCOX POWER GENERATION GROUP, INC. (TO BE RENAMED THE BABCOCK AND WILCOX COMPANY);REEL/FRAME:036201/0598"
+        },
+        {
+          "label": "Effective date",
+          "value": "20150630"
+        }
+      ]
+    },
+    {
+      "date": "2015-09-24",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "THE BABCOCK & WILCOX COMPANY, OHIO"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:BABCOCK & WILCOX POWER GENERATION GROUP, INC.;REEL/FRAME:036675/0434"
+        },
+        {
+          "label": "Effective date",
+          "value": "20150630"
+        }
+      ]
+    },
+    {
+      "date": "2015-11-11",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-10",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "LIGHTSHIP CAPITAL LLC, NEW YORK"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNORS:THE BABCOCK & WILCOX COMPANY;DIAMOND POWER INTERNATIONAL, LLC;BABCOCK & WILCOX MEGTEC, LLC;AND OTHERS;REEL/FRAME:043515/0001"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170809"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNORS:THE BABCOCK & WILCOX COMPANY;DIAMOND POWER INTERNATIONAL, LLC;MEGTEC TURBOSONIC TECHNOLOGIES, INC;AND OTHERS;REEL/FRAME:043970/0519"
+        },
+        {
+          "label": "Effective date",
+          "value": "20171023"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MEGTEC TURBOSONIC TECHNOLOGIES, INC., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:LIGHTSHIP CAPITAL LLC;REEL/FRAME:046182/0829"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180504"
+        },
+        {
+          "label": "Owner name",
+          "value": "MEGTEC TURBOSONIC TECHNOLOGIES, INC., NORTH CAROLI"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:LIGHTSHIP CAPITAL LLC;REEL/FRAME:046182/0829"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180504"
+        },
+        {
+          "label": "Owner name",
+          "value": "THE BABCOCK & WILCOX COMPANY, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:LIGHTSHIP CAPITAL LLC;REEL/FRAME:046182/0829"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180504"
+        },
+        {
+          "label": "Owner name",
+          "value": "BABCOCK & WILCOX UNIVERSAL, INC., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:LIGHTSHIP CAPITAL LLC;REEL/FRAME:046182/0829"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180504"
+        },
+        {
+          "label": "Owner name",
+          "value": "BABCOCK & WILCOX TECHNOLOGY, LLC, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:LIGHTSHIP CAPITAL LLC;REEL/FRAME:046182/0829"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180504"
+        },
+        {
+          "label": "Owner name",
+          "value": "DIAMOND POWER INTERNATIONAL, LLC, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:LIGHTSHIP CAPITAL LLC;REEL/FRAME:046182/0829"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180504"
+        },
+        {
+          "label": "Owner name",
+          "value": "BABCOCK & WILCOX ENTERPRISES, INC., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:LIGHTSHIP CAPITAL LLC;REEL/FRAME:046182/0829"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180504"
+        },
+        {
+          "label": "Owner name",
+          "value": "BABCOCK & WILCOX MEGTEC, LLC, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:LIGHTSHIP CAPITAL LLC;REEL/FRAME:046182/0829"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180504"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-22",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-06",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-06",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-28",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20191201"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-01",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BABCOCK & WILCOX MEGTEC, LLC, WISCONSIN"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:BANK OF AMERICA, N.A.;REEL/FRAME:057337/0823"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210630"
+        },
+        {
+          "label": "Owner name",
+          "value": "SOFCO-EFS HOLDINGS LLC, OHIO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:BANK OF AMERICA, N.A.;REEL/FRAME:057337/0823"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210630"
+        },
+        {
+          "label": "Owner name",
+          "value": "BABCOCK & WILCOX TECHNOLOGY, LLC (F/K/A MCDERMOTT TECHNOLOGY, INC.), OHIO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:BANK OF AMERICA, N.A.;REEL/FRAME:057337/0823"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210630"
+        },
+        {
+          "label": "Owner name",
+          "value": "BABCOCK & WILCOX SPIG, INC., OHIO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:BANK OF AMERICA, N.A.;REEL/FRAME:057337/0823"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210630"
+        },
+        {
+          "label": "Owner name",
+          "value": "THE BABCOCK & WILCOX COMPANY (F/K/A BABCOCK & WILCOX POWER GENERATION GROUP, INC.), OHIO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:BANK OF AMERICA, N.A.;REEL/FRAME:057337/0823"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210630"
+        },
+        {
+          "label": "Owner name",
+          "value": "MEGTEC TURBOSONIC TECHNOLOGIES, INC., ONTARIO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:BANK OF AMERICA, N.A.;REEL/FRAME:057337/0823"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210630"
+        },
+        {
+          "label": "Owner name",
+          "value": "DIAMOND POWER INTERNATIONAL, LLC (F/K/A DIAMOND POWER INTERNATIONAL, INC.), OHIO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:BANK OF AMERICA, N.A.;REEL/FRAME:057337/0823"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210630"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 63
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "238000011144",
+        "name": "upstream manufacturing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "239000013529",
+        "name": "heat transfer fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 45
+      },
+      {
+        "id": "241000196324",
+        "name": "Embryophyta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000002826",
+        "name": "coolant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000004088",
+        "name": "simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000000712",
+        "name": "assembly",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000000429",
+        "name": "assembly",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000007791",
+        "name": "liquid phase",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "FGIUAXJPYTZDNR-UHFFFAOYSA-N",
+        "name": "potassium nitrate",
+        "domain": "Chemical class",
+        "smiles": "[K+].[O-][N+]([O-])=O",
+        "inchi_key": "FGIUAXJPYTZDNR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920006395",
+        "name": "saturated elastomer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
+        "name": "sodium nitrate",
+        "domain": "Chemical class",
+        "smiles": "[Na+].[O-][N+]([O-])=O",
+        "inchi_key": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "name": "Ilexoside XXIX",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]",
+        "inchi_key": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000183024",
+        "name": "Populus tremula",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004075",
+        "name": "alteration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001816",
+        "name": "cooling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001351",
+        "name": "cycling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001338",
+        "name": "liquidmetal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012071",
+        "name": "phase",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011734",
+        "name": "sodium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052708",
+        "name": "sodium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011358",
+        "name": "absorbing material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "name": "aluminium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[O-2].[O-2].[O-2].[Al+3].[Al+3]",
+        "inchi_key": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "name": "atomic oxygen",
+        "domain": "Chemical compound",
+        "smiles": "[O]",
+        "inchi_key": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052797",
+        "name": "bismuth",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009835",
+        "name": "boiling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003841",
+        "name": "chloride salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002485",
+        "name": "combustion reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005094",
+        "name": "computer simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004673",
+        "name": "fluoride salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002803",
+        "name": "fossil fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007710",
+        "name": "freezing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008014",
+        "name": "freezing",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010354",
+        "name": "integration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000691",
+        "name": "measurement method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003607",
+        "name": "modifier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002826",
+        "name": "nitrites",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003758",
+        "name": "nuclear fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052760",
+        "name": "oxygen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001301",
+        "name": "oxygen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012782",
+        "name": "phase change material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BITYAPCSNKJESK-UHFFFAOYSA-N",
+        "name": "potassiosodium",
+        "domain": "Chemical compound",
+        "smiles": "[Na].[K]",
+        "inchi_key": "BITYAPCSNKJESK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010333",
+        "name": "potassium nitrate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004323",
+        "name": "potassium nitrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005086",
+        "name": "pumping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002285",
+        "name": "radioactive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004576",
+        "name": "sand",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "HBMJWWWQQXIZIP-UHFFFAOYSA-N",
+        "name": "silicon carbide",
+        "domain": "Chemical compound",
+        "smiles": "[Si+]#[C-]",
+        "inchi_key": "HBMJWWWQQXIZIP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010271",
+        "name": "silicon carbide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010344",
+        "name": "sodium nitrate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004317",
+        "name": "sodium nitrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001052",
+        "name": "transient effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002699",
+        "name": "waste material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

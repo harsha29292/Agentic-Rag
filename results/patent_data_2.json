@@ -1,0 +1,770 @@
+{
+  "search_metadata": {
+    "id": "691889b25e3494e358d17388",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7a69363b622db634/691889b25e3494e358d17388.json",
+    "created_at": "2025-11-15 14:09:54 UTC",
+    "processed_at": "2025-11-15 14:09:54 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN203617315U/en",
+    "raw_html_file": "https://serpapi.com/searches/7a69363b622db634/691889b25e3494e358d17388.html",
+    "total_time_taken": 1.59
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN203617315U/en"
+  },
+  "title": "Phase-change energy-storage thermoregulation photovoltaic power generation system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/a5/da/79/26a7c33d46918d/CN203617315U.pdf",
+  "publication_number": "CN203617315U",
+  "country": "China",
+  "prior_art_keywords": [
+    "phase",
+    "solar battery",
+    "battery array",
+    "material plate",
+    "power generation"
+  ],
+  "prior_art_date": "2013-11-26",
+  "application_number": "CN201320759344.1U",
+  "inventors": [
+    {
+      "name": "陈继努",
+      "link": "https://patents.google.com/?inventor=%E9%99%88%E7%BB%A7%E5%8A%AA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%99%88%E7%BB%A7%E5%8A%AA"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2013-11-26",
+  "filing_date": "2013-11-26",
+  "publication_date": "2014-05-28",
+  "worldwide_applications": {
+    "2013": [
+      {
+        "filing_date": "2013-11-26",
+        "country_code": "CN",
+        "application_number": "CN201320759344.1U",
+        "document_id": "patent/CN203617315U/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013-11-26",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2013-11-26",
+      "title": "Priority to CN201320759344.1U",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN203617315U/en"
+    },
+    {
+      "date": "2014-05-28",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2014-05-28",
+      "title": "Publication of CN203617315U",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN203617315U/en"
+    },
+    {
+      "date": "2023-11-26",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=203617315U&KC=U&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201320759344/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN203617315U"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/48/b3/94/cdda15248d7e3d/HDA0000423131830000011.png"
+  ],
+  "classifications": [
+    {
+      "code": "Y02E10/50",
+      "description": "Photovoltaic [PV] energy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The utility model discloses a phase-change energy-storage thermoregulation photovoltaic power generation system, and relates to a solar power generation system. The phase-change energy-storage thermoregulation photovoltaic power generation system includes a solar battery array and a phase-change energy-storage thermoregulation material plate; a current output end of the solar battery array is connected to a current input end of a charging and discharging controller; a current output end of the charging and discharging controller is connected to a current input end of an inverter; the solar battery array is arranged on the phase-change energy-storage thermoregulation material plate; a shady surface of the solar battery array is attached to the phase-change energy-storage thermoregulation material plate. According to the utility model, the photoelectric conversion efficiency of the solar battery array can be greatly improved; the performance of the photovoltaic power generation system is more stable; the influence of the sunlight changes on the power generation of solar panel is reduced; and the low cost and large-scale implementation are facilitated.",
+  "description_link": "https://serpapi.com/searches/691889b25e3494e358d17388/google_patents_details/description.html",
+  "claims": [
+    "1. a phase-changing energy-storing temperature adjustment photovoltaic generating system, comprise solar battery array (1), the current output terminal of described solar battery array (1) connects the current input terminal of charging-discharging controller (2), the current output terminal of described charging-discharging controller (2) connects the current input terminal of inverter (3), it is characterized in that: also comprise phase-changing energy-storing thermal control material plate (4); It is upper that described solar battery array (1) is arranged on described phase-changing energy-storing thermal control material plate (4), the shady face of described solar battery array (1) and described phase-changing energy-storing thermal control material plate (4) laminating.",
+    "2. phase-changing energy-storing temperature adjustment photovoltaic generating system as claimed in claim 1, is characterized in that: the thickness of described phase-changing energy-storing thermal control material plate (4) is 0.5cm.",
+    "3. phase-changing energy-storing temperature adjustment photovoltaic generating system as claimed in claim 1, is characterized in that: described charging-discharging controller (2) is the two-way storage battery (5) that is connected with also."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201320759344.1U",
+      "representative_publication": "CN203617315U",
+      "primary_language": "en",
+      "priority_date": "2013-11-26",
+      "filing_date": "2013-11-26",
+      "title": "Phase-change energy-storage thermoregulation photovoltaic power generation system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201320759344.1U",
+      "representative_publication": "CN203617315U",
+      "primary_language": "en",
+      "priority_date": "2013-11-26",
+      "filing_date": "2013-11-26",
+      "title": "Phase-change energy-storage thermoregulation photovoltaic power generation system"
+    }
+  ],
+  "family_id": "50769939",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN106788235A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-02",
+        "publication_date": "2017-05-31",
+        "assignee_original": "西安建筑科技大学",
+        "title": "A kind of Mobile portable formula solar energy electric heater unit",
+        "patent_id": "patent/CN106788235A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106788235A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN202586481U",
+      "primary_language": "en",
+      "publication_date": "2012-12-05",
+      "title": "Micro electrical network intelligent balanced charging and power supply system",
+      "patent_id": "patent/CN202586481U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202586481U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102856969B",
+      "primary_language": "en",
+      "publication_date": "2015-08-05",
+      "title": "A kind of solar photovoltaic generation system",
+      "patent_id": "patent/CN102856969B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102856969B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102522767A",
+      "primary_language": "en",
+      "publication_date": "2012-06-27",
+      "title": "Schedulable-type photovoltaic energy storage grid-connected power generation system and operating method thereof",
+      "patent_id": "patent/CN102522767A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102522767A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN208386227U",
+      "primary_language": "en",
+      "publication_date": "2019-01-15",
+      "title": "Wind-light storage is provided multiple forms of energy to complement each other system",
+      "patent_id": "patent/CN208386227U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN208386227U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104242790A",
+      "primary_language": "en",
+      "publication_date": "2014-12-24",
+      "title": "Wind-solar hybrid power generation system",
+      "patent_id": "patent/CN104242790A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104242790A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203352265U",
+      "primary_language": "en",
+      "publication_date": "2013-12-18",
+      "title": "Wind-solar hybrid generating system",
+      "patent_id": "patent/CN203352265U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203352265U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103390903B",
+      "primary_language": "en",
+      "publication_date": "2015-09-09",
+      "title": "Novel wind-light storage intelligence combined generating system and control method thereof",
+      "patent_id": "patent/CN103390903B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103390903B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN205212526U",
+      "primary_language": "en",
+      "publication_date": "2016-05-04",
+      "title": "Electrical power generating system of long -term integration based on thin -film solar cell",
+      "patent_id": "patent/CN205212526U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205212526U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201860275U",
+      "primary_language": "en",
+      "publication_date": "2011-06-08",
+      "title": "Solar power supply device",
+      "patent_id": "patent/CN201860275U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201860275U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203481843U",
+      "primary_language": "en",
+      "publication_date": "2014-03-12",
+      "title": "Wind-light diesel-storage battery micro-grid power generation system",
+      "patent_id": "patent/CN203481843U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203481843U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201750160U",
+      "primary_language": "en",
+      "publication_date": "2011-02-16",
+      "title": "Solar powered grid-connected integrated device",
+      "patent_id": "patent/CN201750160U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201750160U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102522810B",
+      "primary_language": "en",
+      "publication_date": "2015-12-02",
+      "title": "Solar energy mains hybrid electric power supply control system",
+      "patent_id": "patent/CN102522810B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102522810B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107733065A",
+      "primary_language": "en",
+      "publication_date": "2018-02-23",
+      "title": "Photovoltaic power supply hybrid energy storage system under low-light condition and energy management method thereof",
+      "patent_id": "patent/CN107733065A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107733065A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201210624Y",
+      "primary_language": "en",
+      "publication_date": "2009-03-18",
+      "title": "Solar charging and discharging circuit device",
+      "patent_id": "patent/CN201210624Y/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201210624Y%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203261261U",
+      "primary_language": "en",
+      "publication_date": "2013-10-30",
+      "title": "Community intelligent power-using system",
+      "patent_id": "patent/CN203261261U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203261261U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203590124U",
+      "primary_language": "en",
+      "publication_date": "2014-05-07",
+      "title": "Off-grid photovoltaic power generation system",
+      "patent_id": "patent/CN203590124U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203590124U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204190669U",
+      "primary_language": "en",
+      "publication_date": "2015-03-04",
+      "title": "A kind of wind and solar hybrid generating system",
+      "patent_id": "patent/CN204190669U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204190669U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201771682U",
+      "primary_language": "en",
+      "publication_date": "2011-03-23",
+      "title": "Wind-solar hybrid power generation system",
+      "patent_id": "patent/CN201771682U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201771682U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203617315U",
+      "primary_language": "en",
+      "publication_date": "2014-05-28",
+      "title": "Phase-change energy-storage thermoregulation photovoltaic power generation system",
+      "patent_id": "patent/CN203617315U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203617315U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202616860U",
+      "primary_language": "en",
+      "publication_date": "2012-12-19",
+      "title": "Solar energy and mains supply complementation power supply control system",
+      "patent_id": "patent/CN202616860U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202616860U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207283237U",
+      "primary_language": "en",
+      "publication_date": "2018-04-27",
+      "title": "A kind of new energy open air charging pile",
+      "patent_id": "patent/CN207283237U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207283237U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202215434U",
+      "primary_language": "en",
+      "publication_date": "2012-05-09",
+      "title": "Novel garden wind/photovoltaic complementary power-supply system",
+      "patent_id": "patent/CN202215434U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202215434U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203774835U",
+      "primary_language": "en",
+      "publication_date": "2014-08-13",
+      "title": "Household-type micro grid system",
+      "patent_id": "patent/CN203774835U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203774835U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204836031U",
+      "primary_language": "en",
+      "publication_date": "2015-12-02",
+      "title": "Complemental domestic stand -by power supply of scene",
+      "patent_id": "patent/CN204836031U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204836031U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102969766B",
+      "primary_language": "en",
+      "publication_date": "2015-10-14",
+      "title": "A kind of wind and solar hybrid generating system",
+      "patent_id": "patent/CN102969766B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102969766B%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2014-05-28",
+      "code": "C14",
+      "title": "Grant of patent or utility model"
+    },
+    {
+      "date": "2014-05-28",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2018-01-12",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee",
+      "attributes": [
+        {
+          "label": "Granted publication date",
+          "value": "20140528"
+        },
+        {
+          "label": "Termination date",
+          "value": "20161126"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-12",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000028016",
+        "name": "temperature homeostasis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000010030",
+        "name": "laminating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "238000005286",
+        "name": "illumination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000005693",
+        "name": "optoelectronics",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004065",
+        "name": "semiconductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009825",
+        "name": "accumulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003912",
+        "name": "environmental pollution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004907",
+        "name": "flux",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005338",
+        "name": "heat storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002699",
+        "name": "waste material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

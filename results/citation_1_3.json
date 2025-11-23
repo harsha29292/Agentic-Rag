@@ -1,0 +1,1011 @@
+{
+  "search_metadata": {
+    "id": "691889b027133290032672fd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d5a08f62601c61c8/691889b027133290032672fd.json",
+    "created_at": "2025-11-15 14:09:52 UTC",
+    "processed_at": "2025-11-15 14:09:52 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN102780236A/en",
+    "raw_html_file": "https://serpapi.com/searches/d5a08f62601c61c8/691889b027133290032672fd.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN102780236A/en"
+  },
+  "title": "Active optimal control system of wind and light storage combined power generation system and method",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/ea/63/2e/b36c5f79f56177/CN102780236A.pdf",
+  "publication_number": "CN102780236A",
+  "country": "China",
+  "prior_art_keywords": [
+    "wind",
+    "station",
+    "power",
+    "control",
+    "power generation"
+  ],
+  "prior_art_date": "2012-08-11",
+  "application_number": "CN201210284353XA",
+  "inventors": [
+    {
+      "name": "戚永志",
+      "link": "https://patents.google.com/?inventor=%E6%88%9A%E6%B0%B8%E5%BF%97",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%88%9A%E6%B0%B8%E5%BF%97"
+    },
+    {
+      "name": "刘小好",
+      "link": "https://patents.google.com/?inventor=%E5%88%98%E5%B0%8F%E5%A5%BD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%88%98%E5%B0%8F%E5%A5%BD"
+    }
+  ],
+  "assignees": [
+    "Shandong University"
+  ],
+  "priority_date": "2012-08-11",
+  "filing_date": "2012-08-11",
+  "publication_date": "2012-11-14",
+  "worldwide_applications": {
+    "2012": [
+      {
+        "filing_date": "2012-08-11",
+        "country_code": "CN",
+        "application_number": "CN201210284353.XA",
+        "document_id": "patent/CN102780236B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-08-11",
+      "title": "Application filed by Shandong University",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Shandong University"
+    },
+    {
+      "date": "2012-08-11",
+      "title": "Priority to CN201210284353.XA",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN102780236B/en"
+    },
+    {
+      "date": "2012-11-14",
+      "title": "Publication of CN102780236A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN102780236A/en"
+    },
+    {
+      "date": "2014-05-21",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2014-05-21",
+      "title": "Publication of CN102780236B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN102780236B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2032-08-11",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=102780236A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201210284353/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN102780236A"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/6c/6a/ac/bcf6769dd762de/HDA00002000807200011.png",
+    "https://patentimages.storage.googleapis.com/79/8f/e5/098c7b53d387fa/HDA00002000807200012.png"
+  ],
+  "classifications": [
+    {
+      "code": "Y02B90/20",
+      "description": "Smart grids as enabling technology in buildings sector",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/56",
+      "description": "Power conversion systems, e.g. maximum power point trackers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E40/70",
+      "description": "Smart grids as climate change mitigation technology in the energy generation sector",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y04S10/123",
+      "description": "Monitoring or controlling equipment for energy generation units, e.g. distributed energy generation [DER] or load-side generation the energy generation units being or involving renewable energy sources",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y04S40/124",
+      "description": "Systems for electrical power generation, transmission, distribution or end-user application management characterised by the use of communication or information technologies, or communication or information technology specific aspects supporting them characterised by data transport means between the monitoring, controlling or managing units and monitored, controlled or operated electrical equipment using wired telecommunication networks or data transmission busses",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention discloses an active power optimization control system and method for a wind-solar-storage combined power generation system. The active power optimization control system includes a wind-wind-storage combined power generation system control center station and a wind-solar-storage combined power generation system control sub-station. According to the planned output curve, the method considers the relevant states of the wind farm, photovoltaic power station and energy storage power station, formulates the output plan of the wind farm, photovoltaic power station and energy storage power station, and sends the relevant plan to each control sub-station; each control sub-station According to the output plan issued by the control center station, the station formulates the corresponding control unit power generation plan, and the control unit finally executes the output plan issued by the control sub-station. Through this control process, it not only ensures that the wind-solar-storage combined power generation system can operate according to the planned output curve, but also reduces the charging and discharging times of the energy storage battery, and at the same time avoids the low-current charging and discharging of the energy storage power station, making full use of the energy storage power station. The short-term overload capability prolongs the service life of the energy storage power station.",
+  "abstract_original": "本发明公开了一种风光储联合发电系统的有功优化控制系统及方法，所述有功优化控制系统包含风光储联合发电系统控制中心站、风光储联合发电系统控制子站。所述方法根据计划出力曲线，考虑风电场、光伏电站和储能电站的相关状态，制定风电场、光伏电站和储能电站出力计划，并将相关计划下发到各控制子站；各控制子站根据控制中心站下发的出力计划，制定相应的控制单元发电计划，控制单元最终执行控制子站下发的出力计划。通过这种控制过程，既保证了风光储联合发电系统能够按照计划出力曲线运行，又能够减少储能电池的充放电次数，同时避免了储能电站的小电流充放电，充分利用了储能电站的短时过载能力，延长了储能电站的使用寿命。",
+  "description_link": "https://serpapi.com/searches/691889b027133290032672fd/google_patents_details/description.html",
+  "claims": [
+    "1. 一种风光储联合发电系统的有功优化控制系统，其特征是，包括风光储联合发电系统控制中心站、风光储联合发电系统控制子站和风光储联合发电系统控制单元；所述风光储联合发电系统控制子站包括风电场控制子站、光伏发电控制子站和储能控制子站；所述风光储联合发电系统控制单元包括若干个风机控制单元、若干个光伏阵列控制单元和若干个储能电池控制单元；所述风光储联合发电系统控制中心站分别与风电场控制子站、光伏发电控制子站、储能控制子站通过通信光纤实现相互通信；所述风电场控制子站与风机控制单元之间通过通信电缆实现相互通信；所述光伏发电控制子站和光伏阵列控制单元之间通过通信电缆实现相互通信；所述储能控制子站和储能电池控制单元之间通过通信电缆实现相互通信。\n\t\t1. An active power optimization control system of a wind-solar-storage combined power generation system, characterized in that it includes a wind-wind-storage combined power generation system control center station, a wind-wind-storage combined power generation system control sub-station and a wind-wind-storage combined power generation system control unit; The combined power generation system control sub-station includes wind farm control sub-station, photovoltaic power generation control sub-station and energy storage control sub-station; the wind-solar-storage combined power generation system control unit includes several wind turbine control units, several photovoltaic array control units and several An energy storage battery control unit; the wind farm control substation, the photovoltaic power generation control substation, and the energy storage control substation communicate with each other through communication optical fibers; the wind farm control substation communicates with the wind farm control substation The wind turbine control units communicate with each other through communication cables; the photovoltaic power generation control substation and the photovoltaic array control unit communicate with each other through communication cables; the energy storage control substation and the energy storage battery control unit communicate with each other The cables communicate with each other.",
+    "2.一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，风光储联合发电系统控制中心站根据计划出力曲线，考虑风电场、光伏电站和储能电站的相关状态，制定风电场、光伏电站和储能电站出力计划，并将相关计划下发到各控制子站；各控制子站根据控制中心站下发的出力计划，制定相应的控制单元发电计划，控制单元最终执行控制子站下发的出力计划。\n\t\t2. A control method applied to an active power optimization control system of a wind-solar-storage combined power generation system, characterized in that the control center station of the wind-solar-storage combined power generation system considers the relevant states of the wind farm, photovoltaic power station and energy storage power station according to the planned output curve , formulate output plans for wind farms, photovoltaic power stations, and energy storage power stations, and distribute the relevant plans to each control substation; each control substation formulates corresponding control unit power generation plans according to the output plan issued by the control center station, and the control unit Finally, implement the output plan issued by the control substation.",
+    "3.如权利要求2所述的一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，具体工作步骤如下：\n\t\t3. The control method applied in the active power optimization control system of a wind-solar-storage combined power generation system as claimed in claim 2, wherein the specific working steps are as follows:\n\t\t\n      \n      \n         步骤一：电网根据风功率和光功率预测并结合负荷情况制定出力计划曲线，将出力计划曲线下发给风光储联合发电系统控制中心站，风光储联合发电系统控制中心站根据风电场当前出力、光伏电站当前出力和储能电站当前出力以及风功率和光功率预测制定风电场、光伏电站和储能电站的出力计划；\n\t\tStep 1: The power grid formulates an output plan curve based on wind power and optical power forecasts combined with load conditions, and sends the output plan curve to the control center station of the wind-solar-storage combined power generation system. The current output of the power station and the current output of the energy storage power station, as well as the forecast of wind power and optical power, formulate the output plan of the wind farm, photovoltaic power station and energy storage power station;\n\t\t\n      \n      \n         步骤二：风电场控制子站和光伏发电控制子站接收风光储联合发电系统控制中心站下发的出力计划，并结合当前控制子站收集得到的有功出力情况，制定各子站的出力调整计划，结合子站内各机组单元的出力状态，制定各机组单元的出力调整计划，并下发给各机组单元；\n\t\tStep 2: The wind farm control sub-station and the photovoltaic power generation control sub-station receive the output plan issued by the wind-solar-storage combined power generation system control center station, and combine the active power output collected by the current control sub-station to formulate an output adjustment plan for each sub-station , based on the output status of each unit in the substation, formulate an output adjustment plan for each unit and issue it to each unit;\n\t\t\n      \n      \n         步骤三：储能控制子站根据风光储联合发电系统控制中心站下发的发电计划，调整电池组的发电出力大小，同时上传储能控制子站的功率偏差；\n\t\tStep 3: The energy storage control sub-station adjusts the power generation output of the battery pack according to the power generation plan issued by the wind-solar-storage combined power generation system control center station, and at the same time uploads the power deviation of the energy storage control sub-station;\n\t\t\n      \n      \n         步骤四：风机控制单元接收风电场控制子站下发的出力调整计划，对风机单元进行功率调整，计算功率调整偏差，若功率调整偏差不为零，则反馈调整偏差，将调整偏差上传给风电场控制子站；光伏阵列控制单元接收光伏发电控制子站下发的出力调整计划，对光伏阵列单元进行功率调整，计算功率调整偏差，并反馈调整偏差，将功率偏差上传给光伏发电控制子站；\n\t\tStep 4: The wind turbine control unit receives the output adjustment plan issued by the wind farm control substation, adjusts the power of the wind turbine unit, and calculates the power adjustment deviation. If the power adjustment deviation is not zero, it feeds back the adjustment deviation and uploads the adjustment deviation to the wind power plant. Field control sub-station; the photovoltaic array control unit receives the output adjustment plan issued by the photovoltaic power generation control sub-station, adjusts the power of the photovoltaic array unit, calculates the power adjustment deviation, and feeds back the adjustment deviation, and uploads the power deviation to the photovoltaic power generation control sub-station ;\n\t\t\n      \n      \n         步骤五：风电场控制子站根据风机控制单元上传的功率调整偏差，结合所有风机控制单元的出力计划执行情况，判断风机控制单元是否达到出力限值，最低限值为零，最高限值为风功率预测得到的最大值；若达到出力限值，将该风机剔除掉本轮次的出力调整计划；对于未达到限值的风机控制单元，形成出力调整计划，将出力计划下发到相应的风机，同时计算风电场控制子站的功率偏差，并上传到风光储联合发电系统控制中心站；光伏发电控制子站根据光伏阵列控制单元上传的功率调整偏差，结合所有光伏阵列控制单元的出力计划执行情况，判断光伏阵列控制单元是否达到出力限值，最低限值为零，最高限值为光功率预测得到的最大值，；若达到出力限值，该光伏阵列剔除掉本轮次的出力调整计划；对于未达到限值的光伏阵列控制单元，形成出力调整计划，将出力计划下发到相应的光伏阵列，同时计算光伏发电控制子站的功率偏差，并上传到风光储联合发电系统控制中心站；\n\t\tStep 5: The wind farm control substation judges whether the wind turbine control unit has reached the output limit according to the power adjustment deviation uploaded by the wind turbine control unit and combined with the execution of the output plan of all wind turbine control units. The minimum limit is zero, and the maximum limit is wind power. The maximum value obtained by power prediction; if the output limit is reached, the fan will be removed from the output adjustment plan of this round; for the fan control unit that does not reach the limit, an output adjustment plan will be formed, and the output plan will be issued to the corresponding fan At the same time, calculate the power deviation of the wind farm control sub-station and upload it to the control center station of the wind-solar-storage combined power generation system; the photovoltaic power generation control sub-station adjusts the deviation according to the power uploaded by the photovoltaic array control unit, combined with the output plan of all photovoltaic array control units. If the PV array control unit reaches the output limit value, the minimum limit value is zero, and the maximum limit value is the maximum value obtained from the optical power prediction; if the output limit value is reached, the PV array will eliminate the output adjustment plan of this round ;For the photovoltaic array control unit that has not reached the limit, form an output adjustment plan, send the output plan to the corresponding photovoltaic array, and calculate the power deviation of the photovoltaic power generation control sub-station, and upload it to the control center station of the wind-solar-storage combined power generation system ;\n\t\t\n      \n      \n         步骤六：风光储联合发电系统控制中心站根据风电场控制子站、光伏发电控制子站和储能控制子站上传的功率调整偏差形成新的发电出力计划，并下发给控制子站；在此过程中，风电场和光伏电站运行到限值，最小限值为零，最大限值为风功率和光功率预测得到的最大值，或是功率调整偏差为零，则本次调整结束。\n\t\tStep 6: The control center station of wind-solar-storage combined power generation system forms a new power generation output plan according to the power adjustment deviation uploaded by the wind farm control sub-station, photovoltaic power generation control sub-station and energy storage control sub-station, and sends it to the control sub-station; During this process, if the wind farm and photovoltaic power station run to the limit, the minimum limit is zero, and the maximum limit is the maximum value obtained from the wind power and optical power prediction, or the power adjustment deviation is zero, then this adjustment ends.",
+    "4. 如权利要求3所述的一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，所述步骤一中的风光储联合发电系统控制中心站接收对电网控制指令，实现风功率和光功率预测，监控整个风光储联合发电系统的状态，制定并下发风电场、光伏电站和储能电站的发电计划，接收风电场和光伏电站的升出力和降出力计划申请，并自动处理升出力和降出力申请。\n\t\t4. The control method applied to the active power optimization control system of a wind-solar-storage combined power generation system as claimed in claim 3, wherein the control center station of the wind-solar-storage combined power generation system in the step 1 receives the control command for the power grid , realize wind power and optical power prediction, monitor the status of the entire wind-solar-storage combined power generation system, formulate and issue power generation plans for wind farms, photovoltaic power stations, and energy storage power stations, and receive applications for raising and lowering output plans for wind farms and photovoltaic power stations. And automatically handle the application of lifting output and lowering output.",
+    "5. 如权利要求3所述的一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，所述步骤二中的风电场控制子站主要实现风场风速、气压、风向气象数据的收集，并实时采集风场内各风机的电压、电流、有功功率、无功功率、频率、桨距角、风轮转速以及发电机转速信息；计算当前和未来一段时间的风电场升出力和降出力潜力，制定风电场升出力和降出力计划；向风光储联合发电系统控制中心站提交升出力和降出力申请，根据风光储联合发电系统控制中心站批准的升出力和降出力申请制定每台风机的出力调整计划，并将风机的出力调整计划下发给每台风机。\n\t\t5. The control method applied in the active power optimization control system of a wind-solar-storage combined power generation system as claimed in claim 3, wherein the wind farm control sub-station in the step 2 mainly realizes wind speed, air pressure, The collection of wind direction and meteorological data, and real-time collection of voltage, current, active power, reactive power, frequency, pitch angle, wind rotor speed and generator speed information of each fan in the wind field; calculation of the current and future wind farm Raise and drop potential, formulate wind farm raise and drop plans; submit applications for lift and drop to the control center station of the wind-solar-storage combined power generation system, according to the lift-off and drop approved by the wind-storage combined power generation system control center station Apply to formulate the output adjustment plan of each fan, and issue the output adjustment plan of the fan to each fan.",
+    "6. 如权利要求3所述的一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，所述步骤二中的光伏发电控制子站主要实现环境温度、辐照度和气象条件的收集，并实时采集光伏阵列电压、电流、有功功率、无功功率和逆变器控制角度信息；计算当前和未来一段时间的光伏阵列的升出力和降出力潜力，制定光伏电站的升出力和降出力计划；向风光储联合发电系统控制中心站提交升出力和降出力申请，根据风光储联合发电系统控制中心站批准的升出力和降出力申请制定光伏阵列的出力调整计划，并将光伏阵列的出力调整计划下发给各光伏阵列。\n\t\t6. The control method applied in the active power optimization control system of a wind-solar-storage combined power generation system as claimed in claim 3, wherein the photovoltaic power generation control sub-station in the step 2 mainly realizes ambient temperature, irradiance and meteorological conditions, and real-time collection of photovoltaic array voltage, current, active power, reactive power and inverter control angle information; calculate the current and future period of time the photovoltaic array's power output and power reduction potential, formulate the photovoltaic power station Raise and drop plan; submit the application for raising and lowering power to the control center station of the wind-solar-storage combined power generation system, and formulate the output adjustment plan of the photovoltaic array according to the application for raising and lowering the output approved by the wind-solar-storage combined power generation system control center station, and Issue the output adjustment plan of the photovoltaic array to each photovoltaic array.",
+    "7. 如权利要求3所述的一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，所述步骤三中的储能控制子站主要是收集各电池组的电压、电流、荷电状态信息，接受风光储联合发电系统控制中心站的调度指令，调整其出力变化，制定各电池组的发电计划，协调电池组的充放电次数和充放电功率。\n\t\t7. The control method applied to the active power optimization control system of a wind-solar-storage combined power generation system as claimed in claim 3, wherein the energy storage control sub-station in the step 3 mainly collects the voltage of each battery pack , current, and state of charge information, accept dispatching instructions from the control center station of the wind-solar-storage combined power generation system, adjust its output changes, formulate power generation plans for each battery pack, and coordinate the charging and discharging times and charging and discharging power of the battery packs.",
+    "8. 如权利要求3所述的一一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，所述步骤四中的风机控制单元根据风机上的风速仪测量当前的风速、风向信息，测量风机本身的电压、电流、有功功率、无功功率、频率、桨距角、风轮转速和发电机转速信息，并将测得的数据上传到风电场控制子站，同时接收风电场控制子站的出力调整计划，调整风机自身的出力大小。\n\t\t8. The control method applied to the active power optimization control system of a wind-solar-storage combined power generation system as claimed in claim 3, wherein the wind turbine control unit in step 4 measures the current Wind speed and wind direction information, measure the voltage, current, active power, reactive power, frequency, pitch angle, wind rotor speed and generator speed information of the wind turbine itself, and upload the measured data to the wind farm control substation, at the same time Receive the output adjustment plan of the wind farm control substation, and adjust the output of the wind turbine itself.",
+    "9. 如权利要求3所述的一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，所述步骤四中的光伏阵列控制单元主要实现测量其所在处的温度、辐照度信息，测量光伏阵列的电压、电流、有功功率、无功功率以及变流器控制角信息，同时将这些数据上传给光伏发电控制子站，并接收光伏发电控制子站的出力调整计划，调整光伏阵列的出力大小。\n\t\t9. The control method applied to the active power optimization control system of a wind-solar-storage combined power generation system as claimed in claim 3, wherein the photovoltaic array control unit in the step 4 mainly realizes the measurement of the temperature where it is located, Irradiance information, measure the voltage, current, active power, reactive power and converter control angle information of the photovoltaic array, and upload these data to the photovoltaic power generation control sub-station, and receive the output adjustment plan of the photovoltaic power generation control sub-station , to adjust the output of the photovoltaic array.",
+    "10. 如权利要求3所述的一种风光储联合发电系统的有功优化控制系统所应用的控制方法，其特征是，所述步骤六中的储能电池控制单元主要实现测量电池组当前的充放电状态、充放电电压和电流、当前的充放电功率、荷电状态信息，将这些数据上传给储能控制子站，接收储能控制子站的出力调整计划，调整电池组的出力大小。\n\t\t10. The control method applied to the active power optimization control system of a wind-solar-storage combined power generation system as claimed in claim 3, wherein the energy storage battery control unit in the step 6 mainly realizes the measurement of the current charge of the battery pack. Discharge status, charge and discharge voltage and current, current charge and discharge power, and state of charge information, upload these data to the energy storage control substation, receive the output adjustment plan of the energy storage control substation, and adjust the output of the battery pack."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201210284353.XA",
+      "representative_publication": "CN102780236B",
+      "primary_language": "en",
+      "priority_date": "2012-08-11",
+      "filing_date": "2012-08-11",
+      "title": "Active power optimization control system and method for wind-solar-storage combined power generation system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201210284353.XA",
+      "representative_publication": "CN102780236B",
+      "primary_language": "en",
+      "priority_date": "2012-08-11",
+      "filing_date": "2012-08-11",
+      "title": "Active power optimization control system and method for wind-solar-storage combined power generation system"
+    }
+  ],
+  "family_id": "47125044",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN102214932A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-09",
+        "publication_date": "2011-10-12",
+        "assignee_original": "电子科技大学",
+        "title": "Method for distributing active power of wind-light storage transmission comprehensive power station",
+        "patent_id": "patent/CN102214932A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102214932A%2Fen"
+      },
+      {
+        "publication_number": "CN102368620A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-28",
+        "publication_date": "2012-03-07",
+        "assignee_original": "浙江大学",
+        "title": "Wind-energy/ solar-energy/ storage/ ocean-current-energy new-energy isolated network stabilization operation integration control system and method thereof",
+        "patent_id": "patent/CN102368620A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102368620A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN103227508A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-18",
+        "publication_date": "2013-07-31",
+        "assignee_original": "内蒙古电力勘测设计院",
+        "title": "Integrated control system and integrated control method for wind-photovoltaic energy storage",
+        "patent_id": "patent/CN103227508A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103227508A%2Fen"
+      },
+      {
+        "publication_number": "CN103259291A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-05-13",
+        "publication_date": "2013-08-21",
+        "assignee_original": "南京南瑞集团公司",
+        "title": "Photovoltaic active control method of concentration output of large-scale wind power plants and photovoltaic power stations",
+        "patent_id": "patent/CN103259291A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103259291A%2Fen"
+      },
+      {
+        "publication_number": "CN103390903A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-29",
+        "publication_date": "2013-11-13",
+        "assignee_original": "内蒙古电力勘测设计院",
+        "title": "Novel wind, photo-thermal and energy storage integrated intelligent power generation system and control method thereof",
+        "patent_id": "patent/CN103390903A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103390903A%2Fen"
+      },
+      {
+        "publication_number": "CN103441537A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-18",
+        "publication_date": "2013-12-11",
+        "assignee_original": "国家电网公司",
+        "title": "Method for optimizing and regulating and controlling active power of distributed wind power plant with energy storage power station",
+        "patent_id": "patent/CN103441537A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103441537A%2Fen"
+      },
+      {
+        "publication_number": "CN104022521A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-30",
+        "publication_date": "2014-09-03",
+        "assignee_original": "辽宁中联能源科技有限公司",
+        "title": "Renewable energy generating output power automatic stabilization control method and apparatus",
+        "patent_id": "patent/CN104022521A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104022521A%2Fen"
+      },
+      {
+        "publication_number": "CN104485681A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-05",
+        "publication_date": "2015-04-01",
+        "assignee_original": "成都鼎智汇科技有限公司",
+        "title": "Monitoring method for wind power plant energy storage system",
+        "patent_id": "patent/CN104485681A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104485681A%2Fen"
+      },
+      {
+        "publication_number": "CN104538981A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-09",
+        "publication_date": "2015-04-22",
+        "assignee_original": "成都鼎智汇科技有限公司",
+        "title": "Monitoring method for battery energy storage system with reactive power regulation function",
+        "patent_id": "patent/CN104538981A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104538981A%2Fen"
+      },
+      {
+        "publication_number": "CN104917208A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-26",
+        "publication_date": "2015-09-16",
+        "assignee_original": "国家电网公司",
+        "title": "Distributed power supply combined power generation system and dispatching coordination control method",
+        "patent_id": "patent/CN104917208A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104917208A%2Fen"
+      },
+      {
+        "publication_number": "CN104967149A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-29",
+        "publication_date": "2015-10-07",
+        "assignee_original": "山东电力研究院",
+        "title": "A Model Predictive Control Method for Microgrid Wind, Wind and Storage",
+        "patent_id": "patent/CN104967149A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104967149A%2Fen"
+      },
+      {
+        "publication_number": "CN106684913A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-29",
+        "publication_date": "2017-05-17",
+        "assignee_original": "中国电力科学研究院",
+        "title": "A multi-agent-based energy storage power station tracking power generation plan control system and method",
+        "patent_id": "patent/CN106684913A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106684913A%2Fen"
+      },
+      {
+        "publication_number": "CN108306313A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-03",
+        "publication_date": "2018-07-20",
+        "assignee_original": "浙江运达风电股份有限公司",
+        "title": "A kind of wind light mutual complementing power grid frequency modulation control method and system",
+        "patent_id": "patent/CN108306313A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108306313A%2Fen"
+      },
+      {
+        "publication_number": "CN109193816A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-13",
+        "publication_date": "2019-01-11",
+        "assignee_original": "国网黑龙江省电力有限公司",
+        "title": "Consider the real-time real power control method of new energy power station of malice application with super generating punishment",
+        "patent_id": "patent/CN109193816A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109193816A%2Fen"
+      },
+      {
+        "publication_number": "CN109599879A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-10",
+        "publication_date": "2019-04-09",
+        "assignee_original": "国网吉林省电力有限公司电力科学研究院",
+        "title": "Consider the power distribution network active power dispatching method of energy storage device charge and discharge number optimization",
+        "patent_id": "patent/CN109599879A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109599879A%2Fen"
+      },
+      {
+        "publication_number": "CN112421695A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-30",
+        "publication_date": "2021-02-26",
+        "assignee_original": "北京奥德威特电力科技股份有限公司",
+        "title": "Edge-computing-based wind-solar energy storage AGC/AVC coordination control system and method",
+        "patent_id": "patent/CN112421695A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112421695A%2Fen"
+      },
+      {
+        "publication_number": "WO2021164307A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-19",
+        "publication_date": "2021-08-26",
+        "assignee_original": "中国电力科学研究院有限公司",
+        "title": "Control method and apparatus for coordinated participation of photovoltaic power generation and energy storage in primary frequency regulation of power grid",
+        "patent_id": "patent/WO2021164307A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021164307A1%2Fen"
+      },
+      {
+        "publication_number": "CN113972655A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-02",
+        "publication_date": "2022-01-25",
+        "assignee_original": "许继集团有限公司",
+        "title": "Source-network load-storage cooperative optimization control method and device",
+        "patent_id": "patent/CN113972655A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113972655A%2Fen"
+      },
+      {
+        "publication_number": "CN114069679A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-26",
+        "publication_date": "2022-02-18",
+        "assignee_original": "国网湖南省电力有限公司",
+        "title": "Lithium battery energy storage power station rate control method and system and storage medium",
+        "patent_id": "patent/CN114069679A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114069679A%2Fen"
+      },
+      {
+        "publication_number": "CN114070201A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-06",
+        "publication_date": "2022-02-18",
+        "assignee_original": "国网河北省电力有限公司经济技术研究院",
+        "title": "Distributed photovoltaic monitoring control system",
+        "patent_id": "patent/CN114070201A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114070201A%2Fen"
+      },
+      {
+        "publication_number": "CN114764262A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-11",
+        "publication_date": "2022-07-19",
+        "assignee_original": "领鞅科技(杭州)有限公司",
+        "title": "Method for predicting and controlling power generation power of solar power station",
+        "patent_id": "patent/CN114764262A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114764262A%2Fen"
+      },
+      {
+        "publication_number": "CN115459361A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-28",
+        "publication_date": "2022-12-09",
+        "assignee_original": "国网江苏省电力有限公司盐城供电分公司",
+        "title": "State evaluation method, device, medium and product of wind-solar-storage combined power generation system",
+        "patent_id": "patent/CN115459361A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115459361A%2Fen"
+      },
+      {
+        "publication_number": "CN119891280A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-12-19",
+        "publication_date": "2025-04-25",
+        "assignee_original": "甘肃华电环县风力发电有限公司",
+        "title": "Wind-solar energy storage station coordination control method and system based on two rules under examination",
+        "patent_id": "patent/CN119891280A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119891280A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN102780236B",
+      "primary_language": "en",
+      "publication_date": "2014-05-21",
+      "title": "Active power optimization control system and method for wind-solar-storage combined power generation system",
+      "patent_id": "patent/CN102780236B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102780236B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109787282B",
+      "primary_language": "en",
+      "publication_date": "2022-09-02",
+      "title": "Large-scale energy storage participation new energy station reactive power coordination control method and system",
+      "patent_id": "patent/CN109787282B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109787282B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102289566B",
+      "primary_language": "en",
+      "publication_date": "2014-07-09",
+      "title": "Multiple-time-scale optimized energy dispatching method for micro power grid under independent operation mode",
+      "patent_id": "patent/CN102289566B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102289566B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102214932B",
+      "primary_language": "en",
+      "publication_date": "2013-03-06",
+      "title": "Method for distributing active power of wind-light storage transmission comprehensive power station",
+      "patent_id": "patent/CN102214932B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102214932B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104638772B",
+      "primary_language": "en",
+      "publication_date": "2018-01-19",
+      "title": "Battery energy storage power station energy management method based on wind power prediction",
+      "patent_id": "patent/CN104638772B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104638772B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102694391B",
+      "primary_language": "en",
+      "publication_date": "2014-09-03",
+      "title": "Day-ahead optimal scheduling method for wind-solar storage integrated power generation system",
+      "patent_id": "patent/CN102694391B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102694391B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104348256B",
+      "primary_language": "en",
+      "publication_date": "2016-09-21",
+      "title": "Consider the polymorphic type battery energy storage power station energy management method of charge-discharge magnification",
+      "patent_id": "patent/CN104348256B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104348256B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104734195A",
+      "primary_language": "en",
+      "publication_date": "2015-06-24",
+      "title": "A monitoring method for a wind-solar-storage integrated microgrid capable of grid-connected operation",
+      "patent_id": "patent/CN104734195A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104734195A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111384719A",
+      "primary_language": "en",
+      "publication_date": "2020-07-07",
+      "title": "An optimal scheduling method for peak-shaving and valley-filling of distributed energy storage power stations when photovoltaics are connected to the grid",
+      "patent_id": "patent/CN111384719A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111384719A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105244920B",
+      "primary_language": "en",
+      "publication_date": "2018-07-20",
+      "title": "Consider the energy-storage system multi objective control method and its system of cell health state",
+      "patent_id": "patent/CN105244920B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105244920B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103545843B",
+      "primary_language": "en",
+      "publication_date": "2014-11-19",
+      "title": "Off-grid coordinated control method for microgrid",
+      "patent_id": "patent/CN103545843B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103545843B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2015139061A1",
+      "primary_language": "en",
+      "publication_date": "2015-09-17",
+      "title": "Ramp rate control system and methods using energy storage devices",
+      "patent_id": "patent/WO2015139061A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015139061A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103595068A",
+      "primary_language": "en",
+      "publication_date": "2014-02-19",
+      "title": "Control method for stabilizing wind and light output power fluctuation through hybrid energy storage system",
+      "patent_id": "patent/CN103595068A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103595068A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104734194B",
+      "primary_language": "en",
+      "publication_date": "2017-01-25",
+      "title": "A wind-solar-storage integrated microgrid capable of grid-connected operation",
+      "patent_id": "patent/CN104734194B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104734194B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12155220B2",
+      "primary_language": "en",
+      "publication_date": "2024-11-26",
+      "title": "Method for improved power ramping in a hybrid power plant",
+      "patent_id": "patent/US12155220B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12155220B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102664401A",
+      "primary_language": "en",
+      "publication_date": "2012-09-12",
+      "title": "Power grid control method based on battery service life model",
+      "patent_id": "patent/CN102664401A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102664401A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107425541B",
+      "primary_language": "en",
+      "publication_date": "2019-10-29",
+      "title": "A kind of active distribution network wind storage combined scheduling method",
+      "patent_id": "patent/CN107425541B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107425541B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111555366A",
+      "primary_language": "en",
+      "publication_date": "2020-08-18",
+      "title": "Multi-time scale-based microgrid three-layer energy optimization management method",
+      "patent_id": "patent/CN111555366A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111555366A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115473268B",
+      "primary_language": "en",
+      "publication_date": "2024-09-10",
+      "title": "Photovoltaic power fluctuation stabilizing method based on sectional compensation control strategy",
+      "patent_id": "patent/CN115473268B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115473268B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107994618B",
+      "primary_language": "en",
+      "publication_date": "2020-03-06",
+      "title": "Active power scheduling method and distribution network measurement and control equipment for distribution network-level optical storage cluster",
+      "patent_id": "patent/CN107994618B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107994618B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11307945737725276781",
+      "scholar_authors": "Li et al.",
+      "publication_date": "2018",
+      "title": "Coordinated control and energy management strategies for hundred megawatt-level battery energy storage stations based on multi-agent theory",
+      "patent_id": "scholar/11307945737725276781",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11307945737725276781"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103545848A",
+      "primary_language": "en",
+      "publication_date": "2014-01-29",
+      "title": "Coordinated control method for active power of photovoltaic power plant group",
+      "patent_id": "patent/CN103545848A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103545848A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103560533B",
+      "primary_language": "en",
+      "publication_date": "2015-09-09",
+      "title": "Method and system for controlling energy storage power station to smooth fluctuations in wind and wind power generation based on change rate",
+      "patent_id": "patent/CN103560533B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103560533B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202651806U",
+      "primary_language": "en",
+      "publication_date": "2013-01-02",
+      "title": "A battery energy storage power station smooth wind power generation control system",
+      "patent_id": "patent/CN202651806U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202651806U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103023041B",
+      "primary_language": "en",
+      "publication_date": "2014-08-27",
+      "title": "Active/reactive power control system of intelligent wind power station",
+      "patent_id": "patent/CN103023041B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103023041B%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2012-11-14",
+      "code": "C06",
+      "title": "Publication"
+    },
+    {
+      "date": "2012-11-14",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2013-01-02",
+      "code": "C10",
+      "title": "Entry into substantive examination"
+    },
+    {
+      "date": "2013-01-02",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2014-05-21",
+      "code": "C14",
+      "title": "Grant of patent or utility model"
+    },
+    {
+      "date": "2014-05-21",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2017-09-29",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee"
+    },
+    {
+      "date": "2017-09-29",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee",
+      "attributes": [
+        {
+          "label": "Granted publication date",
+          "value": "20140521"
+        },
+        {
+          "label": "Termination date",
+          "value": "20160811"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 162
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 110
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000013307",
+        "name": "optical fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "101100257262",
+        "name": "Caenorhabditis elegans soc-1 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000003491",
+        "name": "array",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009472",
+        "name": "formulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000630",
+        "name": "rising effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005070",
+        "name": "sampling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

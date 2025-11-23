@@ -1,0 +1,5 @@
+__pycache__/
+.env
+*.pyc
+patent_analysis_*.txt
+venv/

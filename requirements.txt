@@ -1,0 +1,4 @@
+
+crewai
+langchain-core
+langchain-ollama

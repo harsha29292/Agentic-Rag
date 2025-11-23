@@ -1,0 +1,1565 @@
+{
+  "search_metadata": {
+    "id": "691889a96f1e406093bf1128",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/43090b68dbb2a4ac/691889a96f1e406093bf1128.json",
+    "created_at": "2025-11-15 14:09:45 UTC",
+    "processed_at": "2025-11-15 14:09:45 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN103390903A/en",
+    "raw_html_file": "https://serpapi.com/searches/43090b68dbb2a4ac/691889a96f1e406093bf1128.html",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN103390903A/en"
+  },
+  "title": "Novel wind, photo-thermal and energy storage integrated intelligent power generation system and control method thereof",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/18/71/4f/22cf211968c897/CN103390903A.pdf",
+  "publication_number": "CN103390903A",
+  "country": "China",
+  "prior_art_keywords": [
+    "energy",
+    "power",
+    "wind",
+    "storage",
+    "power generation"
+  ],
+  "prior_art_date": "2013-06-29",
+  "application_number": "CN201310268241XA",
+  "inventors": [
+    {
+      "name": "寇建玉",
+      "link": "https://patents.google.com/?inventor=%E5%AF%87%E5%BB%BA%E7%8E%89",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%AF%87%E5%BB%BA%E7%8E%89"
+    },
+    {
+      "name": "张喜儒",
+      "link": "https://patents.google.com/?inventor=%E5%BC%A0%E5%96%9C%E5%84%92",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BC%A0%E5%96%9C%E5%84%92"
+    },
+    {
+      "name": "邬超慧",
+      "link": "https://patents.google.com/?inventor=%E9%82%AC%E8%B6%85%E6%85%A7",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%82%AC%E8%B6%85%E6%85%A7"
+    },
+    {
+      "name": "王小春",
+      "link": "https://patents.google.com/?inventor=%E7%8E%8B%E5%B0%8F%E6%98%A5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%8E%8B%E5%B0%8F%E6%98%A5"
+    }
+  ],
+  "assignees": [
+    "Inner Mongolia Electric Power Survey and Design Institute Co Ltd"
+  ],
+  "priority_date": "2013-06-29",
+  "filing_date": "2013-06-29",
+  "publication_date": "2013-11-13",
+  "worldwide_applications": {
+    "2013": [
+      {
+        "filing_date": "2013-06-29",
+        "country_code": "CN",
+        "application_number": "CN201310268241.XA",
+        "document_id": "patent/CN103390903B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013-06-29",
+      "title": "Application filed by Inner Mongolia Electric Power Survey and Design Institute Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Inner Mongolia Electric Power Survey and Design Institute Co Ltd"
+    },
+    {
+      "date": "2013-06-29",
+      "title": "Priority to CN201310268241.XA",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN103390903B/en"
+    },
+    {
+      "date": "2013-11-13",
+      "title": "Publication of CN103390903A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN103390903A/en"
+    },
+    {
+      "date": "2015-09-09",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2015-09-09",
+      "title": "Publication of CN103390903B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN103390903B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2033-06-29",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=103390903A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201310268241/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN103390903A"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/66/dd/80/1a6ba08bc0dc93/HDA00003438054000011.png",
+    "https://patentimages.storage.googleapis.com/58/20/45/d577e547bd81a5/HDA00003438054000021.png",
+    "https://patentimages.storage.googleapis.com/a5/0f/68/5ad9428dd3a367/HDA00003438054000031.png",
+    "https://patentimages.storage.googleapis.com/85/42/fe/4eb19b40518249/HDA00003438054000041.png",
+    "https://patentimages.storage.googleapis.com/7d/70/38/36b9c49515dd21/HDA00003438054000051.png"
+  ],
+  "classifications": [
+    {
+      "code": "Y02A30/60",
+      "description": "Planning or developing urban green infrastructure",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E70/30",
+      "description": "Systems combining energy storage with energy generation of non-fossil origin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention provides a novel wind, photo-thermal, energy storage integrated power generation system and a control method thereof and belongs to the field of power generation technologies of wind, photo-thermal and energy storage. The novel wind, photo-thermal, energy storage integrated power generation system comprises a wind power generation system, a disk type photo-thermal solar power generation system, an energy storage system and an intelligent dispatching control system; the wind power generation system and the disk type photo-thermal solar power generation system are connected with an output bus through a boosting transformer; the energy storage system which is connected with an energy storage inverter is connected with the output bus through the boosting transformer; the intelligent dispatching control system is connected with the wind power generation system, the disk type photo-thermal solar power generation system and the energy storage system in a communication affordable mode to control the wind power generation system, the disk type photo-thermal solar power generation system and the energy storage system. According to the novel wind, PV, energy storage integrated power generation system comprises a wind power generation system and the control method thereof, problems that the existing disk type photo-thermal solar system is poor in stability and reliability, the existing wind, photo-thermal and energy storage system is complex in structure and low in photoelectric conversion efficiency are solved.",
+  "description_link": "https://serpapi.com/searches/691889a96f1e406093bf1128/google_patents_details/description.html",
+  "claims": [
+    "1. novel wind-light storage intelligence combined generating system is characterized in that:\n      Described system comprises: wind power generation system, dish formula photo-thermal solar power system, energy-storage system and intelligent scheduling control system; Wherein:\n      Described wind power generation system, dish formula photo-thermal solar power system are connected to the output bus by step-up transformer, and described energy-storage system is connected to the energy storage inverter, then by step-up transformer, is connected to the output bus;\n      Intelligent scheduling control system and wind power generation system, dish formula photo-thermal solar power system and energy-storage system can communicate to connect, and are used for controlling wind power generation system, dish formula photo-thermal solar power system and energy-storage system.",
+    "2. novel wind-light storage intelligence combined generating system according to claim 1 is characterized in that:\n      Described wind power generation system, dish formula photo-thermal solar power system are connected to the output bus by step-up transformer and are specially: described wind power generation system is connected to the output bus by the first step-up transformer, dish formula photo-thermal solar power system by the second step-up transformer;\n      Described energy-storage system is connected to the energy storage inverter, then by step-up transformer, is connected to the output bus and is specially:\n      Described energy-storage system is connected to the energy storage inverter, then by the 3rd step-up transformer, is connected to the output bus.",
+    "3. novel wind-light storage intelligence combined generating system according to claim 1 is characterized in that:\n      Described wind power generation system, dish formula photo-thermal solar power system are connected to the output bus by step-up transformer, and described energy-storage system is connected to the energy storage inverter, then by step-up transformer, are connected to the output bus and are specially:\n      Described wind power generation system, dish formula photo-thermal solar power system are connected to low-voltage bus bar, described energy-storage system is connected to the energy storage inverter, described energy storage inverter is connected to described low-voltage bus bar, and described low-voltage bus bar is connected to the output bus by a merging step-up transformer.",
+    "According to claim 1 to 3 arbitrary described novel wind-light storage intelligence combined generating system, it is characterized in that:\n      Described wind power generation system comprises one or more wind turbine generator;\n      Described dish formula photo-thermal solar power system comprises one or more dish formula photo-thermal solar power generation units;\n      Described energy-storage system is energy-storage system of accumulator, comprises one or more energy storage battery groups.",
+    "5. novel wind-light storage intelligence combined generating system according to claim 4 is characterized in that:\n      The heat engine of described dish formula photo-thermal solar power system is Stirling-electric hybrid and/or thermoacoustic engine.",
+    "6. novel wind-light storage intelligence combined generating system according to claim 4 is characterized in that:\n      The storage battery of described energy-storage system of accumulator is sodium-sulphur battery, flow battery and/or ferric phosphate lithium cell.",
+    "7. novel wind-light storage intelligence combined generating system according to claim 1 is characterized in that:\n      The intelligent scheduling control system is used for, according to the power output aim curve, wind power generation system, dish formula photo-thermal solar power system and energy-storage system are provided control command.",
+    "8. novel wind-light storage intelligence combined generating system according to claim 7 is characterized in that:\n      Described aim curve, for wind-powered electricity generation unit and solar energy output power curve being carried out the output power curve of peak load shifting after level and smooth, is perhaps the trace scheduling curve.",
+    "9. novel wind-light storage intelligence combined generating system according to claim 1 is characterized in that:\n      When described intelligent scheduling control system was used for power that the AC power of sending when wind power generation system and dish formula photo-thermal solar power system requires higher than described intelligent scheduling control system, control energy storage inverter was converted into direct current to be stored in energy-storage system; While also being used for the power that requires lower than the intelligent scheduling control system when AC power, the control energy-storage system is converted into alternating current through the energy storage inverter with direct current, then through step-up transformer, delivers to the output bus.",
+    "10. novel wind-light storage intelligence combined generating system according to claim 1 is characterized in that:\n      Described intelligent scheduling control system also is used for obtaining the history data of wind power generation system and dish formula photo-thermal solar power system, and obtain local meteorological data, according to the power output evaluation model, wind power generation system and dish formula photo-thermal solar power system are carried out power prediction to obtain the power curve of next day.",
+    "11. novel wind-light storage intelligence combined generating system according to claim 10 is characterized in that:\n      Described intelligent scheduling control system also is used for the power curve that obtains according to described power prediction, and the plan that discharges and recharges of prearranged energy-storage system, obtains the inferior daily planning generating output power curve of novel wind-light storage intelligence combined generating system.",
+    "12. a control method, be used for the described novel wind-light storage intelligence combined generating system of claim 7 or 8 is controlled, and it is characterized in that, the method comprises:\n      Judge whether the work of described novel wind-light storage intelligence combined generating system is normal, when working properly, carry out the present output power of novel wind-light storage intelligence combined generating system and the first comparison step that the power output aim curve is made comparisons;\n      , according to the comparative result of described the first comparison step, control described wind power generation system, dish formula photo-thermal solar power system and energy-storage system.",
+    "13. control method according to claim 12 is characterized in that:\n      Described comparative result according to described the first comparison step, control described wind power generation system, dish formula photo-thermal solar power system and energy-storage system and specifically comprise:\n      When the comparative result of the first comparison step is present output power during less than the power output aim curve, to the energy-storage system control energy storage system discharges that transmits control signal;\n      Current power output and power output aim curve are made comparisons, when equal, return and continue described the first comparison step, when the unequal target deviation of carrying out is proofreaied and correct, when being positioned at deviation range, returning and continue described the first comparison step, when having exceeded deviation range, aim curve is optimized adjustment, returns and continue described the first comparison step.",
+    "14. method according to claim 13 is characterized in that:\n      Described comparative result according to described the first comparison step, control described wind power generation system, dish formula photo-thermal solar power system and energy-storage system and also comprise:\n      , when the comparative result of the first comparison step is present output power during greater than the power output aim curve, to energy-storage system, transmit control signal and control energy-storage system and carry out energy storage;\n      current power output and power output aim curve are made comparisons, when equal, return and continue described the first comparison step, when greater than the power output aim curve, transmit control signal and carry out power stage and control to reduce power stage to wind power generation system and dish formula photo-thermal solar power system, current power output and power output aim curve are made comparisons, return when equal and continue described the first comparison step, carrying out target deviation when greater than the power output aim curve proofreaies and correct, when being positioned at deviation range, return and continue described the first comparison step, when having exceeded deviation range, the power output aim curve is optimized adjustment, return and continue described the first comparison step.",
+    "15. control method according to claim 14 is characterized in that:\n      Described comparative result according to described the first comparison step, control described wind power generation system, dish formula photo-thermal solar power system and energy-storage system and also comprise:\n      , when the comparative result of the first comparison step is present output power while meeting the power output aim curve, return and continue described the first comparison step."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201310268241.XA",
+      "representative_publication": "CN103390903B",
+      "primary_language": "en",
+      "priority_date": "2013-06-29",
+      "filing_date": "2013-06-29",
+      "title": "Novel wind-light storage intelligence combined generating system and control method thereof"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201310268241.XA",
+      "representative_publication": "CN103390903B",
+      "primary_language": "en",
+      "priority_date": "2013-06-29",
+      "filing_date": "2013-06-29",
+      "title": "Novel wind-light storage intelligence combined generating system and control method thereof"
+    }
+  ],
+  "family_id": "49535098",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN101841163A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-15",
+        "publication_date": "2010-09-22",
+        "assignee_original": "三一电气有限责任公司",
+        "title": "Grid-connected wind-light combined power generation system and power generation method thereof",
+        "patent_id": "patent/CN101841163A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101841163A%2Fen"
+      },
+      {
+        "publication_number": "CN201747547U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-08-11",
+        "publication_date": "2011-02-16",
+        "assignee_original": "嘉兴乾和新能源科技有限公司",
+        "title": "Disc type solar-thermal power device with vanadium flow energy storage means",
+        "patent_id": "patent/CN201747547U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201747547U%2Fen"
+      },
+      {
+        "publication_number": "CN102664429A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-29",
+        "publication_date": "2012-09-12",
+        "assignee_original": "国电联合动力技术有限公司",
+        "title": "Grid-connected non-networking micro-grid system and control protection method thereof",
+        "patent_id": "patent/CN102664429A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102664429A%2Fen"
+      },
+      {
+        "publication_number": "CN102780236A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-11",
+        "publication_date": "2012-11-14",
+        "assignee_original": "山东大学",
+        "title": "Active optimal control system of wind and light storage combined power generation system and method",
+        "patent_id": "patent/CN102780236A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102780236A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "吴张华等: \"1kw碟式太阳能行波热声发电系统\", 《工程热物理学报》",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "张学庆等: \"储能装置在风光储联合发电系统中的应用\", 《华东电力》",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "辛光明等: \"风光储联合发电技术分析\", 《华北电力技术》",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN103916071A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-16",
+        "publication_date": "2014-07-09",
+        "assignee_original": "国家电网公司",
+        "title": "Wind and solar complementary power generation equilibrium output intelligent control system and method",
+        "patent_id": "patent/CN103916071A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103916071A%2Fen"
+      },
+      {
+        "publication_number": "CN105281352A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-06",
+        "publication_date": "2016-01-27",
+        "assignee_original": "�林昌明",
+        "title": "Photovoltaic power-energy storage integrated off-grid system and multistage optimization control method thereof",
+        "patent_id": "patent/CN105281352A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105281352A%2Fen"
+      },
+      {
+        "publication_number": "CN109524985A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-12",
+        "publication_date": "2019-03-26",
+        "assignee_original": "上海电机学院",
+        "title": "A kind of wireless electric vehicle charging device and method based on wind-light storage",
+        "patent_id": "patent/CN109524985A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109524985A%2Fen"
+      },
+      {
+        "publication_number": "CN110535153A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-23",
+        "publication_date": "2019-12-03",
+        "assignee_original": "内蒙古电力(集团)有限责任公司内蒙古电力科学研究院分公司",
+        "title": "Mixed energy storage system DC/AC converter control method for coordinating and device",
+        "patent_id": "patent/CN110535153A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110535153A%2Fen"
+      },
+      {
+        "publication_number": "CN113612241A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-04",
+        "publication_date": "2021-11-05",
+        "assignee_original": "浙江大学",
+        "title": "Composite energy storage power supply system for power grid peak regulation and frequency modulation and regulation and control method thereof",
+        "patent_id": "patent/CN113612241A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113612241A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN110676868A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-07-02",
+        "publication_date": "2020-01-10",
+        "assignee_original": "赫普科技发展（北京）有限公司",
+        "title": "Wind, light and gas complementary coupling power generation system and method",
+        "patent_id": "patent/CN110676868A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110676868A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_scholar": true,
+      "scholar_id": "17160769544215812725",
+      "scholar_authors": "Xiao et al.",
+      "publication_date": "2024",
+      "title": "Feasibility study: Economic and technical analysis of optimal configuration and operation of a hybrid CSP/PV/wind power cogeneration system with energy storage",
+      "patent_id": "scholar/17160769544215812725",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17160769544215812725"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13505154183975237150",
+      "scholar_authors": "Abdali et al.",
+      "publication_date": "2019",
+      "title": "Hybrid power generation by using solar and wind energy",
+      "patent_id": "scholar/13505154183975237150",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13505154183975237150"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201323453Y",
+      "primary_language": "en",
+      "publication_date": "2009-10-07",
+      "title": "Renewable energy micro-grid",
+      "patent_id": "patent/CN201323453Y/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201323453Y%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103390903B",
+      "primary_language": "en",
+      "publication_date": "2015-09-09",
+      "title": "Novel wind-light storage intelligence combined generating system and control method thereof",
+      "patent_id": "patent/CN103390903B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103390903B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105932704A",
+      "primary_language": "en",
+      "publication_date": "2016-09-07",
+      "title": "Photovoltaic direct current side energy storage based power grid intelligent regulation and control system",
+      "patent_id": "patent/CN105932704A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105932704A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202210708U",
+      "primary_language": "en",
+      "publication_date": "2012-05-02",
+      "title": "Power supply system",
+      "patent_id": "patent/CN202210708U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202210708U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN208386227U",
+      "primary_language": "en",
+      "publication_date": "2019-01-15",
+      "title": "Wind-light storage is provided multiple forms of energy to complement each other system",
+      "patent_id": "patent/CN208386227U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN208386227U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112541609A",
+      "primary_language": "en",
+      "publication_date": "2021-03-23",
+      "title": "Wind-light-heat and water energy storage combined renewable energy power generation system capacity optimization model",
+      "patent_id": "patent/CN112541609A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112541609A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203352265U",
+      "primary_language": "en",
+      "publication_date": "2013-12-18",
+      "title": "Wind-solar hybrid generating system",
+      "patent_id": "patent/CN203352265U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203352265U%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "353999352414805941",
+      "scholar_authors": "Kumaravel et al.",
+      "publication_date": "2011",
+      "title": "Adapted multilayer feedforward ANN based power management control of solar photovoltaic and wind integrated power system",
+      "patent_id": "scholar/353999352414805941",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F353999352414805941"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102983604A",
+      "primary_language": "en",
+      "publication_date": "2013-03-20",
+      "title": "Photovoltaic and fuel cell combined generating system",
+      "patent_id": "patent/CN102983604A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102983604A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215176096U",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Solar photovoltaic photo-thermal hybrid power generation system",
+      "patent_id": "patent/CN215176096U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215176096U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103061885B",
+      "primary_language": "en",
+      "publication_date": "2015-09-30",
+      "title": "A kind of complementary type green energy supply system",
+      "patent_id": "patent/CN103061885B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103061885B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204886791U",
+      "primary_language": "en",
+      "publication_date": "2015-12-16",
+      "title": "Scene heat complementary intelligent power generation system in three sources",
+      "patent_id": "patent/CN204886791U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204886791U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN206894253U",
+      "primary_language": "en",
+      "publication_date": "2018-01-16",
+      "title": "A kind of power network intelligent control system based on the energy storage of photovoltaic DC side",
+      "patent_id": "patent/CN206894253U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206894253U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201994663U",
+      "primary_language": "en",
+      "publication_date": "2011-09-28",
+      "title": "Methane and light complementary integral intelligent power generator",
+      "patent_id": "patent/CN201994663U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201994663U%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5594472317569315036",
+      "scholar_authors": "Ma et al.",
+      "publication_date": "2016",
+      "title": "Research review on energy storage technology",
+      "patent_id": "scholar/5594472317569315036",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5594472317569315036"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110601264B",
+      "primary_language": "en",
+      "publication_date": "2022-11-18",
+      "title": "Multi-energy optimization scheduling method considering absorption capacity of ultra-high-power heat storage electric boiler",
+      "patent_id": "patent/CN110601264B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110601264B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6890571757229095941",
+      "scholar_authors": "Yiwei et al.",
+      "publication_date": "2011",
+      "title": "Development of distributed generation system based on various renewable energy resources",
+      "patent_id": "scholar/6890571757229095941",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6890571757229095941"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12975955167383968776",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2022",
+      "title": "Stochastic Optimal Scheduling of Rural Integrated Energy System Considering the Uncertainty of Wind-Solar-Load Power",
+      "patent_id": "scholar/12975955167383968776",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12975955167383968776"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14960393146208365944",
+      "scholar_authors": "Qing",
+      "publication_date": "2019",
+      "title": "Main types and applications of hybrid power generation system",
+      "patent_id": "scholar/14960393146208365944",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14960393146208365944"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12262683460053761258",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2021",
+      "title": "Optimal dispatching strategy for concerntrating solar power plant to suppress output power fluctuation of wind-photovoltaic system",
+      "patent_id": "scholar/12262683460053761258",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12262683460053761258"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6007676556018981115",
+      "scholar_authors": "Bingchen et al.",
+      "publication_date": "2019",
+      "title": "Coordinated optimization scheduling of wind power, photovoltaic, photo-thermal and hydropower considering the schedulability of photo-thermal power stations",
+      "patent_id": "scholar/6007676556018981115",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6007676556018981115"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3538543264418623857",
+      "scholar_authors": "Sun et al.",
+      "publication_date": "2021",
+      "title": "Research on Coordinated and Optimized Operation of Electric-Thermal Energy System with Concentrated Solar Power Plant",
+      "patent_id": "scholar/3538543264418623857",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3538543264418623857"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14676488124201994698",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2021",
+      "title": "Optimal Dispatch Strategy for Advanced Adiabatic Compressed Air Energy Storage System Coupled with Concentrated Solar Power Station",
+      "patent_id": "scholar/14676488124201994698",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14676488124201994698"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2013-11-13",
+      "code": "C06",
+      "title": "Publication"
+    },
+    {
+      "date": "2013-11-13",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2013-12-04",
+      "code": "C10",
+      "title": "Entry into substantive examination"
+    },
+    {
+      "date": "2013-12-04",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2015-04-15",
+      "code": "C53",
+      "title": "Correction of patent of invention or patent application"
+    },
+    {
+      "date": "2015-04-15",
+      "code": "CB02",
+      "title": "Change of applicant information",
+      "attributes": [
+        {
+          "label": "Address after",
+          "value": "010010 Hohhot, the Inner Mongolia Autonomous Region Tin Road, No. 209"
+        },
+        {
+          "label": "Applicant after",
+          "value": "INNER MONGOLIA ELECTRIC POWER SURVEY & DESIGN INSTITUTE CO., LTD."
+        },
+        {
+          "label": "Address before",
+          "value": "010010 Hohhot, the Inner Mongolia Autonomous Region Tin Road, No. 209"
+        },
+        {
+          "label": "Applicant before",
+          "value": "Inner Mongolia Electric Power Survey Design Institute"
+        }
+      ]
+    },
+    {
+      "date": "2015-04-15",
+      "code": "COR",
+      "title": "Change of bibliographic data",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "CORRECT: APPLICANT; FROM: INNER MONGOLIA ELECTRICAL POWER INVESTIGATE AND DESIGN INSTITUTE TO: INNER MONGOLIA ELECTRIC POWER SURVEY DESIGN INSTITUTE CO., LTD."
+        }
+      ]
+    },
+    {
+      "date": "2015-09-09",
+      "code": "C14",
+      "title": "Grant of patent or utility model"
+    },
+    {
+      "date": "2015-09-09",
+      "code": "GR01",
+      "title": "Patent grant"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 128
+      },
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 72
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "230000000052",
+        "name": "comparative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "BNOODXBBXFZASF-UHFFFAOYSA-N",
+        "name": "[Na].[S]",
+        "domain": "Chemical group",
+        "smiles": "[Na].[S]",
+        "inchi_key": "BNOODXBBXFZASF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000013210",
+        "name": "evaluation model",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000005955",
+        "name": "Ferric phosphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940032958",
+        "name": "ferric phosphate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "WBJZTOZJJYAKHQ-UHFFFAOYSA-K",
+        "name": "iron(3+) phosphate",
+        "domain": "Chemical compound",
+        "smiles": "[Fe+3].[O-]P([O-])([O-])=O",
+        "inchi_key": "WBJZTOZJJYAKHQ-UHFFFAOYSA-K",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000399",
+        "name": "iron(III) phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004027",
+        "name": "cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "name": "Nickel",
+        "domain": "Chemical compound",
+        "smiles": "[Ni]",
+        "inchi_key": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "XUIMIQQOPSSXEZ-UHFFFAOYSA-N",
+        "name": "Silicon",
+        "domain": "Chemical compound",
+        "smiles": "[Si]",
+        "inchi_key": "XUIMIQQOPSSXEZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002485",
+        "name": "combustion reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000013078",
+        "name": "crystal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000002441",
+        "name": "reversible effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052710",
+        "name": "silicon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000010703",
+        "name": "silicon",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910021417",
+        "name": "amorphous silicon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000003850",
+        "name": "cellular structure",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012141",
+        "name": "concentrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007667",
+        "name": "floating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000010354",
+        "name": "integration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910021421",
+        "name": "monocrystalline silicon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052759",
+        "name": "nickel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052720",
+        "name": "vanadium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "name": "Alumina",
+        "domain": "Chemical compound",
+        "smiles": "[O-2].[O-2].[O-2].[Al+3].[Al+3]",
+        "inchi_key": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "name": "Ilexoside XXIX",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]",
+        "inchi_key": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910018095",
+        "name": "Ni-MH",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910018477",
+        "name": "Ni—MH",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BPQQTUXANYXVAA-UHFFFAOYSA-N",
+        "name": "Orthosilicate",
+        "domain": "Chemical compound",
+        "smiles": "[O-][Si]([O-])([O-])[O-]",
+        "inchi_key": "BPQQTUXANYXVAA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+        "name": "Sulfur",
+        "domain": "Chemical compound",
+        "smiles": "[S]",
+        "inchi_key": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005864",
+        "name": "Sulphur",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003915",
+        "name": "air pollution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000418",
+        "name": "atomic force spectrum",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004888",
+        "name": "barrier function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004140",
+        "name": "cleaning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001816",
+        "name": "cooling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012983",
+        "name": "electrochemical energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004807",
+        "name": "localization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005693",
+        "name": "optoelectronics",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010355",
+        "name": "oscillation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910021420",
+        "name": "polycrystalline silicon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920005591",
+        "name": "polysilicon",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001737",
+        "name": "promoting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000007094",
+        "name": "prostatitis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007789",
+        "name": "sealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052708",
+        "name": "sodium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011734",
+        "name": "sodium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005619",
+        "name": "thermoelectricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

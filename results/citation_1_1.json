@@ -1,0 +1,447 @@
+{
+  "search_metadata": {
+    "id": "691889ac73ae60e34a8cadae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/939f5f839c2e58f1/691889ac73ae60e34a8cadae.json",
+    "created_at": "2025-11-15 14:09:48 UTC",
+    "processed_at": "2025-11-15 14:09:48 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN201747547U/en",
+    "raw_html_file": "https://serpapi.com/searches/939f5f839c2e58f1/691889ac73ae60e34a8cadae.html",
+    "total_time_taken": 0.5
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN201747547U/en"
+  },
+  "title": "Disc type solar-thermal power device with vanadium flow energy storage means",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/dd/f4/10/d27f027511977e/CN201747547U.pdf",
+  "publication_number": "CN201747547U",
+  "country": "China",
+  "prior_art_keywords": [
+    "energy storage",
+    "stirling engine",
+    "vanadium",
+    "condenser",
+    "concentrator"
+  ],
+  "prior_art_date": "2010-08-11",
+  "application_number": "CN2010202899620U",
+  "inventors": [
+    {
+      "name": "马恩高",
+      "link": "https://patents.google.com/?inventor=%E9%A9%AC%E6%81%A9%E9%AB%98",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%A9%AC%E6%81%A9%E9%AB%98"
+    },
+    {
+      "name": "张伟峰",
+      "link": "https://patents.google.com/?inventor=%E5%BC%A0%E4%BC%9F%E5%B3%B0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BC%A0%E4%BC%9F%E5%B3%B0"
+    }
+  ],
+  "assignees": [
+    "JIAXING QIANHE NEW ENERGY TECHNOLOGY Co Ltd"
+  ],
+  "priority_date": "2010-08-11",
+  "filing_date": "2010-08-11",
+  "publication_date": "2011-02-16",
+  "worldwide_applications": {
+    "2010": [
+      {
+        "filing_date": "2010-08-11",
+        "country_code": "CN",
+        "application_number": "CN2010202899620U",
+        "document_id": "patent/CN201747547U/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2010-08-11",
+      "title": "Application filed by JIAXING QIANHE NEW ENERGY TECHNOLOGY Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "JIAXING QIANHE NEW ENERGY TECHNOLOGY Co Ltd"
+    },
+    {
+      "date": "2010-08-11",
+      "title": "Priority to CN2010202899620U",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN201747547U/en"
+    },
+    {
+      "date": "2011-02-16",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2011-02-16",
+      "title": "Publication of CN201747547U",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN201747547U/en"
+    },
+    {
+      "date": "2020-08-11",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=201747547U&KC=U&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201020289962/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN201747547U"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/7f/c0/d9/595ffe07ba2933/HSA00000227220700011.png",
+    "https://patentimages.storage.googleapis.com/d0/96/41/c6883ba941d398/HSA00000227220700012.png",
+    "https://patentimages.storage.googleapis.com/86/58/98/f973a734bc434f/HSA00000227220700021.png"
+  ],
+  "classifications": [
+    {
+      "code": "Y02E10/46",
+      "description": "Conversion of thermal power into mechanical power, e.g. Rankine, Stirling or solar thermal engines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A disc-type solar photothermal power generation device with a vanadium flow energy storage device, which mainly includes a disc support, a concentrator, a Stirling engine, an energy storage control box, and the disc support is installed There is a concentrator mounting frame, and the concentrator is installed on the concentrator mounting frame; a Stirling engine support is also installed on the described concentrator mounting frame, and a Stirling engine support is installed on the Stirling engine support The Stirling engine in the sunlight concentrating center of the concentrator; the Stirling engine is connected to the energy storage control box mainly composed of a vanadium flow energy storage mechanism; the vanadium flow energy storage mechanism is controlled by an inverter Composed of inverter, battery stack, and electrolyte, the inverter controller is connected to the Stirling engine and the battery stack, and charges the vanadium flow battery for energy storage; it has a structure, simple installation, and reliable use; Efficient use of sunlight, improved power generation efficiency and other characteristics.",
+  "abstract_original": "一种带钒流储能装置的碟式太阳能光热发电装置，它主要包括有一圆盘支架，一聚光器，一斯特林发动机，一储能控制箱，所述的圆盘支架上安装有一聚光器安装架，该聚光器安装架上安装有聚光器；所述的聚光器安装架上还安装有斯特林发动机支架，在该斯特林发动机支架上安装有一正好处于聚光器阳光聚光中心的斯特林发动机；所述的斯特林发动机与所述主要由钒流储能机构构成的储能控制箱相连；所述的钒流储能机构由逆变控制器、电池堆、电解液组成，所述的逆变控制器连接着斯特林发动机和电池堆，并给钒流电池储能充电；它具有结构、安装简单，使用可靠；通过碟式聚光高效地利用了阳光，提高了发电效率等特点。",
+  "description_link": "https://serpapi.com/searches/691889ac73ae60e34a8cadae/google_patents_details/description.html",
+  "claims": [
+    "1. disc type solar energy light heat generator with vanadium stream energy storage device, it mainly includes a disc holder, one condenser, one Stirling engine, one energy storage control box, it is characterized in that being equipped with on the described disc holder (6) a condenser scaffold (1), on this condenser scaffold (1) condenser (2) is installed; Stirling engine support (3) also is installed on the described condenser scaffold (1), a Stirling engine (5) that just in time is in condenser (2) sunlight optically focused center is installed on this Stirling engine support (3); Described Stirling engine (5) links to each other with the described energy storage control box (8) that mainly is made of vanadium stream stored energy mechanism.",
+    "2. the disc type solar energy light heat generator of band vanadium stream energy storage device according to claim 1, it is characterized in that described vanadium flows stored energy mechanism and is made up of inverter controller (9), battery pile (10), electrolytic solution (11), described inverter controller (9) is connecting Stirling engine (5) and battery pile (10), and gives vanadium galvanic battery energy storage charging.",
+    "3. the disc type solar energy light heat generator of band vanadium according to claim 2 stream energy storage device is characterized in that described battery pile (10) is made up of many monocels, and they are connecting two both positive and negative polarity electrolyte tank (13) of stored energy respectively; The energy storage of vanadium galvanic battery is through inverter controller (9) output electric energy (12).",
+    "4. the disc type solar energy light heat generator of band vanadium stream energy storage device according to claim 1, it is characterized in that described solar concentrator (2) is divided into polylith and also conjointly is installed in twos on the condenser scaffold (1) with bolt respectively, and described solar concentrator (2) semicircular in shape is outwards launched.",
+    "5. the disc type solar energy light heat generator of band vanadium stream energy storage device according to claim 1 is characterized in that described disc holder (6) is directly laid on the ground, is connected with a tracking that directly fixes on the ground in the middle of it and regulates base (7); Described disc holder (6) and condenser scaffold (1) are connected and regulate the elevation angle of described solar concentrator (2) by an angle regulator (4)."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN2010202899620U",
+      "representative_publication": "CN201747547U",
+      "primary_language": "en",
+      "priority_date": "2010-08-11",
+      "filing_date": "2010-08-11",
+      "title": "Disc type solar-thermal power device with vanadium flow energy storage means"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN2010202899620U",
+      "representative_publication": "CN201747547U",
+      "primary_language": "en",
+      "priority_date": "2010-08-11",
+      "filing_date": "2010-08-11",
+      "title": "Disc type solar-thermal power device with vanadium flow energy storage means"
+    }
+  ],
+  "family_id": "43582226",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN103390903A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-29",
+        "publication_date": "2013-11-13",
+        "assignee_original": "内蒙古电力勘测设计院",
+        "title": "Novel wind, photo-thermal and energy storage integrated intelligent power generation system and control method thereof",
+        "patent_id": "patent/CN103390903A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103390903A%2Fen"
+      },
+      {
+        "publication_number": "CN104694950A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-20",
+        "publication_date": "2015-06-10",
+        "assignee_original": "国家电网公司",
+        "title": "Solar optothermal coupled high-temperature water electrolysis hydrogen production system",
+        "patent_id": "patent/CN104694950A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104694950A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN201764392U",
+      "primary_language": "en",
+      "publication_date": "2011-03-16",
+      "title": "A wind and solar complementary LED street lamp",
+      "patent_id": "patent/CN201764392U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201764392U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101345495A",
+      "primary_language": "en",
+      "publication_date": "2009-01-14",
+      "title": "Solar power generation, energy accumulation water heater",
+      "patent_id": "patent/CN101345495A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101345495A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201084872Y",
+      "primary_language": "en",
+      "publication_date": "2008-07-09",
+      "title": "A solar electricity-generation, energy-accumulation water-heating device",
+      "patent_id": "patent/CN201084872Y/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201084872Y%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201918922U",
+      "primary_language": "en",
+      "publication_date": "2011-08-03",
+      "title": "Portable Fresnel-lens solar-energy automatic-tracking power-generating and heating dual-purpose device",
+      "patent_id": "patent/CN201918922U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201918922U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204578424U",
+      "primary_language": "en",
+      "publication_date": "2015-08-19",
+      "title": "A kind of high-efficiency solar-powered photovoltaic Blast Furnace Top Gas Recovery Turbine Unit (TRT)",
+      "patent_id": "patent/CN204578424U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204578424U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207543026U",
+      "primary_language": "en",
+      "publication_date": "2018-06-26",
+      "title": "A kind of solar energy photovoltaic generator based on wind-light complementary system",
+      "patent_id": "patent/CN207543026U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207543026U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101630856B",
+      "primary_language": "en",
+      "publication_date": "2011-10-26",
+      "title": "Composite device of light funnel light concentrating photovoltaic power generation and wind power generation",
+      "patent_id": "patent/CN101630856B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101630856B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201747547U",
+      "primary_language": "en",
+      "publication_date": "2011-02-16",
+      "title": "Disc type solar-thermal power device with vanadium flow energy storage means",
+      "patent_id": "patent/CN201747547U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201747547U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110081366A",
+      "primary_language": "en",
+      "publication_date": "2019-08-02",
+      "title": "Light rain complementation binodal energy streetlight",
+      "patent_id": "patent/CN110081366A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110081366A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203617953U",
+      "primary_language": "en",
+      "publication_date": "2014-05-28",
+      "title": "Double-sided photovoltaic power generation device capable of collecting light with large reflecting surface",
+      "patent_id": "patent/CN203617953U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203617953U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207010613U",
+      "primary_language": "en",
+      "publication_date": "2018-02-13",
+      "title": "A kind of photovoltaic efficiency power generation servicing unit",
+      "patent_id": "patent/CN207010613U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207010613U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2013155873A1",
+      "primary_language": "en",
+      "publication_date": "2013-10-24",
+      "title": "Composite power generation system integrating wind power generation and solar power generation",
+      "patent_id": "patent/WO2013155873A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013155873A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202484862U",
+      "primary_language": "en",
+      "publication_date": "2012-10-10",
+      "title": "Lens type solar thermal electric road lamp",
+      "patent_id": "patent/CN202484862U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202484862U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202082057U",
+      "primary_language": "en",
+      "publication_date": "2011-12-21",
+      "title": "Hot-sand heat-storage solar disc Strling generator",
+      "patent_id": "patent/CN202082057U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202082057U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107947687A",
+      "primary_language": "en",
+      "publication_date": "2018-04-20",
+      "title": "A kind of solar energy photovoltaic generator and its photovoltaic panel adjusting method based on wind-light complementary system",
+      "patent_id": "patent/CN107947687A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107947687A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102176483A",
+      "primary_language": "en",
+      "publication_date": "2011-09-07",
+      "title": "Water-heating photoelectric/heat solar system",
+      "patent_id": "patent/CN102176483A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102176483A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202550593U",
+      "primary_language": "en",
+      "publication_date": "2012-11-21",
+      "title": "Wind-solar complementary charger",
+      "patent_id": "patent/CN202550593U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202550593U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201638832U",
+      "primary_language": "en",
+      "publication_date": "2010-11-17",
+      "title": "a solar panel",
+      "patent_id": "patent/CN201638832U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201638832U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN205901676U",
+      "primary_language": "en",
+      "publication_date": "2017-01-18",
+      "title": "Novel high -efficient photovoltaic power generation spotlight device",
+      "patent_id": "patent/CN205901676U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205901676U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201878052U",
+      "primary_language": "en",
+      "publication_date": "2011-06-22",
+      "title": "Solar thermal collection device",
+      "patent_id": "patent/CN201878052U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201878052U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN210440172U",
+      "primary_language": "en",
+      "publication_date": "2020-05-01",
+      "title": "Solar power generation system capable of realizing all-day power generation",
+      "patent_id": "patent/CN210440172U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN210440172U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204244137U",
+      "primary_language": "en",
+      "publication_date": "2015-04-01",
+      "title": "Solar energy, wind power generation wall",
+      "patent_id": "patent/CN204244137U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204244137U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201328090Y",
+      "primary_language": "en",
+      "publication_date": "2009-10-14",
+      "title": "High-power light gathering solar energy generator group",
+      "patent_id": "patent/CN201328090Y/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201328090Y%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201536107U",
+      "primary_language": "en",
+      "publication_date": "2010-07-28",
+      "title": "Domestic low concentration photovoltaic device",
+      "patent_id": "patent/CN201536107U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201536107U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN206904853U",
+      "primary_language": "en",
+      "publication_date": "2018-01-19",
+      "title": "A kind of wind and light complementary road lamp of battery-free",
+      "patent_id": "patent/CN206904853U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206904853U%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2011-02-16",
+      "code": "C14",
+      "title": "Grant of patent or utility model"
+    },
+    {
+      "date": "2011-02-16",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2014-10-08",
+      "code": "C17",
+      "title": "Cessation of patent right"
+    },
+    {
+      "date": "2014-10-08",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee",
+      "attributes": [
+        {
+          "label": "Granted publication date",
+          "value": "20110216"
+        },
+        {
+          "label": "Termination date",
+          "value": "20130811"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,892 @@
+{
+  "search_metadata": {
+    "id": "691889b7c29c3d39acdb8af0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cc901b8f41206e4c/691889b7c29c3d39acdb8af0.json",
+    "created_at": "2025-11-15 14:09:59 UTC",
+    "processed_at": "2025-11-15 14:09:59 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2025147290A3/en",
+    "raw_html_file": "https://serpapi.com/searches/cc901b8f41206e4c/691889b7c29c3d39acdb8af0.html",
+    "total_time_taken": 0.91
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2025147290A3/en"
+  },
+  "title": "Hybrid power generation system",
+  "type": "patent",
+  "publication_number": "WO2025147290A3",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "steam",
+    "power generation",
+    "supply system",
+    "thermal mass",
+    "mass composition"
+  ],
+  "prior_art_date": "2023-07-07",
+  "application_number": "PCT/US2024/036512",
+  "inventors": [
+    {
+      "name": "Krishna P. Singh",
+      "link": "https://patents.google.com/?inventor=Krishna+P.+Singh",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Krishna+P.+Singh"
+    },
+    {
+      "name": "Dharendra Yogi Goswami",
+      "link": "https://patents.google.com/?inventor=Dharendra+Yogi+Goswami",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Dharendra+Yogi+Goswami"
+    },
+    {
+      "name": "Indresh Rampall",
+      "link": "https://patents.google.com/?inventor=Indresh+Rampall",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Indresh+Rampall"
+    }
+  ],
+  "priority_date": "2023-07-07",
+  "filing_date": "2024-07-02",
+  "publication_date": "2025-08-07",
+  "worldwide_applications": {
+    "2023": [
+      {
+        "filing_date": "2023-08-17",
+        "country_code": "US",
+        "application_number": "US18/451,247",
+        "document_id": "patent/US12429036B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2024": [
+      {
+        "filing_date": "2024-07-02",
+        "country_code": "WO",
+        "application_number": "PCT/US2024/036512",
+        "document_id": "patent/WO2025147290A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2024-07-02",
+      "title": "Application filed by Holtec International",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Holtec International"
+    },
+    {
+      "date": "2025-07-10",
+      "title": "Publication of WO2025147290A2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2025147290A2/en"
+    },
+    {
+      "date": "2025-08-07",
+      "title": "Publication of WO2025147290A3",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2025147290A3/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2026-01-07",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2025147290A3&KC=A3&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTUS2024036512/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2025147290"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2025147290A3"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "F01D15/10",
+      "description": "Adaptations for driving, or combinations with, electric generators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/063",
+      "description": "Tower concentrators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/065",
+      "description": "Devices for producing mechanical power from solar energy with solar energy concentrating means having a Rankine cycle",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/067",
+      "description": "Binary cycle plants where the fluid from the solar collector heats the working fluid via a heat exchanger",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/071",
+      "description": "Devices for producing mechanical power from solar energy with energy storage devices",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/117",
+      "description": "Solid-liquid phase change of the heat transfer fluid",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24S20/20",
+      "description": "Solar heat collectors for receiving concentrated solar energy, e.g. receivers for solar power plants",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24S60/00",
+      "description": "Arrangements for storing heat collected by solar heat collectors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24S60/10",
+      "description": "Arrangements for storing heat collected by solar heat collectors using latent heat",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F05D2220/76",
+      "description": "Application in combination with an electrical generator",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24S23/00",
+      "description": "Arrangements for concentrating solar-rays for solar heat collectors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G21D5/16",
+      "description": "Liquid working medium vaporised by reactor coolant superheated by separate heat source",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/46",
+      "description": "Conversion of thermal power into mechanical power, e.g. Rankine, Stirling or solar thermal engines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A hybrid power generation system in one embodiment comprises a green boiler containing a thermal mass composition operable to store thermal energy, a solar energy collection system which absorbs solar energy to heat a first working fluid and in turn the thermal mass composition, and a power generation system comprising a steam turbine coupled to an electric generator to produce electricity and a nuclear steam supply system which convert a second working fluid comprising water from liquid to steam. Steam output by the nuclear steam supply system flows through the green boiler and is heated by absorbing heat from the thermal mass composition to increase the enthalpy of the steam and concomitantly electric power output from the turbine-generator. The nuclear steam supply system and green boiler may be retrofit to replace existing fossil fuel steam generation systems while retaining the energy conversion part of the fossil power plant.",
+  "applications_claiming_priority": [
+    {
+      "application_number": "US202363512443P",
+      "priority_date": "2023-07-07",
+      "filing_date": "2023-07-07"
+    },
+    {
+      "application_number": "US63/512,443",
+      "filing_date": "2023-07-07"
+    },
+    {
+      "application_number": "US18/451,247",
+      "filing_date": "2023-08-17"
+    },
+    {
+      "application_number": "US18/451,247",
+      "representative_publication": "US12429036B2",
+      "primary_language": "en",
+      "priority_date": "2023-07-07",
+      "filing_date": "2023-08-17",
+      "title": "Hybrid power generation system"
+    }
+  ],
+  "family_id": "94176653",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3329575A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1963-12-27",
+        "publication_date": "1967-07-04",
+        "assignee_original": "Combustion Eng",
+        "title": "Power plant apparatus",
+        "patent_id": "patent/US3329575A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3329575A%2Fen"
+      },
+      {
+        "publication_number": "US20020023423A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-12",
+        "publication_date": "2002-02-28",
+        "assignee_original": "Fermin Viteri",
+        "title": "Semi-closed brayton cycle gas turbine power systems",
+        "patent_id": "patent/US20020023423A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020023423A1%2Fen"
+      },
+      {
+        "publication_number": "US20070220889A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-23",
+        "publication_date": "2007-09-27",
+        "assignee_original": "Nayef Durald S",
+        "title": "Electric Power Plant With Thermal Storage Medium",
+        "patent_id": "patent/US20070220889A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070220889A1%2Fen"
+      },
+      {
+        "publication_number": "US20090090109A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-06",
+        "publication_date": "2009-04-09",
+        "assignee_original": "Mills David R",
+        "title": "Granular thermal energy storage mediums and devices for thermal energy storage systems",
+        "patent_id": "patent/US20090090109A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090090109A1%2Fen"
+      },
+      {
+        "publication_number": "US20130199517A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-15",
+        "publication_date": "2013-08-08",
+        "assignee_original": "Abengoa Solar New Technologies, S.A.",
+        "title": "Molten salt solar receiver and procedure to reduce the temperature gradient in said receiver",
+        "patent_id": "patent/US20130199517A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130199517A1%2Fen"
+      },
+      {
+        "publication_number": "US20150096299A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-07",
+        "publication_date": "2015-04-09",
+        "assignee_original": "Babcock & Wilcox Power Generation Group, Inc.",
+        "title": "Solar-nuclear hybrid power plant",
+        "patent_id": "patent/US20150096299A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150096299A1%2Fen"
+      },
+      {
+        "publication_number": "US20200095984A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-23",
+        "publication_date": "2020-03-26",
+        "assignee_original": "Yeda Research And Development Co. Ltd.",
+        "title": "Solar system for energy production",
+        "patent_id": "patent/US20200095984A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200095984A1%2Fen"
+      },
+      {
+        "publication_number": "US20200363132A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-05-15",
+        "publication_date": "2020-11-19",
+        "assignee_original": "Uchicago Argonne, Llc",
+        "title": "Combined thermal energy storage and heat exchanger unit",
+        "patent_id": "patent/US20200363132A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200363132A1%2Fen"
+      },
+      {
+        "publication_number": "US20220325640A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-05",
+        "publication_date": "2022-10-13",
+        "assignee_original": "William M. Conlon",
+        "title": "Method of operating thermal energy storage system",
+        "patent_id": "patent/US20220325640A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220325640A1%2Fen"
+      },
+      {
+        "publication_number": "US20250012260A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-07",
+        "publication_date": "2025-01-09",
+        "assignee_original": "Holtec International",
+        "title": "Hybrid power generation system",
+        "patent_id": "patent/US20250012260A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250012260A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US3575002A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1965-06-15",
+        "publication_date": "1971-04-13",
+        "assignee_original": "Combustion Eigineering Inc",
+        "title": "Combination fossil fuel and superheated steam nuclear power plant",
+        "patent_id": "patent/US3575002A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3575002A%2Fen"
+      },
+      {
+        "publication_number": "GB1524236A",
+        "primary_language": "en",
+        "priority_date": "1974-12-16",
+        "publication_date": "1978-09-06",
+        "assignee_original": "Exxon Research Engineering Co",
+        "title": "Energy storage and transference by means of liquid heat retention materials",
+        "patent_id": "patent/GB1524236A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1524236A%2Fen"
+      },
+      {
+        "publication_number": "US4341262A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-05-05",
+        "publication_date": "1982-07-27",
+        "assignee_original": "Alspaugh Thomas R",
+        "title": "Energy storage system and method",
+        "patent_id": "patent/US4341262A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4341262A%2Fen"
+      },
+      {
+        "publication_number": "US4809672A",
+        "primary_language": "en",
+        "priority_date": "1987-10-13",
+        "publication_date": "1989-03-07",
+        "assignee_original": "Alzeta Corporation",
+        "title": "Gas-fired bayonet-type heater",
+        "patent_id": "patent/US4809672A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4809672A%2Fen"
+      },
+      {
+        "publication_number": "US20100089059A1",
+        "primary_language": "en",
+        "priority_date": "2008-06-13",
+        "publication_date": "2010-04-15",
+        "assignee_original": "Roger Ferguson",
+        "title": "Hybrid Power Facilities",
+        "patent_id": "patent/US20100089059A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100089059A1%2Fen"
+      },
+      {
+        "publication_number": "JP5342301B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-30",
+        "publication_date": "2013-11-13",
+        "assignee_original": "三菱重工業株式会社",
+        "title": "Solar concentrator",
+        "patent_id": "patent/JP5342301B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5342301B2%2Fen"
+      },
+      {
+        "publication_number": "JP5496828B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-27",
+        "publication_date": "2014-05-21",
+        "assignee_original": "東京エレクトロン株式会社",
+        "title": "Heat treatment equipment",
+        "patent_id": "patent/JP5496828B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5496828B2%2Fen"
+      },
+      {
+        "publication_number": "US20140251310A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-19",
+        "publication_date": "2014-09-11",
+        "assignee_original": "Abengoa Solar Llc",
+        "title": "High temperature thermal energy storage",
+        "patent_id": "patent/US20140251310A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140251310A1%2Fen"
+      },
+      {
+        "publication_number": "US10690121B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-31",
+        "publication_date": "2020-06-23",
+        "assignee_original": "University Of South Florida",
+        "title": "Integrated cascading cycle solar thermal plants",
+        "patent_id": "patent/US10690121B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10690121B2%2Fen"
+      },
+      {
+        "publication_number": "JP2013130372A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-22",
+        "publication_date": "2013-07-04",
+        "assignee_original": "Mitsubishi Heavy Ind Ltd",
+        "title": "Solar heat receiver, method for assembling the same, and solar heat power generation system with solar heat receiver",
+        "patent_id": "patent/JP2013130372A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013130372A%2Fen"
+      },
+      {
+        "publication_number": "US9638064B2",
+        "primary_language": "en",
+        "priority_date": "2012-03-19",
+        "publication_date": "2017-05-02",
+        "assignee_original": "Stamicarbon B.V.",
+        "title": "Back-up boiler system for a solar thermal power plant based on molten salt technology, a solar thermal power plant and a method for operating a solar thermal power plant",
+        "patent_id": "patent/US9638064B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9638064B2%2Fen"
+      },
+      {
+        "publication_number": "EP2861908B1",
+        "primary_language": "en",
+        "priority_date": "2012-05-10",
+        "publication_date": "2020-12-23",
+        "assignee_original": "Stamicarbon B.V. acting under the name of MT Innovation Center",
+        "title": "Method for modifying a solar thermal power plant operating on conventional oil based technology into a hybrid solar thermal power plant and such a hybrid solar thermal power plant",
+        "patent_id": "patent/EP2861908B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2861908B1%2Fen"
+      },
+      {
+        "publication_number": "CN204187603U",
+        "primary_language": "en",
+        "priority_date": "2014-05-23",
+        "publication_date": "2015-03-04",
+        "assignee_original": "深圳市爱能森设备技术有限公司",
+        "title": "A kind of paddy electricity superheated steam boiler of Molten Salt Heat Transfer heat accumulation",
+        "patent_id": "patent/CN204187603U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204187603U%2Fen"
+      },
+      {
+        "publication_number": "EP2963290A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-03",
+        "publication_date": "2016-01-06",
+        "assignee_original": "NEM Energy B.V.",
+        "title": "Solar tower plant",
+        "patent_id": "patent/EP2963290A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2963290A1%2Fen"
+      },
+      {
+        "publication_number": "CN106796051A",
+        "primary_language": "en",
+        "priority_date": "2014-10-06",
+        "publication_date": "2017-05-31",
+        "assignee_original": "巴布考克及威尔考克斯公司",
+        "title": "With the modularization fused salt solar column for technique or the heat storage of generating or cogeneration of heat and power",
+        "patent_id": "patent/CN106796051A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106796051A%2Fen"
+      },
+      {
+        "publication_number": "WO2016179199A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-04",
+        "publication_date": "2016-11-10",
+        "assignee_original": "Gossamer Space Frames",
+        "title": "Solar power plant",
+        "patent_id": "patent/WO2016179199A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016179199A1%2Fen"
+      },
+      {
+        "publication_number": "FR3048534A1",
+        "primary_language": "en",
+        "priority_date": "2016-03-01",
+        "publication_date": "2017-09-08",
+        "assignee_original": "Commissariat Energie Atomique",
+        "title": "SENSOR FOR THERMAL PATTERNS WITH BOLOMETERS UNDER CAPSULE (S).",
+        "patent_id": "patent/FR3048534A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3048534A1%2Fen"
+      },
+      {
+        "publication_number": "GB2550390A",
+        "primary_language": "en",
+        "priority_date": "2016-05-18",
+        "publication_date": "2017-11-22",
+        "assignee_original": "Anton Michel",
+        "title": "Continuous moving bed chromatography",
+        "patent_id": "patent/GB2550390A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2550390A%2Fen"
+      },
+      {
+        "publication_number": "WO2018037324A1",
+        "primary_language": "en",
+        "priority_date": "2016-08-25",
+        "publication_date": "2018-03-01",
+        "assignee_original": "Shahid Khan",
+        "title": "System using hybrid solar-fossil sources for power generation",
+        "patent_id": "patent/WO2018037324A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018037324A1%2Fen"
+      },
+      {
+        "publication_number": "WO2018101989A1",
+        "primary_language": "en",
+        "priority_date": "2016-11-30",
+        "publication_date": "2018-06-07",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "System for direct electrical charging and storage of thermal energy for power plants",
+        "patent_id": "patent/WO2018101989A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018101989A1%2Fen"
+      },
+      {
+        "publication_number": "US11060716B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-13",
+        "publication_date": "2021-07-13",
+        "assignee_original": "Marco Antonio de Miranda Carvalho",
+        "title": "System and methods for integration of concentrated solar steam generators to Rankine cycle power plants",
+        "patent_id": "patent/US11060716B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11060716B2%2Fen"
+      },
+      {
+        "publication_number": "CN107013892B",
+        "primary_language": "en",
+        "priority_date": "2017-05-17",
+        "publication_date": "2020-10-23",
+        "assignee_original": "杭州锅炉集团股份有限公司",
+        "title": "Gas turbine waste heat boiler device with molten salt heat storage function",
+        "patent_id": "patent/CN107013892B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107013892B%2Fen"
+      },
+      {
+        "publication_number": "US20190203614A1",
+        "primary_language": "en",
+        "priority_date": "2017-12-28",
+        "publication_date": "2019-07-04",
+        "assignee_original": "Ge-Hitachi Nuclear Energy Americas Llc",
+        "title": "Systems and methods for steam reheat in power plants",
+        "patent_id": "patent/US20190203614A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190203614A1%2Fen"
+      },
+      {
+        "publication_number": "EP3874220B1",
+        "primary_language": "en",
+        "priority_date": "2018-10-29",
+        "publication_date": "2023-07-12",
+        "assignee_original": "Azelio AB",
+        "title": "Thermal energy storage assembly",
+        "patent_id": "patent/EP3874220B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3874220B1%2Fen"
+      },
+      {
+        "publication_number": "CN209145783U",
+        "primary_language": "en",
+        "priority_date": "2018-11-09",
+        "publication_date": "2019-07-23",
+        "assignee_original": "中国科学技术大学",
+        "title": "A supercritical carbon dioxide Brayton cascade cycle solar thermal power generation system",
+        "patent_id": "patent/CN209145783U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN209145783U%2Fen"
+      },
+      {
+        "publication_number": "CN111288428A",
+        "primary_language": "en",
+        "priority_date": "2020-04-09",
+        "publication_date": "2020-06-16",
+        "assignee_original": "东方电气集团东方锅炉股份有限公司",
+        "title": "Fused salt electrode boiler heat-storage power generation system",
+        "patent_id": "patent/CN111288428A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111288428A%2Fen"
+      },
+      {
+        "publication_number": "CN111365086B",
+        "primary_language": "en",
+        "priority_date": "2020-05-07",
+        "publication_date": "2024-07-02",
+        "assignee_original": "西安西热节能技术有限公司",
+        "title": "Shutdown non-shutdown furnace system and method based on molten salt heat storage",
+        "patent_id": "patent/CN111365086B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111365086B%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "family_to_family": [
+      {
+        "publication_number": "US12429036B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-07",
+        "publication_date": "2025-09-30",
+        "assignee_original": "Holtec International",
+        "title": "Hybrid power generation system",
+        "patent_id": "patent/US12429036B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12429036B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CA2945415C",
+      "primary_language": "en",
+      "publication_date": "2019-03-26",
+      "title": "Optimized integrated system for solar-biomass hybrid electricity generation",
+      "patent_id": "patent/CA2945415C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2945415C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101592136B",
+      "primary_language": "en",
+      "publication_date": "2012-07-18",
+      "title": "Surplus heat utilizing solar thermal power generation device",
+      "patent_id": "patent/CN101592136B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101592136B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111306001A",
+      "primary_language": "en",
+      "publication_date": "2020-06-19",
+      "title": "Wind-light reactor system and working method thereof",
+      "patent_id": "patent/CN111306001A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111306001A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104632560A",
+      "primary_language": "en",
+      "publication_date": "2015-05-20",
+      "title": "Method and system for closing type Britten-Rankine combined cycle solar heat power generation",
+      "patent_id": "patent/CN104632560A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104632560A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104653420A",
+      "primary_language": "en",
+      "publication_date": "2015-05-27",
+      "title": "Tower solar thermal power generation method and system using closed Brayton cycle",
+      "patent_id": "patent/CN104653420A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104653420A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104653419A",
+      "primary_language": "en",
+      "publication_date": "2015-05-27",
+      "title": "Closed Brayton tower solar thermal power generation method and system",
+      "patent_id": "patent/CN104653419A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104653419A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103925178B",
+      "primary_language": "en",
+      "publication_date": "2016-08-03",
+      "title": "It is suitable for becoming the solar association cycle generating system of irradiation regulation and control",
+      "patent_id": "patent/CN103925178B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103925178B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104896764A",
+      "primary_language": "en",
+      "publication_date": "2015-09-09",
+      "title": "Solar thermal power generation method and device",
+      "patent_id": "patent/CN104896764A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104896764A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107939623A",
+      "primary_language": "en",
+      "publication_date": "2018-04-20",
+      "title": "Solar energy water working medium tower type thermal generation device with fuse salt heat accumulation",
+      "patent_id": "patent/CN107939623A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107939623A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204572366U",
+      "primary_language": "en",
+      "publication_date": "2015-08-19",
+      "title": "Enclosed Boulez is adopted to pause the tower-type solar thermal power generating system of circulation",
+      "patent_id": "patent/CN204572366U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204572366U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101126503A",
+      "primary_language": "en",
+      "publication_date": "2008-02-20",
+      "title": "Solar energy heat drum boiler and its uses of the boiler in generating set",
+      "patent_id": "patent/CN101126503A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101126503A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204691835U",
+      "primary_language": "en",
+      "publication_date": "2015-10-07",
+      "title": "A kind of Boulez pauses-organic Rankine type solar energy thermal-power-generating device",
+      "patent_id": "patent/CN204691835U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204691835U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202673591U",
+      "primary_language": "en",
+      "publication_date": "2013-01-16",
+      "title": "Trough and tower solar hybrid power generation system",
+      "patent_id": "patent/CN202673591U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202673591U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025147290A3",
+      "primary_language": "en",
+      "publication_date": "2025-08-07",
+      "title": "Hybrid power generation system",
+      "patent_id": "patent/WO2025147290A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025147290A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215170240U",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Heat-storage peak regulation system of thermal power plant",
+      "patent_id": "patent/CN215170240U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215170240U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104764217A",
+      "primary_language": "en",
+      "publication_date": "2015-07-08",
+      "title": "Generalized closed Brayton type tower type solar thermal power generation method and system",
+      "patent_id": "patent/CN104764217A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104764217A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204572363U",
+      "primary_language": "en",
+      "publication_date": "2015-08-19",
+      "title": "Enclosed Boulez pauses-Rankine combined cycle solar heat power generation system",
+      "patent_id": "patent/CN204572363U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204572363U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215176096U",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Solar photovoltaic photo-thermal hybrid power generation system",
+      "patent_id": "patent/CN215176096U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215176096U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202673592U",
+      "primary_language": "en",
+      "publication_date": "2013-01-16",
+      "title": "Slot type solar-gas combined cycle generation system",
+      "patent_id": "patent/CN202673592U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202673592U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215170237U",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Flexible peak shaving system of thermal power plant based on heat storage",
+      "patent_id": "patent/CN215170237U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215170237U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204693854U",
+      "primary_language": "en",
+      "publication_date": "2015-10-07",
+      "title": "A kind of solar energy thermal-power-generating device",
+      "patent_id": "patent/CN204693854U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204693854U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201705599U",
+      "primary_language": "en",
+      "publication_date": "2011-01-12",
+      "title": "Trough type solar energy thermal power generation system",
+      "patent_id": "patent/CN201705599U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201705599U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106121942A",
+      "primary_language": "en",
+      "publication_date": "2016-11-16",
+      "title": "A kind of supercritical solar power station using liquid lead bismuth heat transfer and heat accumulation",
+      "patent_id": "patent/CN106121942A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106121942A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN206988033U",
+      "primary_language": "en",
+      "publication_date": "2018-02-09",
+      "title": "A kind of butterfly fused salt solar-thermal generating system",
+      "patent_id": "patent/CN206988033U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206988033U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204572364U",
+      "primary_language": "en",
+      "publication_date": "2015-08-19",
+      "title": "Enclosed Boulez pauses type tower-type solar thermal power generating system",
+      "patent_id": "patent/CN204572364U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204572364U%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2025-08-20",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "24915356"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        }
+      ]
+    }
+  ]
+}

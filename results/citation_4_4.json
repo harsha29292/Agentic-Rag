@@ -1,0 +1,1828 @@
+{
+  "search_metadata": {
+    "id": "691889c2919dfab56ae928b4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/98f45916e85f40ef/691889c2919dfab56ae928b4.json",
+    "created_at": "2025-11-15 14:10:10 UTC",
+    "processed_at": "2025-11-15 14:10:10 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20130199517A1/en",
+    "raw_html_file": "https://serpapi.com/searches/98f45916e85f40ef/691889c2919dfab56ae928b4.html",
+    "total_time_taken": 0.84
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20130199517A1/en"
+  },
+  "title": "Molten salt solar receiver and procedure to reduce the temperature gradient in said receiver",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/e6/51/0e/0f34357d78c939/US20130199517A1.pdf",
+  "publication_number": "US20130199517A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "receiver",
+    "heat transfer",
+    "transfer fluid",
+    "molten",
+    "molten salt"
+  ],
+  "prior_art_date": "2010-01-15",
+  "application_number": "US13/522,235",
+  "inventors": [
+    {
+      "name": "Raul Navío Gilaberte",
+      "link": "https://patents.google.com/?inventor=Raul+Nav%C3%ADo+Gilaberte",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Raul+Nav%C3%ADo+Gilaberte"
+    },
+    {
+      "name": "Paula Llorente Folch",
+      "link": "https://patents.google.com/?inventor=Paula+Llorente+Folch",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Paula+Llorente+Folch"
+    },
+    {
+      "name": "Maria del Carmen Romero Delgado",
+      "link": "https://patents.google.com/?inventor=Maria+del+Carmen+Romero+Delgado",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Maria+del+Carmen+Romero+Delgado"
+    }
+  ],
+  "assignees": [
+    "Abengoa Solar New Technologies SA"
+  ],
+  "priority_date": "2010-01-15",
+  "filing_date": "2011-01-14",
+  "publication_date": "2013-08-08",
+  "worldwide_applications": {
+    "2010": [
+      {
+        "filing_date": "2010-01-15",
+        "country_code": "ES",
+        "application_number": "ES201000047A",
+        "document_id": "patent/ES2363288B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "2011": [
+      {
+        "filing_date": "2011-01-12",
+        "country_code": "SA",
+        "application_number": "SA111320102A",
+        "document_id": "patent/SA111320102B1/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2011-01-14",
+        "country_code": "CN",
+        "application_number": "CN201180014332.XA",
+        "document_id": "patent/CN102812306B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2011-01-14",
+        "country_code": "US",
+        "application_number": "US13/522,235",
+        "document_id": "patent/US9182149B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2011-01-14",
+        "country_code": "WO",
+        "application_number": "PCT/ES2011/000005",
+        "document_id": "patent/WO2011086215A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      },
+      {
+        "filing_date": "2011-01-14",
+        "country_code": "ES",
+        "application_number": "ES11732696.7T",
+        "document_id": "patent/ES2605329T3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2011-01-14",
+        "country_code": "EP",
+        "application_number": "EP11732696.7A",
+        "document_id": "patent/EP2525161B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2012": [
+      {
+        "filing_date": "2012-07-12",
+        "country_code": "ZA",
+        "application_number": "ZA2012/05197A",
+        "document_id": "patent/ZA201205197B/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2012-07-13",
+        "country_code": "CL",
+        "application_number": "CL2012001963A",
+        "document_id": "patent/CL2012001963A1/en",
+        "legal_status_cat": "unknown"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2011-01-14",
+      "title": "Application filed by Abengoa Solar New Technologies SA",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Abengoa Solar New Technologies SA"
+    },
+    {
+      "date": "2013-05-29",
+      "title": "Assigned to ABENGOA SOLAR NEW TECHNOLOGIES, S.A.",
+      "type": "reassignment",
+      "assignee_search": "ABENGOA SOLAR NEW TECHNOLOGIES, S.A.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CARMEN ROMERO DELGADO, MARIA DEL, LLORENTE FOLCH, PAULA, NAVIO GILABERTE, RAUL"
+      ]
+    },
+    {
+      "date": "2013-08-08",
+      "title": "Publication of US20130199517A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20130199517A1/en"
+    },
+    {
+      "date": "2015-11-10",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2015-11-10",
+      "title": "Publication of US9182149B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US9182149B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2032-08-08",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20130199517.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/13522235"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20130199517"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2013199517A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/13522235/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20130199517"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/49/e7/64/bc0613c81e480d/US20130199517A1-20130808-D00000.png",
+    "https://patentimages.storage.googleapis.com/f0/b6/26/03624fa2117aec/US20130199517A1-20130808-D00001.png",
+    "https://patentimages.storage.googleapis.com/bc/28/b2/75bc55288bb58b/US20130199517A1-20130808-D00002.png"
+  ],
+  "classifications": [
+    {
+      "code": "F24S80/20",
+      "description": "Working fluids specially adapted for solar heat collectors",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24J2/4649",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24S10/70",
+      "description": "Solar heat collectors using working fluids the working fluids being conveyed through tubular absorbing conduits",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/02",
+      "description": "Devices for producing mechanical power from solar energy using a single state working fluid",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/06",
+      "description": "Devices for producing mechanical power from solar energy with solar energy concentrating means",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24J2/46",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24S20/20",
+      "description": "Solar heat collectors for receiving concentrated solar energy, e.g. receivers for solar power plants",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24S60/10",
+      "description": "Arrangements for storing heat collected by solar heat collectors using latent heat",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24S80/00",
+      "description": "Details, accessories or component parts of solar heat collectors not provided for in groups F24S10/00-F24S70/00",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F28D20/028",
+      "description": "Control arrangements therefor",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F28D2020/0047",
+      "description": "Heat storage plants or apparatus in general; Regenerative heat-exchange apparatus not covered by groups F28D17/00 or F28D19/00 using liquid heat storage material using molten salts or liquid metals",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F28D2020/006",
+      "description": "Heat storage systems not otherwise provided for",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/40",
+      "description": "Solar thermal energy, e.g. solar towers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/44",
+      "description": "Heat exchange systems",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/46",
+      "description": "Conversion of thermal power into mechanical power, e.g. Rankine, Stirling or solar thermal engines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/50",
+      "description": "Photovoltaic [PV] energy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/14",
+      "description": "Thermal energy storage",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E70/30",
+      "description": "Systems combining energy storage with energy generation of non-fossil origin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Molten salt solar receiver and procedure to reduce the temperature gradient in said receiver. The receiver consists of at least one panel of semi cylindrical geometry, formed by a combination of vertical pipes. The receiver (10) is supplied with a heat transfer fluid made up of molten salts which originate from a recirculation system which is composed of a mixture deposit (6), a hot salt storage tank (9) and a cold salt storage tank (8); the mixture tank (6) which is supplied by a part of the hot heat transfer fluid (4) which exits the receiver (10) and the cold heat transfer fluid (5) which exits the cold salt storage tank (8); the hot salt storage tank is connected to the exit of the receiver (10) so that a part of the heat transfer fluid which does not recirculate is stored (3).",
+  "description_link": "https://serpapi.com/searches/691889c2919dfab56ae928b4/google_patents_details/description.html",
+  "claims": [
+    "1. Tower type molten salt solar receiver, through which the heat transfer fluid circulates, characterised in that the receiver (10) is supplied with a heat transfer fluid made of molten salts which originate from a recirculation system which is composed of a mixture deposit (6), hot salt storage tank (9) and cold salt storage tank (8); the mixture tank (6) which is supplied with a part of the hot heat transfer fluid (4) which exits the receiver (10) and with cold heat transfer fluid (5) which exits the cold salt storage tank (8); the hot salt storage tank is connected to the exit of the receiver (10) so that a part of the heat transfer fluid which does not recirculate is stored (3).",
+    "2. Molten salt solar receiver according to claim 1 characterised in that said receiver is a pipe receiver.",
+    "3. Molten salt solar receiver according to claim 2 characterised in that said receiver is a vertical pipe receiver.",
+    "4. Molten salt solar receiver according to claim 2 characterised in that said receiver is a horizontal pipe receiver.",
+    "5. Molten salt solar receiver according to claim 1 characterised in that a mixture of molten nitrate salts are employed as a heat transfer fluid.",
+    "6. Molten salt solar receiver according to claim 5 characterised in that a mixture of molten nitrate salts are employed as a heat transfer fluid, this composition being 60% NaNO3 and 40% KNO3.",
+    "7. Molten salt solar receiver according to claim 1 characterised in that it is composed of an impulsion pump (7) for the exit from the mixture deposit (6) to the receiver (10) situated on the top of the tower and several regulation valves (15, 16, 17 and 18) at the entrance of each panel (11, 12, 13, 14 and 15) of the receiver.",
+    "8. Procedure to reduce the temperature gradient in a molten salt solar receiver and, as described in the previous claims, characterised in that, to reduce the gradient, part of the molten salt flow which exits the receiver at high temperature is recirculated and is mixed with a flow of cold salts, so that the heat transfer fluid of salts which enter the receiver is at an intermediate temperature, which reduces the thermal gradient between the entrance and exit of said fluid.",
+    "9. Procedure to reduce the temperature gradient in a molten salt solar receiver according to claim 8 characterised in that it comprises the following stages:\nSupply of the flow of molten salts (1) provided by a mixture deposit (6) on the upper part of the panels (11, 12, 13 and 14) which the receiver is composed of (10) through several regulation valves (15, 16, 17 and 18), making it circulate inside the pipes, absorbing the concentrated solar energy,\nthe flow of hot molten salts (2) is collected on the lower part of the receiver, recirculating a part of the flow (4) to the mixture deposit (6) with the other part (3) being stored in the hot salt storage tank (9),\nsupply to the mixture deposit (6) of cold salts (5) originating from a cold salt tank (8) and by the flow of hot salts from the receiver which is recirculated (4)."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "ES201000047A",
+      "representative_publication": "ES2363288B1",
+      "primary_language": "en",
+      "priority_date": "2010-01-15",
+      "filing_date": "2010-01-15",
+      "title": "SOLAR RECEIVER OF FOUNDED SALTS AND PROCEDURE TO REDUCE THERMAL GRADIENT IN SUCH RECEPTOR."
+    },
+    {
+      "application_number": "ESP20100047",
+      "filing_date": "2010-01-15"
+    },
+    {
+      "application_number": "ES201000047",
+      "filing_date": "2010-01-15"
+    },
+    {
+      "application_number": "PCT/ES2011/000005",
+      "representative_publication": "WO2011086215A1",
+      "primary_language": "en",
+      "priority_date": "2010-01-15",
+      "filing_date": "2011-01-14",
+      "title": "Molten salt solar panel and method for reducing the thermal gradient of said panel"
+    }
+  ],
+  "family_id": "44260290",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US1993213A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1933-10-18",
+        "publication_date": "1935-03-05",
+        "assignee_original": "Ferdinand A Gill",
+        "title": "Solar ray apparatus",
+        "patent_id": "patent/US1993213A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1993213A%2Fen"
+      },
+      {
+        "publication_number": "US3931806A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-05-06",
+        "publication_date": "1976-01-13",
+        "assignee_original": "Johnson Service Company",
+        "title": "Method and apparatus for storing a medium heated by solar energy",
+        "patent_id": "patent/US3931806A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3931806A%2Fen"
+      },
+      {
+        "publication_number": "US4012920A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-02-18",
+        "publication_date": "1977-03-22",
+        "assignee_original": "Westinghouse Electric Corporation",
+        "title": "Heating and cooling system with heat pump and storage",
+        "patent_id": "patent/US4012920A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4012920A%2Fen"
+      },
+      {
+        "publication_number": "US4237859A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-04-25",
+        "publication_date": "1980-12-09",
+        "assignee_original": "Goettl Adam D",
+        "title": "Thermal energy storage and utilization system",
+        "patent_id": "patent/US4237859A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4237859A%2Fen"
+      },
+      {
+        "publication_number": "US4299277A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-07-19",
+        "publication_date": "1981-11-10",
+        "assignee_original": "Climate Cycling Corporation",
+        "title": "Heating and cooling system employing remote buried storage areas",
+        "patent_id": "patent/US4299277A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4299277A%2Fen"
+      },
+      {
+        "publication_number": "FR2482205A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-05-08",
+        "publication_date": "1981-11-13",
+        "assignee_original": "Electricite De France",
+        "title": "THERMODYNAMIC CONVERSION PLANT USING SOLAR RADIATION",
+        "patent_id": "patent/FR2482205A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2482205A1%2Fen"
+      },
+      {
+        "publication_number": "US4376435A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-04-08",
+        "publication_date": "1983-03-15",
+        "assignee_original": "Pittman Charles D",
+        "title": "Solar powered air conditioning system",
+        "patent_id": "patent/US4376435A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4376435A%2Fen"
+      },
+      {
+        "publication_number": "US4385625A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-03-02",
+        "publication_date": "1983-05-31",
+        "assignee_original": "Lee Kap Joong",
+        "title": "Building heating system",
+        "patent_id": "patent/US4385625A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4385625A%2Fen"
+      },
+      {
+        "publication_number": "US4458669A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-03-02",
+        "publication_date": "1984-07-10",
+        "assignee_original": "Lee Kap Joong",
+        "title": "Building heating system",
+        "patent_id": "patent/US4458669A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4458669A%2Fen"
+      },
+      {
+        "publication_number": "US4738305A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-02-04",
+        "publication_date": "1988-04-19",
+        "assignee_original": "Bacchus Rockney D",
+        "title": "Air conditioner and heat dispenser",
+        "patent_id": "patent/US4738305A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4738305A%2Fen"
+      },
+      {
+        "publication_number": "US5048507A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-02-07",
+        "publication_date": "1991-09-17",
+        "assignee_original": "Ridett Alan H",
+        "title": "Endothermic building",
+        "patent_id": "patent/US5048507A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5048507A%2Fen"
+      },
+      {
+        "publication_number": "US5386709A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-12-10",
+        "publication_date": "1995-02-07",
+        "assignee_original": "Baltimore Aircoil Company, Inc.",
+        "title": "Subcooling and proportional control of subcooling of liquid refrigerant circuits with thermal storage or low temperature reservoirs",
+        "patent_id": "patent/US5386709A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5386709A%2Fen"
+      },
+      {
+        "publication_number": "US5444972A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-04-12",
+        "publication_date": "1995-08-29",
+        "assignee_original": "Rockwell International Corporation",
+        "title": "Solar-gas combined cycle electrical generating system",
+        "patent_id": "patent/US5444972A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5444972A%2Fen"
+      },
+      {
+        "publication_number": "US6957536B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-03",
+        "publication_date": "2005-10-25",
+        "assignee_original": "The Boeing Company",
+        "title": "Systems and methods for generating electrical power from solar energy",
+        "patent_id": "patent/US6957536B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6957536B2%2Fen"
+      },
+      {
+        "publication_number": "US20070214829A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-27",
+        "publication_date": "2007-09-20",
+        "assignee_original": "Masahisa Otake",
+        "title": "Heat exchanger and refrigeration cycle device using the same",
+        "patent_id": "patent/US20070214829A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070214829A1%2Fen"
+      },
+      {
+        "publication_number": "US20070251258A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-23",
+        "publication_date": "2007-11-01",
+        "assignee_original": "Yoshinori Nishiwaki",
+        "title": "Cooling System",
+        "patent_id": "patent/US20070251258A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070251258A1%2Fen"
+      },
+      {
+        "publication_number": "US7296410B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-10",
+        "publication_date": "2007-11-20",
+        "assignee_original": "United Technologies Corporation",
+        "title": "Solar power system and method for power generation",
+        "patent_id": "patent/US7296410B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7296410B2%2Fen"
+      },
+      {
+        "publication_number": "US7685820B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-08",
+        "publication_date": "2010-03-30",
+        "assignee_original": "United Technologies Corporation",
+        "title": "Supercritical CO2 turbine for use in solar power plants",
+        "patent_id": "patent/US7685820B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7685820B2%2Fen"
+      },
+      {
+        "publication_number": "US20100163016A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-28",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Ge Pan",
+        "title": "Method for Producing Hot Water Utilizing Combined Heat Resources of Solar Energy and Heat Pump in the Manner of Heating Water at Multilpe Stages and Accumulating Energy and a Device Especially for Carrying Out the Method",
+        "patent_id": "patent/US20100163016A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100163016A1%2Fen"
+      },
+      {
+        "publication_number": "US20110139146A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-16",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Tokio Ohkawa",
+        "title": "Superheated Steam Generator, Electric Power Generating Ship, and Connection Robot",
+        "patent_id": "patent/US20110139146A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110139146A1%2Fen"
+      },
+      {
+        "publication_number": "US20120102950A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-02",
+        "publication_date": "2012-05-03",
+        "assignee_original": "Alliance For Sustainable Energy, Llc.",
+        "title": "Solar thermal power plant with the integration of an aeroderivative turbine",
+        "patent_id": "patent/US20120102950A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120102950A1%2Fen"
+      },
+      {
+        "publication_number": "US8365529B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-30",
+        "publication_date": "2013-02-05",
+        "assignee_original": "United Technologies Corporation",
+        "title": "High temperature molten salt receiver",
+        "patent_id": "patent/US8365529B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8365529B2%2Fen"
+      },
+      {
+        "publication_number": "US20130118481A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-16",
+        "publication_date": "2013-05-16",
+        "assignee_original": "Babcock & Wilcox Power Generation Group, Inc.",
+        "title": "Solar receiver with dual-exposer heat absorption panel",
+        "patent_id": "patent/US20130118481A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130118481A1%2Fen"
+      },
+      {
+        "publication_number": "US20140223906A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-08",
+        "publication_date": "2014-08-14",
+        "assignee_original": "Skyfuel, Inc.",
+        "title": "Solar/gas hybrid power system configurations and methods of use",
+        "patent_id": "patent/US20140223906A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140223906A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5862800A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-27",
+        "publication_date": "1999-01-26",
+        "assignee_original": "Boeing North American, Inc.",
+        "title": "Molten nitrate salt solar central receiver of low cycle fatigue 625 alloy",
+        "patent_id": "patent/US5862800A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5862800A%2Fen"
+      },
+      {
+        "publication_number": "US6701711B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-11",
+        "publication_date": "2004-03-09",
+        "assignee_original": "The Boeing Company",
+        "title": "Molten salt receiver cooling system",
+        "patent_id": "patent/US6701711B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6701711B1%2Fen"
+      },
+      {
+        "publication_number": "US6877508B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-22",
+        "publication_date": "2005-04-12",
+        "assignee_original": "The Boeing Company",
+        "title": "Expansion bellows for use in solar molten salt piping and valves",
+        "patent_id": "patent/US6877508B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6877508B2%2Fen"
+      },
+      {
+        "publication_number": "US7051529B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-20",
+        "publication_date": "2006-05-30",
+        "assignee_original": "United Technologies Corporation",
+        "title": "Solar dish concentrator with a molten salt receiver incorporating thermal energy storage",
+        "patent_id": "patent/US7051529B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7051529B2%2Fen"
+      },
+      {
+        "publication_number": "AU2005278448B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-31",
+        "publication_date": "2008-12-18",
+        "assignee_original": "Tokyo Institute Of Technology",
+        "title": "Sunlight heat collector, sunlight collecting reflection device, sunlight collecting system, and sunlight energy utilizing system",
+        "patent_id": "patent/AU2005278448B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2005278448B2%2Fen"
+      },
+      {
+        "publication_number": "CN101240947B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-19",
+        "publication_date": "2010-12-08",
+        "assignee_original": "上海工电能源科技有限公司",
+        "title": "Self-adapting solar energy heat collection molten salt receiver system",
+        "patent_id": "patent/CN101240947B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101240947B%2Fen"
+      },
+      {
+        "publication_number": "CN101298944B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-03-21",
+        "publication_date": "2010-12-22",
+        "assignee_original": "中国科学院电工研究所",
+        "title": "A passive molten salt heat absorbing device",
+        "patent_id": "patent/CN101298944B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101298944B%2Fen"
+      },
+      {
+        "publication_number": "ES2363288B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-15",
+        "publication_date": "2012-02-27",
+        "assignee_original": "Abengoa Solar New Technologies S.A.",
+        "title": "SOLAR RECEIVER OF FOUNDED SALTS AND PROCEDURE TO REDUCE THERMAL GRADIENT IN SUCH RECEPTOR.",
+        "patent_id": "patent/ES2363288B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2363288B1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\"FR_2482205_A_M - Machine Trans.pdf\"; Machine translation of FR-2482205-A; http://www.epo.org; 11/22/2014.",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN104236132A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-13",
+        "publication_date": "2014-12-24",
+        "assignee_original": "南京工业大学",
+        "title": "Medium-high temperature solar energy storage device based on efficient heat storage and release unit",
+        "patent_id": "patent/CN104236132A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104236132A%2Fen"
+      },
+      {
+        "publication_number": "US9182149B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-15",
+        "publication_date": "2015-11-10",
+        "assignee_original": "Abengoa Solar New Technologies, S.A.",
+        "title": "Molten salt solar receiver and procedure to reduce the temperature gradient in said receiver",
+        "patent_id": "patent/US9182149B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9182149B2%2Fen"
+      },
+      {
+        "publication_number": "US9605879B2",
+        "primary_language": "en",
+        "priority_date": "2013-11-08",
+        "publication_date": "2017-03-28",
+        "assignee_original": "Alstom Technology Ltd.",
+        "title": "System and method for controlling molten salt temperature",
+        "patent_id": "patent/US9605879B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9605879B2%2Fen"
+      },
+      {
+        "publication_number": "CN107036303A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-21",
+        "publication_date": "2017-08-11",
+        "assignee_original": "华电电力科学研究院",
+        "title": "Tower type solar receiver with protection system",
+        "patent_id": "patent/CN107036303A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107036303A%2Fen"
+      },
+      {
+        "publication_number": "US11209189B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-06",
+        "publication_date": "2021-12-28",
+        "assignee_original": "Basf Se",
+        "title": "Method for operating a linear concentrator solar power plant, and linear concentrator solar power plant",
+        "patent_id": "patent/US11209189B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11209189B2%2Fen"
+      },
+      {
+        "publication_number": "US20240410343A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-06-11",
+        "publication_date": "2024-12-12",
+        "assignee_original": "Holtec International",
+        "title": "Solar power generation system",
+        "patent_id": "patent/US20240410343A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240410343A1%2Fen"
+      },
+      {
+        "publication_number": "US20250012260A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-07",
+        "publication_date": "2025-01-09",
+        "assignee_original": "Holtec International",
+        "title": "Hybrid power generation system",
+        "patent_id": "patent/US20250012260A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250012260A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN102418917A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-08",
+        "publication_date": "2012-04-18",
+        "assignee_original": "江苏太阳宝新能源有限公司",
+        "title": "Solar photo-thermal power generation energy storage tank and steam generator optimized structure",
+        "patent_id": "patent/CN102418917A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102418917A%2Fen"
+      },
+      {
+        "publication_number": "WO2014105643A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-28",
+        "publication_date": "2014-07-03",
+        "assignee_original": "Abengoa Solar Llc",
+        "title": "Flow control systems and methods for a phase change material solar receiver",
+        "patent_id": "patent/WO2014105643A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014105643A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014105715A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-28",
+        "publication_date": "2014-07-03",
+        "assignee_original": "Abengoa Solar Llc",
+        "title": "Metal remelting and electrical power generation with concentrated solar power",
+        "patent_id": "patent/WO2014105715A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014105715A1%2Fen"
+      },
+      {
+        "publication_number": "CN104806454A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-31",
+        "publication_date": "2015-07-29",
+        "assignee_original": "深圳市爱能森科技有限公司",
+        "title": "Wind power, photo-thermal and medium heat storage combined energy supply system",
+        "patent_id": "patent/CN104806454A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104806454A%2Fen"
+      },
+      {
+        "publication_number": "US10539339B2",
+        "primary_language": "en",
+        "priority_date": "2016-06-15",
+        "publication_date": "2020-01-21",
+        "assignee_original": "General Electric Technology Gmbh",
+        "title": "Solar receiver having improved heliostat field performance",
+        "patent_id": "patent/US10539339B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10539339B2%2Fen"
+      },
+      {
+        "publication_number": "CN108266790A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-30",
+        "publication_date": "2018-07-10",
+        "assignee_original": "百吉瑞（天津）新能源有限公司",
+        "title": "A kind of electrical heating fused salt storing energy and supplying hot device",
+        "patent_id": "patent/CN108266790A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108266790A%2Fen"
+      },
+      {
+        "publication_number": "CN109237827A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-26",
+        "publication_date": "2019-01-18",
+        "assignee_original": "天津滨海光热技术研究院有限公司",
+        "title": "A kind of slot type molten salt thermal power station heat collecting field operating system and operation method",
+        "patent_id": "patent/CN109237827A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109237827A%2Fen"
+      },
+      {
+        "publication_number": "CN108302796B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-25",
+        "publication_date": "2019-12-13",
+        "assignee_original": "浙江大学",
+        "title": "Heat sink and method for operating a heat sink",
+        "patent_id": "patent/CN108302796B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108302796B%2Fen"
+      },
+      {
+        "publication_number": "AU2018347410B2",
+        "primary_language": "en",
+        "priority_date": "2017-10-13",
+        "publication_date": "2024-06-13",
+        "assignee_original": "Haynes International, Inc.",
+        "title": "Solar tower system containing molten chloride salts",
+        "patent_id": "patent/AU2018347410B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2018347410B2%2Fen"
+      },
+      {
+        "publication_number": "CN108413634B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-08",
+        "publication_date": "2020-04-28",
+        "assignee_original": "中国科学院电工研究所",
+        "title": "A tower type solar thermal power generation molten salt heat absorber without circulation valve, molten salt system and method",
+        "patent_id": "patent/CN108413634B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108413634B%2Fen"
+      },
+      {
+        "publication_number": "CN109140804B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-24",
+        "publication_date": "2020-10-16",
+        "assignee_original": "上海电气集团股份有限公司",
+        "title": "Power system and power generation method for double-tank molten salt heat storage and exchange",
+        "patent_id": "patent/CN109140804B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109140804B%2Fen"
+      },
+      {
+        "publication_number": "CN111412120A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-14",
+        "publication_date": "2020-07-14",
+        "assignee_original": "中国电力工程顾问集团华北电力设计院有限公司",
+        "title": "Fused salt sleeve pipeline and fused salt disc type solar thermal power generation system using same",
+        "patent_id": "patent/CN111412120A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111412120A%2Fen"
+      },
+      {
+        "publication_number": "ES2828693B2",
+        "primary_language": "en",
+        "priority_date": "2019-11-27",
+        "publication_date": "2021-11-03",
+        "assignee_original": "Compania Pineda Alvarez S L",
+        "title": "Composition heat transfer fluid based on the use of water",
+        "patent_id": "patent/ES2828693B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2828693B2%2Fen"
+      },
+      {
+        "publication_number": "CN110878739B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-14",
+        "publication_date": "2022-05-20",
+        "assignee_original": "燕山大学",
+        "title": "Salt gradient solar cell power generation device",
+        "patent_id": "patent/CN110878739B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110878739B%2Fen"
+      },
+      {
+        "publication_number": "US11912572B1",
+        "primary_language": "en",
+        "priority_date": "2023-03-03",
+        "publication_date": "2024-02-27",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Thermochemical reactions using geothermal energy",
+        "patent_id": "patent/US11912572B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11912572B1%2Fen"
+      },
+      {
+        "publication_number": "US12055131B2",
+        "primary_language": "en",
+        "priority_date": "2022-02-28",
+        "publication_date": "2024-08-06",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Geothermal power from superhot geothermal fluid and magma reservoirs",
+        "patent_id": "patent/US12055131B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12055131B2%2Fen"
+      },
+      {
+        "publication_number": "US11841172B2",
+        "primary_language": "en",
+        "priority_date": "2022-02-28",
+        "publication_date": "2023-12-12",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Geothermal power from superhot geothermal fluid and magma reservoirs",
+        "patent_id": "patent/US11841172B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11841172B2%2Fen"
+      },
+      {
+        "publication_number": "US12326278B2",
+        "primary_language": "en",
+        "priority_date": "2022-02-28",
+        "publication_date": "2025-06-10",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Geothermal power from superhot geothermal fluid and magma reservoirs",
+        "patent_id": "patent/US12326278B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12326278B2%2Fen"
+      },
+      {
+        "publication_number": "US11905797B2",
+        "primary_language": "en",
+        "priority_date": "2022-05-01",
+        "publication_date": "2024-02-20",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Wellbore for extracting heat from magma bodies",
+        "patent_id": "patent/US11905797B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11905797B2%2Fen"
+      },
+      {
+        "publication_number": "CN114963830B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-22",
+        "publication_date": "2023-07-25",
+        "assignee_original": "西安热工研究院有限公司",
+        "title": "A heat storage system using molten salt heat transfer and its operation method",
+        "patent_id": "patent/CN114963830B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114963830B%2Fen"
+      },
+      {
+        "publication_number": "US11918967B1",
+        "primary_language": "en",
+        "priority_date": "2022-09-09",
+        "publication_date": "2024-03-05",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "System and method for magma-driven thermochemical processes",
+        "patent_id": "patent/US11918967B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11918967B1%2Fen"
+      },
+      {
+        "publication_number": "US12312962B2",
+        "primary_language": "en",
+        "priority_date": "2023-02-10",
+        "publication_date": "2025-05-27",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Magma wellbore with directional drilling",
+        "patent_id": "patent/US12312962B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12312962B2%2Fen"
+      },
+      {
+        "publication_number": "US11913679B1",
+        "primary_language": "en",
+        "priority_date": "2023-03-02",
+        "publication_date": "2024-02-27",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Geothermal systems and methods with an underground magma chamber",
+        "patent_id": "patent/US11913679B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11913679B1%2Fen"
+      },
+      {
+        "publication_number": "US11912573B1",
+        "primary_language": "en",
+        "priority_date": "2023-03-03",
+        "publication_date": "2024-02-27",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Molten-salt mediated thermochemical reactions using geothermal energy",
+        "patent_id": "patent/US11912573B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11912573B1%2Fen"
+      },
+      {
+        "publication_number": "US11897828B1",
+        "primary_language": "en",
+        "priority_date": "2023-03-03",
+        "publication_date": "2024-02-13",
+        "assignee_original": "EnhancedGEO, Holdings, LLC",
+        "title": "Thermochemical reactions using geothermal energy",
+        "patent_id": "patent/US11897828B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11897828B1%2Fen"
+      },
+      {
+        "publication_number": "US12060765B1",
+        "primary_language": "en",
+        "priority_date": "2023-07-27",
+        "publication_date": "2024-08-13",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Float shoe for a magma wellbore",
+        "patent_id": "patent/US12060765B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12060765B1%2Fen"
+      },
+      {
+        "publication_number": "US12291965B2",
+        "primary_language": "en",
+        "priority_date": "2023-09-08",
+        "publication_date": "2025-05-06",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Detecting entry into and drilling through a magma reservoir",
+        "patent_id": "patent/US12291965B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291965B2%2Fen"
+      },
+      {
+        "publication_number": "US11905814B1",
+        "primary_language": "en",
+        "priority_date": "2023-09-27",
+        "publication_date": "2024-02-20",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Detecting entry into and drilling through a magma/rock transition zone",
+        "patent_id": "patent/US11905814B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11905814B1%2Fen"
+      },
+      {
+        "publication_number": "US12180820B1",
+        "primary_language": "en",
+        "priority_date": "2023-09-27",
+        "publication_date": "2024-12-31",
+        "assignee_original": "EnhancedGEO Holdings, LLC",
+        "title": "Drilling a wellbore into a magma reservoir",
+        "patent_id": "patent/US12180820B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12180820B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "EP2525161B1",
+      "primary_language": "en",
+      "publication_date": "2016-08-31",
+      "title": "Solar central tower system and method for reducing the thermal gradient in the receiver of said system",
+      "patent_id": "patent/EP2525161B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2525161B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080078378A1",
+      "primary_language": "en",
+      "publication_date": "2008-04-03",
+      "title": "Method and apparatus of solar central receiver with boiler and super-heater",
+      "patent_id": "patent/US20080078378A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080078378A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140000583A1",
+      "primary_language": "en",
+      "publication_date": "2014-01-02",
+      "title": "Thermal storage facility especially suitable for concentrating solar power installations",
+      "patent_id": "patent/US20140000583A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140000583A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10019749689058693447",
+      "scholar_authors": "Poullikkas et al.",
+      "publication_date": "2013",
+      "title": "A comparative overview of wet and dry cooling systems for Rankine cycle based CSP plants",
+      "patent_id": "scholar/10019749689058693447",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10019749689058693447"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106796051A",
+      "primary_language": "en",
+      "publication_date": "2017-05-31",
+      "title": "With the modularization fused salt solar column for technique or the heat storage of generating or cogeneration of heat and power",
+      "patent_id": "patent/CN106796051A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106796051A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20160010895A1",
+      "primary_language": "en",
+      "publication_date": "2016-01-14",
+      "title": "Optically transparent single-crystal ceramic receiver tubes for concentrated solar power",
+      "patent_id": "patent/US20160010895A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160010895A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2014021320A1",
+      "primary_language": "en",
+      "publication_date": "2014-02-06",
+      "title": "Heat collection device for solar heat boiler, and tower-type solar heat boiler equipped with same",
+      "patent_id": "patent/WO2014021320A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014021320A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1795524990742228403",
+      "scholar_authors": "Anderson et al.",
+      "publication_date": "2008",
+      "title": "Heat pipe cooling of concentrating photovoltaic (CPV) systems",
+      "patent_id": "scholar/1795524990742228403",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1795524990742228403"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9494141B2",
+      "primary_language": "en",
+      "publication_date": "2016-11-15",
+      "title": "Solar thermal power system",
+      "patent_id": "patent/US9494141B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9494141B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120125000A1",
+      "primary_language": "en",
+      "publication_date": "2012-05-24",
+      "title": "Solar concentrator plant using natural-draught tower technology and operating method",
+      "patent_id": "patent/US20120125000A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120125000A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8978640B2",
+      "primary_language": "en",
+      "publication_date": "2015-03-17",
+      "title": "Superheated steam solar receiver",
+      "patent_id": "patent/US8978640B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8978640B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12838809599907178416",
+      "scholar_authors": "Donatini et al.",
+      "publication_date": "2007",
+      "title": "High efficency integration of thermodynamic solar plant with natural gas combined cycle",
+      "patent_id": "scholar/12838809599907178416",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12838809599907178416"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10916491291594244853",
+      "scholar_authors": "Wagner",
+      "publication_date": "2012",
+      "title": "Thermodynamic simulation of solar thermal power stations with liquid salt as heat transfer fluid",
+      "patent_id": "scholar/10916491291594244853",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10916491291594244853"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9377218B2",
+      "primary_language": "en",
+      "publication_date": "2016-06-28",
+      "title": "Solar receiver with natural circulation for generating saturated steam",
+      "patent_id": "patent/US9377218B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9377218B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14225622215529075973",
+      "scholar_authors": "Xu et al.",
+      "publication_date": "2015",
+      "title": "The Badaling 1MW parabolic trough solar thermal power pilot plant",
+      "patent_id": "scholar/14225622215529075973",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14225622215529075973"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2013105927A",
+      "primary_language": "en",
+      "publication_date": "2013-05-30",
+      "title": "Power generating facility utilizing solar energy and operational method thereof",
+      "patent_id": "patent/JP2013105927A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013105927A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17837496392104825754",
+      "scholar_authors": "Riffelmann et al.",
+      "publication_date": "2016",
+      "title": "Optimized molten salt receivers for ultimate trough solar fields",
+      "patent_id": "scholar/17837496392104825754",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17837496392104825754"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16268066274988982004",
+      "scholar_authors": "Bruch et al.",
+      "publication_date": "2019",
+      "title": "Cold thermal energy storage cTES for optimized cooling of CSP power plant power block–WASCOP project",
+      "patent_id": "scholar/16268066274988982004",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16268066274988982004"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8872262482579952168",
+      "scholar_authors": "Abu-Hamdeh et al.",
+      "publication_date": "2014",
+      "title": "The first solar power tower system in Saudi Arabia",
+      "patent_id": "scholar/8872262482579952168",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8872262482579952168"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7844736778570643585",
+      "scholar_authors": "Pitz‐Paal",
+      "publication_date": "2012",
+      "title": "How the Sun gets into the Power Plant",
+      "patent_id": "scholar/7844736778570643585",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7844736778570643585"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9687276306154619868",
+      "scholar_authors": "Alalewi",
+      "publication_date": "2014",
+      "title": "Concentrated solar power (CSP)",
+      "patent_id": "scholar/9687276306154619868",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9687276306154619868"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120096859A1",
+      "primary_language": "en",
+      "publication_date": "2012-04-26",
+      "title": "Air- and steam-technology combined solar plant",
+      "patent_id": "patent/US20120096859A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120096859A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104919253A",
+      "primary_language": "en",
+      "publication_date": "2015-09-16",
+      "title": "Nitrogen based thermal storage medium",
+      "patent_id": "patent/CN104919253A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104919253A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3761579738384031943",
+      "scholar_authors": "Rodríguez Pérez",
+      "publication_date": "2025",
+      "title": "Solar Thermal Course. Lecture 9: Concentrated Solar Power (CSP) an overview",
+      "patent_id": "scholar/3761579738384031943",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3761579738384031943"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17381229141580488289",
+      "scholar_authors": "Fernández Torrijos",
+      "publication_date": "2019",
+      "title": "Experimental and numerical studies of thermomechanical problems of solar tower power plants",
+      "patent_id": "scholar/17381229141580488289",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17381229141580488289"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2013-05-29",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ABENGOA SOLAR NEW TECHNOLOGIES, S.A., SPAIN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NAVIO GILABERTE, RAUL;LLORENTE FOLCH, PAULA;CARMEN ROMERO DELGADO, MARIA DEL;REEL/FRAME:030507/0642"
+        },
+        {
+          "label": "Effective date",
+          "value": "20120716"
+        }
+      ]
+    },
+    {
+      "date": "2015-10-21",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-10",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-03",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-10",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "7.5 YR SURCHARGE - LATE PMT W/IN 6 MO, LARGE ENTITY (ORIGINAL EVENT CODE: M1555); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-10",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 94
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000013529",
+        "name": "heat transfer fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "FGIUAXJPYTZDNR-UHFFFAOYSA-N",
+        "name": "potassium nitrate",
+        "domain": "Chemical compound",
+        "smiles": "[K+].[O-][N+]([O-])=O",
+        "inchi_key": "FGIUAXJPYTZDNR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
+        "name": "sodium nitrate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[O-][N+]([O-])=O",
+        "inchi_key": "VWDWKYIASSYTQR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000002823",
+        "name": "nitrates",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003134",
+        "name": "recirculating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920006395",
+        "name": "saturated elastomer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000007797",
+        "name": "corrosion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005260",
+        "name": "corrosion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011833",
+        "name": "salt mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005619",
+        "name": "thermoelectricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000270295",
+        "name": "Serpentes",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001174",
+        "name": "ascending effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015556",
+        "name": "catabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012141",
+        "name": "concentrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006731",
+        "name": "degradation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010339",
+        "name": "dilation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008018",
+        "name": "melting",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002844",
+        "name": "melting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005057",
+        "name": "refrigeration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007711",
+        "name": "solidification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008023",
+        "name": "solidification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

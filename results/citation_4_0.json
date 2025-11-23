@@ -1,0 +1,988 @@
+{
+  "search_metadata": {
+    "id": "691889b810b5cf38913a1f2d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6f84b03a28b4500a/691889b810b5cf38913a1f2d.json",
+    "created_at": "2025-11-15 14:10:00 UTC",
+    "processed_at": "2025-11-15 14:10:00 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US3329575A/en",
+    "raw_html_file": "https://serpapi.com/searches/6f84b03a28b4500a/691889b810b5cf38913a1f2d.html",
+    "total_time_taken": 0.94
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US3329575A/en"
+  },
+  "title": "Power plant apparatus",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/d0/d8/d0/6cebf691c5d08c/US3329575.pdf",
+  "publication_number": "US3329575A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "steam",
+    "pressure",
+    "vapor generator",
+    "turbine",
+    "superheater"
+  ],
+  "prior_art_date": "1963-12-27",
+  "application_number": "US333885A",
+  "inventors": [
+    {
+      "name": "Henry E Burbach",
+      "link": "https://patents.google.com/?inventor=Henry+E+Burbach",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Henry+E+Burbach"
+    },
+    {
+      "name": "Joseph G Singer",
+      "link": "https://patents.google.com/?inventor=Joseph+G+Singer",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joseph+G+Singer"
+    }
+  ],
+  "assignees": [
+    "Combustion Engineering Inc"
+  ],
+  "priority_date": "1963-12-27",
+  "filing_date": "1963-12-27",
+  "publication_date": "1967-07-04",
+  "worldwide_applications": {
+    "1963": [
+      {
+        "filing_date": "1963-12-27",
+        "country_code": "US",
+        "application_number": "US333885A",
+        "document_id": "patent/US3329575A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1963-12-27",
+      "title": "Application filed by Combustion Engineering Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Combustion Engineering Inc"
+    },
+    {
+      "date": "1963-12-27",
+      "title": "Priority to US333885A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US3329575A/en"
+    },
+    {
+      "date": "1967-07-04",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1967-07-04",
+      "title": "Publication of US3329575A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US3329575A/en"
+    },
+    {
+      "date": "1984-07-04",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=3329575.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=3329575"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=3329575A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US//1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US3329575"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/9f/5e/ba/ac2f8e9ed01723/US3329575-drawings-page-1.png"
+  ],
+  "classifications": [
+    {
+      "code": "F01K19/04",
+      "description": "Regenerating by compression in combination with cooling or heating",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F01K3/183",
+      "description": "Plants characterised by the use of steam or heat accumulators, or intermediate steam heaters, therein having heaters using nuclear heat one heater being a fired superheater",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "description_link": "https://serpapi.com/searches/691889b810b5cf38913a1f2d/google_patents_details/description.html",
+  "claims": [
+    "1. A POWER PLANT APPARATUS COMPRISING: A VAPOR GENERATOR OPERATIVE TO SUPPLY STEAM ONLY AT LOW PRESSURE; A PRESSURIZED WATER NUCLEAR REACTOR AS A HEAT SOURCE FOR SAID VAPOR GENERATOR WITH THE PRESSURIZED WATER FLOWING AS THE HEATING MEDIUM IN HEAT EXCHANGE RELATION THROUGH SAID VAPOR GENERATOR; A FEEDWATER PUMP CONNECTED TO SUPPLY WATER TO SAID VAPOR GENERATOR AT LOW PRESSURE; A STEAM COMPRESSOR RECEIVING STEAM FROM THE VAPOR GENERATOR AND OPERATIVE TO INCREASE THE PRESSURE OF THE STEAM PASSING THERETHROUGH; A SEPARATELY FIRED SUPERHEATER CONNECTED TO RECEIVE THE HIGH PRESSURE STEAM ONLY FROM THE COMPRESSOR; SAID SEPARATELY FIRED SUPERHEATER BEING FIRED WITH FOSSIL-FUEL, AND THE PRESSURE OF THE STEAM WHERE HEAT FOR SUPERHEATING IS BEING ABSORBED BEING HIGHER THAN THE PRESSURE OF THE WATER WHERE HEAT FOR EVAPORATION IS BEING ABSORBED AND A STEAM TURBINE CONNECTED TO RECEIVE HIGH PRESSURE HIGH TEMPERATURE STEAM FROM THE SEPARATELY FIRED SUPERHEATER."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US333885A",
+      "representative_publication": "US3329575A",
+      "primary_language": "en",
+      "priority_date": "1963-12-27",
+      "filing_date": "1963-12-27",
+      "title": "Power plant apparatus"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US333885A",
+      "representative_publication": "US3329575A",
+      "primary_language": "en",
+      "priority_date": "1963-12-27",
+      "filing_date": "1963-12-27",
+      "title": "Power plant apparatus"
+    }
+  ],
+  "family_id": "23304662",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US2939286A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1957-03-15",
+        "publication_date": "1960-06-07",
+        "assignee_original": "American Mach & Foundry",
+        "title": "Dynamic steam cycle",
+        "patent_id": "patent/US2939286A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2939286A%2Fen"
+      },
+      {
+        "publication_number": "US2970434A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1955-06-28",
+        "publication_date": "1961-02-07",
+        "assignee_original": "Gen Electric",
+        "title": "Steam-gas turbine powerplant with steam compressor",
+        "patent_id": "patent/US2970434A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2970434A%2Fen"
+      },
+      {
+        "publication_number": "US2997032A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1956-03-06",
+        "publication_date": "1961-08-22",
+        "assignee_original": "Goetaverken Ab",
+        "title": "Steam power plant",
+        "patent_id": "patent/US2997032A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2997032A%2Fen"
+      },
+      {
+        "publication_number": "US3210943A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1959-03-24",
+        "publication_date": "1965-10-12",
+        "assignee_original": "Sulzer Ag",
+        "title": "Nuclear power system",
+        "patent_id": "patent/US3210943A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3210943A%2Fen"
+      },
+      {
+        "publication_number": "US3231475A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-05-17",
+        "publication_date": "1966-01-25",
+        "assignee_original": "Sulzer Ag",
+        "title": "Nuclear reactor plant",
+        "patent_id": "patent/US3231475A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3231475A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US3575002A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1965-06-15",
+        "publication_date": "1971-04-13",
+        "assignee_original": "Combustion Eigineering Inc",
+        "title": "Combination fossil fuel and superheated steam nuclear power plant",
+        "patent_id": "patent/US3575002A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3575002A%2Fen"
+      },
+      {
+        "publication_number": "US3990243A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1975-01-08",
+        "publication_date": "1976-11-09",
+        "assignee_original": "D-Cycle Associates",
+        "title": "External combustion power producing cycle",
+        "patent_id": "patent/US3990243A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3990243A%2Fen"
+      },
+      {
+        "publication_number": "US4021299A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1973-11-29",
+        "publication_date": "1977-05-03",
+        "assignee_original": "Georges Alfred Rigollot",
+        "title": "Method of working a combined nuclear-fossil fuel cycle and device for using same",
+        "patent_id": "patent/US4021299A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4021299A%2Fen"
+      },
+      {
+        "publication_number": "US4413348A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-01-12",
+        "publication_date": "1983-11-01",
+        "assignee_original": "Ga Technologies Inc.",
+        "title": "System for producing process heat",
+        "patent_id": "patent/US4413348A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4413348A%2Fen"
+      },
+      {
+        "publication_number": "US4576783A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-01-12",
+        "publication_date": "1986-03-18",
+        "assignee_original": "Ga Technologies Inc.",
+        "title": "Heat pump augmentation of nuclear process heat",
+        "patent_id": "patent/US4576783A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4576783A%2Fen"
+      },
+      {
+        "publication_number": "US4998408A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-07-03",
+        "publication_date": "1991-03-12",
+        "assignee_original": "Prometheus Energy Systems, B.V.",
+        "title": "Apparatus for generating electrical and/or mechanical energy from at least a low grade fuel",
+        "patent_id": "patent/US4998408A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4998408A%2Fen"
+      },
+      {
+        "publication_number": "US20060090467A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-04",
+        "publication_date": "2006-05-04",
+        "assignee_original": "Darby Crow",
+        "title": "Method and apparatus for converting thermal energy to mechanical energy",
+        "patent_id": "patent/US20060090467A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060090467A1%2Fen"
+      },
+      {
+        "publication_number": "US20060123790A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-10",
+        "publication_date": "2006-06-15",
+        "assignee_original": "Obrin Jefferson",
+        "title": "Obrin power system compression type",
+        "patent_id": "patent/US20060123790A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060123790A1%2Fen"
+      },
+      {
+        "publication_number": "US20250012260A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-07",
+        "publication_date": "2025-01-09",
+        "assignee_original": "Holtec International",
+        "title": "Hybrid power generation system",
+        "patent_id": "patent/US20250012260A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250012260A1%2Fen"
+      },
+      {
+        "publication_number": "US20250069766A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-01-06",
+        "publication_date": "2025-02-27",
+        "assignee_original": "Holtec International",
+        "title": "System and related method for converting fossil-fueled generating plants to clean energy",
+        "patent_id": "patent/US20250069766A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250069766A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US3575002A",
+      "primary_language": "en",
+      "publication_date": "1971-04-13",
+      "title": "Combination fossil fuel and superheated steam nuclear power plant",
+      "patent_id": "patent/US3575002A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3575002A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5345755A",
+      "primary_language": "en",
+      "publication_date": "1994-09-13",
+      "title": "Steam turbine plant",
+      "patent_id": "patent/US5345755A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5345755A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3177659A",
+      "primary_language": "en",
+      "publication_date": "1965-04-13",
+      "title": "Heat exchange apparatus",
+      "patent_id": "patent/US3177659A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3177659A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8959917B2",
+      "primary_language": "en",
+      "publication_date": "2015-02-24",
+      "title": "Method for operating a forced-flow steam generator operating at a steam temperature above 650°C and forced-flow steam generator",
+      "patent_id": "patent/US8959917B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8959917B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3047479A",
+      "primary_language": "en",
+      "publication_date": "1962-07-31",
+      "title": "Steam reactor system",
+      "patent_id": "patent/US3047479A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3047479A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB1592812A",
+      "primary_language": "en",
+      "publication_date": "1981-07-08",
+      "title": "Method and apparatus for thermal power generation",
+      "patent_id": "patent/GB1592812A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1592812A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3007306A",
+      "primary_language": "en",
+      "publication_date": "1961-11-07",
+      "title": "Vapor cycle engine",
+      "patent_id": "patent/US3007306A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3007306A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3118429A",
+      "primary_language": "en",
+      "publication_date": "1964-01-21",
+      "title": "Power plant in which single cycle gas turbine operates in parallel with direct fired steam generator",
+      "patent_id": "patent/US3118429A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3118429A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3006146A",
+      "primary_language": "en",
+      "publication_date": "1961-10-31",
+      "title": "Closed-cycle power plant",
+      "patent_id": "patent/US3006146A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3006146A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3358450A",
+      "primary_language": "en",
+      "publication_date": "1967-12-19",
+      "title": "Method and apparatus for steam turbine startup",
+      "patent_id": "patent/US3358450A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3358450A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3329575A",
+      "primary_language": "en",
+      "publication_date": "1967-07-04",
+      "title": "Power plant apparatus",
+      "patent_id": "patent/US3329575A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3329575A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4393649A",
+      "primary_language": "en",
+      "publication_date": "1983-07-19",
+      "title": "Steam output control system",
+      "patent_id": "patent/US4393649A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4393649A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3557554A",
+      "primary_language": "en",
+      "publication_date": "1971-01-26",
+      "title": "Power conversion system operating on closed rankine cycle",
+      "patent_id": "patent/US3557554A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3557554A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3374621A",
+      "primary_language": "en",
+      "publication_date": "1968-03-26",
+      "title": "Gas turbine auxiliary for steam power plants",
+      "patent_id": "patent/US3374621A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3374621A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3304712A",
+      "primary_language": "en",
+      "publication_date": "1967-02-21",
+      "title": "Steam and gas turbine power plant",
+      "patent_id": "patent/US3304712A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3304712A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2970434A",
+      "primary_language": "en",
+      "publication_date": "1961-02-07",
+      "title": "Steam-gas turbine powerplant with steam compressor",
+      "patent_id": "patent/US2970434A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2970434A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2968156A",
+      "primary_language": "en",
+      "publication_date": "1961-01-17",
+      "title": "Power plant",
+      "patent_id": "patent/US2968156A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2968156A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3055181A",
+      "primary_language": "en",
+      "publication_date": "1962-09-25",
+      "title": "Method of operating a power plant system",
+      "patent_id": "patent/US3055181A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3055181A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0242102A",
+      "primary_language": "en",
+      "publication_date": "1990-02-13",
+      "title": "Thermal energy recovery method and thermal energy recovery device",
+      "patent_id": "patent/JPH0242102A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0242102A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2952602A",
+      "primary_language": "en",
+      "publication_date": "1960-09-13",
+      "title": "Nuclear reactor vapour generating and power plant",
+      "patent_id": "patent/US2952602A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2952602A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB1601832A",
+      "primary_language": "en",
+      "publication_date": "1981-11-04",
+      "title": "Internal combustion engine plant",
+      "patent_id": "patent/GB1601832A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1601832A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3507747A",
+      "primary_language": "en",
+      "publication_date": "1970-04-21",
+      "title": "Heat exchange apparatus for extracting heat from a nuclear fuel heat producer",
+      "patent_id": "patent/US3507747A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3507747A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3466871A",
+      "primary_language": "en",
+      "publication_date": "1969-09-16",
+      "title": "Turbine power plant",
+      "patent_id": "patent/US3466871A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3466871A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3161572A",
+      "primary_language": "en",
+      "publication_date": "1964-12-15",
+      "title": "Nuclear reactor plant for utilizing heat generated therein",
+      "patent_id": "patent/US3161572A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3161572A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3242053A",
+      "primary_language": "en",
+      "publication_date": "1966-03-22",
+      "title": "Nuclear power plant system",
+      "patent_id": "patent/US3242053A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3242053A%2Fen"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "239000002803",
+        "name": "fossil fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008020",
+        "name": "evaporation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000001704",
+        "name": "evaporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008400",
+        "name": "supply water",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004326",
+        "name": "stimulated echo acquisition mode for imaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 8
+      },
+      {
+        "id": "RLQJEEJISHYWON-UHFFFAOYSA-N",
+        "name": "flonicamid",
+        "domain": "Chemical group",
+        "smiles": "FC(F)(F)C1=CC=NC=C1C(=O)NCC#N",
+        "inchi_key": "RLQJEEJISHYWON-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000002826",
+        "name": "coolant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000002485",
+        "name": "combustion reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010304",
+        "name": "firing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010521",
+        "name": "absorption reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "name": "atomic oxygen",
+        "domain": "Chemical compound",
+        "smiles": "[O]",
+        "inchi_key": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000001301",
+        "name": "oxygen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052760",
+        "name": "oxygen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000831",
+        "name": "Steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001276",
+        "name": "controlling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008021",
+        "name": "deposition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008520",
+        "name": "organization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920006395",
+        "name": "saturated elastomer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010959",
+        "name": "steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

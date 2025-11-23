@@ -1,0 +1,1258 @@
+{
+  "search_metadata": {
+    "id": "691889aea4817c0b6e08cd11",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7090b203315d1669/691889aea4817c0b6e08cd11.json",
+    "created_at": "2025-11-15 14:09:50 UTC",
+    "processed_at": "2025-11-15 14:09:50 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN102664429A/en",
+    "raw_html_file": "https://serpapi.com/searches/7090b203315d1669/691889aea4817c0b6e08cd11.html",
+    "total_time_taken": 0.94
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN102664429A/en"
+  },
+  "title": "Grid-connected non-networking micro-grid system and control protection method thereof",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/9c/ca/78/fd004fb413ec29/CN102664429A.pdf",
+  "publication_number": "CN102664429A",
+  "country": "China",
+  "prior_art_keywords": [
+    "power",
+    "energy",
+    "load",
+    "microgrid",
+    "net"
+  ],
+  "prior_art_date": "2012-05-29",
+  "application_number": "CN2012101730962A",
+  "inventors": [
+    {
+      "name": "周志超",
+      "link": "https://patents.google.com/?inventor=%E5%91%A8%E5%BF%97%E8%B6%85",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%91%A8%E5%BF%97%E8%B6%85"
+    },
+    {
+      "name": "许伟",
+      "link": "https://patents.google.com/?inventor=%E8%AE%B8%E4%BC%9F",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%AE%B8%E4%BC%9F"
+    },
+    {
+      "name": "秦明",
+      "link": "https://patents.google.com/?inventor=%E7%A7%A6%E6%98%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%A7%A6%E6%98%8E"
+    },
+    {
+      "name": "王文亮",
+      "link": "https://patents.google.com/?inventor=%E7%8E%8B%E6%96%87%E4%BA%AE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%8E%8B%E6%96%87%E4%BA%AE"
+    },
+    {
+      "name": "所旭",
+      "link": "https://patents.google.com/?inventor=%E6%89%80%E6%97%AD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%89%80%E6%97%AD"
+    },
+    {
+      "name": "张宪平",
+      "link": "https://patents.google.com/?inventor=%E5%BC%A0%E5%AE%AA%E5%B9%B3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BC%A0%E5%AE%AA%E5%B9%B3"
+    },
+    {
+      "name": "王欢",
+      "link": "https://patents.google.com/?inventor=%E7%8E%8B%E6%AC%A2",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%8E%8B%E6%AC%A2"
+    }
+  ],
+  "assignees": [
+    "Guodian United Power Technology Co Ltd"
+  ],
+  "priority_date": "2012-05-29",
+  "filing_date": "2012-05-29",
+  "publication_date": "2012-09-12",
+  "worldwide_applications": {
+    "2012": [
+      {
+        "filing_date": "2012-05-29",
+        "country_code": "CN",
+        "application_number": "CN201210173096.2A",
+        "document_id": "patent/CN102664429B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-05-29",
+      "title": "Application filed by Guodian United Power Technology Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Guodian United Power Technology Co Ltd"
+    },
+    {
+      "date": "2012-05-29",
+      "title": "Priority to CN201210173096.2A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN102664429B/en"
+    },
+    {
+      "date": "2012-09-12",
+      "title": "Publication of CN102664429A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN102664429A/en"
+    },
+    {
+      "date": "2014-05-14",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2014-05-14",
+      "title": "Publication of CN102664429B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN102664429B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2032-05-29",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=102664429A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201210173096/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN102664429A"
+    }
+  ],
+  "abstract": "The invention discloses a grid-connected non-networking micro-grid system and a control protection method thereof. On the premise of basically not changing the structure of the original power distribution system, multiple types of distributed power sources, such as wind power generation system, photovoltaic power generation system, cell accumulation system and the like, are connected into a common power grid along with user loads through AC buses, and reasonable load layout and active energy management are utilized to implement grid-connected non-networking of the micro-grid system. By using the structural design and the active energy management of the micro-grid central control unit, the new energy power generation system can be completely self-sufficient, and does not reversely transmit power to the common power grid, thereby avoiding impacting the normal power supply of the common power grid; and meanwhile, by the aid of the common power grid, the user loads have higher power supply reliability and electric power quality.",
+  "description_link": "https://serpapi.com/searches/691889aea4817c0b6e08cd11/google_patents_details/description.html",
+  "claims": [
+    "1. the microgrid system that do not surf the Net that is incorporated into the power networks is characterized in that, comprises distributed generation system, distributed energy-storage system, user load and microgrid central controller;\n      Said distributed generation system and distributed energy-storage system insert the low-voltage alternating-current bus through energy conversion devices separately, and the low-voltage alternating-current bus inserts the high-voltage alternating bus through step-up transformer again; User load inserts the high-voltage alternating bus with the mode of dividing into groups through step-up transformer; The high-voltage alternating bus inserts public electric wire net through the points of common connection single-point; The points of common connection place is provided with static switch;\n      Said microgrid central controller is connected through the cable communication with distributed generation system, distributed energy-storage system and static switch.",
+    "2. the microgrid system that do not surf the Net that is incorporated into the power networks according to claim 1 is characterized in that said distributed generation system comprises wind generator system, photovoltaic generating system; Said distributed energy-storage system comprises battery energy storage system.",
+    "3. the microgrid system that do not surf the Net that is incorporated into the power networks according to claim 1 is characterized in that said user load comprises load on the spot and conventional load;\n      Said load on the spot realizes the quick switching between itself and public electric wire net and this duplex feeding system of little electrical network through convertible static switch.",
+    "4. according to each described microgrid system that do not surf the Net that is incorporated into the power networks of claim 1-3, it is characterized in that, be provided with the reverse power protection device at the points of common connection place of said high-voltage alternating bus and public electric wire net.",
+    "5. according to each described microgrid system that do not surf the Net that is incorporated into the power networks of claim 1-3, it is characterized in that, also be provided with unidirectional electric power meter at the points of common connection place of said high-voltage alternating bus and public electric wire net.",
+    "6. the control guard method of microgrid system of not surfing the Net of being incorporated into the power networks is characterized in that, comprises the steps:\n      (1) at first is the power ACTIVE CONTROL of distributed energy-storage system: totally load scale under the basic premise of distributed generation system generate output the user; Adopt the active adjustment function of distributed energy-storage system, can satisfy in most cases power folk prescription to flowing;\n      (2) secondly be the limit power operation Passive Control of distributed generation system: when the distributed generation system generate output is totally loaded greater than the user; And when also being difficult to satisfy microgrid internal power balance through distributed energy-storage system charging absorption active power; Can limit the photovoltaic generation output in the distributed generation system earlier; Carry out the control of wind-powered electricity generation limit power again, under extreme case, even cut entirely; When customer charge increases, can divide into groups to drop into photovoltaic generating system and wind generator system.\n      (3) be the inverse probability backup protection at last: the switching of under nominal situation, controlling discharging and recharging of distributed energy-storage system and distributed generation system apoplexy electric light volt system through the microgrid central controller is realized the internal power balance of whole microgrid system, guarantees that the power of points of common connection position flows to the microgrid system from public electric wire net all the time; Under the inefficacy of microgrid central controller or other abnormal conditions, through reverse power protection device preventing anti-power delivery.",
+    "7. the control guard method of microgrid system of not surfing the Net of being incorporated into the power networks according to claim 6 is characterized in that the power ACTIVE CONTROL method of distributed energy-storage system is in the said step (1):\n      Minimum net load Δ Lmin of microgrid system and distributed energy storage system discharges threshold value Δ Pdis are set, Δ Pdis>Δ Lmin; It is the net load Δ Load of system that the overall load of user deducts the distributed generation system generate output;\n      < when Δ Lmin and the current capacity of distributed energy-storage system did not reach its upper energy limit, energy-storage system charged, absorbing redundant active power as Δ Load;\n      As Δ Load>Δ Pdis and the current capacity of distributed energy-storage system do not reach under its energy in limited time, and energy storage system discharges discharges active power and supplies with user load, and wherein system's net load deducts the energy storage delivered power unnecessary part is provided by public electric wire net."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201210173096.2A",
+      "representative_publication": "CN102664429B",
+      "primary_language": "en",
+      "priority_date": "2012-05-29",
+      "filing_date": "2012-05-29",
+      "title": "Grid-connected non-networking micro-grid system and control protection method thereof"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201210173096.2A",
+      "representative_publication": "CN102664429B",
+      "primary_language": "en",
+      "priority_date": "2012-05-29",
+      "filing_date": "2012-05-29",
+      "title": "Grid-connected non-networking micro-grid system and control protection method thereof"
+    }
+  ],
+  "family_id": "46773871",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN101931238A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-29",
+        "publication_date": "2010-12-29",
+        "assignee_original": "浙江省电力试验研究院",
+        "title": "Coordinated control method of microgrid system based on master-slave strategy",
+        "patent_id": "patent/CN101931238A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101931238A%2Fen"
+      },
+      {
+        "publication_number": "CN102025155A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-30",
+        "publication_date": "2011-04-20",
+        "assignee_original": "梁一桥",
+        "title": "DC (direct current) distribution-based microgrid system",
+        "patent_id": "patent/CN102025155A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102025155A%2Fen"
+      },
+      {
+        "publication_number": "CN201947047U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-30",
+        "publication_date": "2011-08-24",
+        "assignee_original": "比亚迪股份有限公司",
+        "title": "Power supply system for power grid",
+        "patent_id": "patent/CN201947047U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201947047U%2Fen"
+      },
+      {
+        "publication_number": "CN202602306U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-29",
+        "publication_date": "2012-12-12",
+        "assignee_original": "国电联合动力技术有限公司",
+        "title": "Grid-connected offline micro-grid system",
+        "patent_id": "patent/CN202602306U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202602306U%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN102916442A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-17",
+        "publication_date": "2013-02-06",
+        "assignee_original": "北京科诺伟业科技有限公司",
+        "title": "Building photovoltaic grid-connected system",
+        "patent_id": "patent/CN102916442A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102916442A%2Fen"
+      },
+      {
+        "publication_number": "CN102946120A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-12",
+        "publication_date": "2013-02-27",
+        "assignee_original": "中盛光电能源股份有限公司",
+        "title": "Photovoltaic microgrid system",
+        "patent_id": "patent/CN102946120A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102946120A%2Fen"
+      },
+      {
+        "publication_number": "CN103066585A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-13",
+        "publication_date": "2013-04-24",
+        "assignee_original": "中国矿业大学",
+        "title": "Power supply detection and abnormal reverse power transmission control device",
+        "patent_id": "patent/CN103066585A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103066585A%2Fen"
+      },
+      {
+        "publication_number": "CN103078351A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-26",
+        "publication_date": "2013-05-01",
+        "assignee_original": "东南大学",
+        "title": "Micro grid frequency dividing energy management method",
+        "patent_id": "patent/CN103078351A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103078351A%2Fen"
+      },
+      {
+        "publication_number": "CN103138294A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-25",
+        "publication_date": "2013-06-05",
+        "assignee_original": "国电联合动力技术有限公司",
+        "title": "Operation and control method of large-scale wind turbine generator in micro grid system",
+        "patent_id": "patent/CN103138294A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103138294A%2Fen"
+      },
+      {
+        "publication_number": "CN103227508A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-18",
+        "publication_date": "2013-07-31",
+        "assignee_original": "内蒙古电力勘测设计院",
+        "title": "Integrated control system and integrated control method for wind-photovoltaic energy storage",
+        "patent_id": "patent/CN103227508A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103227508A%2Fen"
+      },
+      {
+        "publication_number": "CN103326400A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-24",
+        "publication_date": "2013-09-25",
+        "assignee_original": "嘉兴清源电气科技有限公司",
+        "title": "Countercurrent-preventing protection and control method for microgrid",
+        "patent_id": "patent/CN103326400A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103326400A%2Fen"
+      },
+      {
+        "publication_number": "CN103390903A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-29",
+        "publication_date": "2013-11-13",
+        "assignee_original": "内蒙古电力勘测设计院",
+        "title": "Novel wind, photo-thermal and energy storage integrated intelligent power generation system and control method thereof",
+        "patent_id": "patent/CN103390903A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103390903A%2Fen"
+      },
+      {
+        "publication_number": "CN103490448A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-12",
+        "publication_date": "2014-01-01",
+        "assignee_original": "东南大学",
+        "title": "Power generation energy storage device based on cascade H bridge and multiport DC converter",
+        "patent_id": "patent/CN103490448A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103490448A%2Fen"
+      },
+      {
+        "publication_number": "CN103532158A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-28",
+        "publication_date": "2014-01-22",
+        "assignee_original": "浙江南都电源动力股份有限公司",
+        "title": "Micro-grid new energy hybrid energy storage system",
+        "patent_id": "patent/CN103532158A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103532158A%2Fen"
+      },
+      {
+        "publication_number": "CN103683316A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-19",
+        "publication_date": "2014-03-26",
+        "assignee_original": "国电联合动力技术有限公司",
+        "title": "Wind power generation system with off-grid and grid-connection modes and working method thereof",
+        "patent_id": "patent/CN103683316A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103683316A%2Fen"
+      },
+      {
+        "publication_number": "CN103956775A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-20",
+        "publication_date": "2014-07-30",
+        "assignee_original": "上海电气集团股份有限公司",
+        "title": "Micro-grid analogue simulation system based on real-time digital simulation platform",
+        "patent_id": "patent/CN103956775A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103956775A%2Fen"
+      },
+      {
+        "publication_number": "CN104037813A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-19",
+        "publication_date": "2014-09-10",
+        "assignee_original": "国家电网公司",
+        "title": "Free generation control method for wind farm of electric system in consideration of grid security",
+        "patent_id": "patent/CN104037813A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104037813A%2Fen"
+      },
+      {
+        "publication_number": "CN104050533A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-19",
+        "publication_date": "2014-09-17",
+        "assignee_original": "国家电网公司",
+        "title": "Electric power system wind power plant fair-share scheduling method based on minimum wind curtailment control",
+        "patent_id": "patent/CN104050533A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104050533A%2Fen"
+      },
+      {
+        "publication_number": "CN104617596A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-06",
+        "publication_date": "2015-05-13",
+        "assignee_original": "芜湖大学科技园发展有限公司",
+        "title": "Timing sequence matching considered control method for smooth switching from grid connection to grid disconnection of micro-grid",
+        "patent_id": "patent/CN104617596A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104617596A%2Fen"
+      },
+      {
+        "publication_number": "CN104701872A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-07",
+        "publication_date": "2015-06-10",
+        "assignee_original": "黄友锋",
+        "title": "Power control system",
+        "patent_id": "patent/CN104701872A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104701872A%2Fen"
+      },
+      {
+        "publication_number": "CN104716672A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-12",
+        "publication_date": "2015-06-17",
+        "assignee_original": "国家电网公司",
+        "title": "Method for connecting distributed power source to active power distribution network in power system",
+        "patent_id": "patent/CN104716672A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104716672A%2Fen"
+      },
+      {
+        "publication_number": "CN104734184A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-10",
+        "publication_date": "2015-06-24",
+        "assignee_original": "南京能迪电气技术有限公司",
+        "title": "Distributed photovoltaic grid-connected area protection method",
+        "patent_id": "patent/CN104734184A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104734184A%2Fen"
+      },
+      {
+        "publication_number": "CN105071440A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-08-22",
+        "publication_date": "2015-11-18",
+        "assignee_original": "上海电机学院",
+        "title": "Power supply grid based on new energy",
+        "patent_id": "patent/CN105071440A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105071440A%2Fen"
+      },
+      {
+        "publication_number": "CN105071361A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-08-18",
+        "publication_date": "2015-11-18",
+        "assignee_original": "国网山东桓台县供电公司",
+        "title": "Device for intelligently preventing disordered reverse power transmission for power system",
+        "patent_id": "patent/CN105071361A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105071361A%2Fen"
+      },
+      {
+        "publication_number": "CN105262129A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-22",
+        "publication_date": "2016-01-20",
+        "assignee_original": "华南理工大学",
+        "title": "Multi-objective optimization system and multi-objective optimization method containing composite energy storage micro grid",
+        "patent_id": "patent/CN105262129A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105262129A%2Fen"
+      },
+      {
+        "publication_number": "CN105305502A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-12",
+        "publication_date": "2016-02-03",
+        "assignee_original": "武汉大学",
+        "title": "Coordination-consistency based distributed power supply control method and system for power distribution network",
+        "patent_id": "patent/CN105305502A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105305502A%2Fen"
+      },
+      {
+        "publication_number": "CN105375533A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-23",
+        "publication_date": "2016-03-02",
+        "assignee_original": "许继集团有限公司",
+        "title": "An operation mode prediction method for an independent micro-grid involving renewable energy sources of wind and light",
+        "patent_id": "patent/CN105375533A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105375533A%2Fen"
+      },
+      {
+        "publication_number": "CN105556796A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-19",
+        "publication_date": "2016-05-04",
+        "assignee_original": "三菱重工业株式会社",
+        "title": "Charging facility, and energy management method for charging facility",
+        "patent_id": "patent/CN105556796A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105556796A%2Fen"
+      },
+      {
+        "publication_number": "CN106253354A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-06",
+        "publication_date": "2016-12-21",
+        "assignee_original": "广州威能机电有限公司",
+        "title": "Grid-connected electric power system and the method for not surfing the Net",
+        "patent_id": "patent/CN106253354A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106253354A%2Fen"
+      },
+      {
+        "publication_number": "CN106684904A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-17",
+        "publication_date": "2017-05-17",
+        "assignee_original": "新奥泛能网络科技股份有限公司",
+        "title": "Distributed type energy station electrical networking method, microgrid and middle-sized energy network",
+        "patent_id": "patent/CN106684904A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106684904A%2Fen"
+      },
+      {
+        "publication_number": "CN109473988A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-05",
+        "publication_date": "2019-03-15",
+        "assignee_original": "许继集团有限公司",
+        "title": "Method and device for power flow control and fault handling of smart distribution network including microgrid",
+        "patent_id": "patent/CN109473988A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109473988A%2Fen"
+      },
+      {
+        "publication_number": "CN109802432A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-04",
+        "publication_date": "2019-05-24",
+        "assignee_original": "浙江联盛合众新能源有限公司",
+        "title": "A kind of anti-reverse flow control device of photovoltaic plant and its control method",
+        "patent_id": "patent/CN109802432A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109802432A%2Fen"
+      },
+      {
+        "publication_number": "CN109931230A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-19",
+        "publication_date": "2019-06-25",
+        "assignee_original": "北京金风科创风电设备有限公司",
+        "title": "Method and device for detecting active power of wind turbine",
+        "patent_id": "patent/CN109931230A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109931230A%2Fen"
+      },
+      {
+        "publication_number": "CN110970929A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-19",
+        "publication_date": "2020-04-07",
+        "assignee_original": "无锡科能达自动化科技有限公司",
+        "title": "Spontaneous self-use type distributed photovoltaic power station reverse power control module, method and system",
+        "patent_id": "patent/CN110970929A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110970929A%2Fen"
+      },
+      {
+        "publication_number": "CN111817356A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-10",
+        "publication_date": "2020-10-23",
+        "assignee_original": "杭州电力设备制造有限公司",
+        "title": "Roof photovoltaic grid-connected device and microgrid island detection method",
+        "patent_id": "patent/CN111817356A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111817356A%2Fen"
+      },
+      {
+        "publication_number": "CN111886769A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-29",
+        "publication_date": "2020-11-03",
+        "assignee_original": "瓦锡兰北美有限公司",
+        "title": "Gas turbine-energy storage hybrid system design",
+        "patent_id": "patent/CN111886769A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111886769A%2Fen"
+      },
+      {
+        "publication_number": "CN114185616A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-09",
+        "publication_date": "2022-03-15",
+        "assignee_original": "青岛东软载波科技股份有限公司",
+        "title": "A configuration file-based power carrier embedded device management method and system",
+        "patent_id": "patent/CN114185616A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114185616A%2Fen"
+      },
+      {
+        "publication_number": "CN114374230A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-10",
+        "publication_date": "2022-04-19",
+        "assignee_original": "温州电力建设有限公司",
+        "title": "A collaborative optimization system for wind-solar storage microgrids",
+        "patent_id": "patent/CN114374230A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114374230A%2Fen"
+      },
+      {
+        "publication_number": "CN119543315A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-11-25",
+        "publication_date": "2025-02-28",
+        "assignee_original": "绵阳城市学院",
+        "title": "Intelligent power supply and distribution management system and method for large-scale power grid",
+        "patent_id": "patent/CN119543315A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119543315A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN102664429B",
+      "primary_language": "en",
+      "publication_date": "2014-05-14",
+      "title": "Grid-connected non-networking micro-grid system and control protection method thereof",
+      "patent_id": "patent/CN102664429B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102664429B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202602306U",
+      "primary_language": "en",
+      "publication_date": "2012-12-12",
+      "title": "Grid-connected offline micro-grid system",
+      "patent_id": "patent/CN202602306U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202602306U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102916481B",
+      "primary_language": "en",
+      "publication_date": "2015-08-26",
+      "title": "A kind of energy management method of direct current micro-grid system",
+      "patent_id": "patent/CN102916481B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102916481B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107394829B",
+      "primary_language": "en",
+      "publication_date": "2022-06-07",
+      "title": "Direct current power supply system coordination control system and method based on non-interconnection communication",
+      "patent_id": "patent/CN107394829B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107394829B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103414181B",
+      "primary_language": "en",
+      "publication_date": "2015-09-16",
+      "title": "A kind of micro-grid system method for designing",
+      "patent_id": "patent/CN103414181B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103414181B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103199564B",
+      "primary_language": "en",
+      "publication_date": "2015-07-15",
+      "title": "Intelligent power grid distributed self-supporting photovoltaic power supply system",
+      "patent_id": "patent/CN103199564B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103199564B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103730908B",
+      "primary_language": "en",
+      "publication_date": "2017-01-18",
+      "title": "Method for controlling energy storage converters in large-scale off-grid micro-grid",
+      "patent_id": "patent/CN103730908B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103730908B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104410105B",
+      "primary_language": "en",
+      "publication_date": "2016-08-24",
+      "title": "Based on dc bus cancellated Intelligent wind power field control method",
+      "patent_id": "patent/CN104410105B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104410105B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105515209B",
+      "primary_language": "en",
+      "publication_date": "2017-09-22",
+      "title": "A kind of micro-capacitance sensor mixed energy storage system and its control method",
+      "patent_id": "patent/CN105515209B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105515209B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7121902B2",
+      "primary_language": "en",
+      "publication_date": "2022-08-19",
+      "title": "Power interchange system",
+      "patent_id": "patent/JP7121902B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7121902B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107346896A",
+      "primary_language": "en",
+      "publication_date": "2017-11-14",
+      "title": "A kind of light stores up micro-grid system energy accumulation current converter host-slave parallel control method",
+      "patent_id": "patent/CN107346896A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107346896A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103414202B",
+      "primary_language": "en",
+      "publication_date": "2016-04-27",
+      "title": "Management method of management system of electric vehicle battery replacement station in micro-grid",
+      "patent_id": "patent/CN103414202B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103414202B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105811458A",
+      "primary_language": "en",
+      "publication_date": "2016-07-27",
+      "title": "Microgrid energy storage system and energy management method thereof",
+      "patent_id": "patent/CN105811458A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105811458A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2011140840A1",
+      "primary_language": "en",
+      "publication_date": "2011-11-17",
+      "title": "Networking method for hierarchical control micro-grids",
+      "patent_id": "patent/WO2011140840A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011140840A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101673963A",
+      "primary_language": "en",
+      "publication_date": "2010-03-17",
+      "title": "Wind and solar hybrid generation system for communication base station based on dual direct-current bus control",
+      "patent_id": "patent/CN101673963A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101673963A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103151799B",
+      "primary_language": "en",
+      "publication_date": "2015-08-12",
+      "title": "A kind of micro-capacitance sensor electric power system and control method",
+      "patent_id": "patent/CN103151799B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103151799B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106549414A",
+      "primary_language": "en",
+      "publication_date": "2017-03-29",
+      "title": "A kind of grid control method of the shift frequency control without order wire interconnection",
+      "patent_id": "patent/CN106549414A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106549414A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN210898552U",
+      "primary_language": "en",
+      "publication_date": "2020-06-30",
+      "title": "Frequency modulation system of thermal power plant",
+      "patent_id": "patent/CN210898552U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN210898552U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105978025A",
+      "primary_language": "en",
+      "publication_date": "2016-09-28",
+      "title": "Microgrid management system",
+      "patent_id": "patent/CN105978025A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105978025A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202435050U",
+      "primary_language": "en",
+      "publication_date": "2012-09-12",
+      "title": "Distributed energy storage system of wind power station",
+      "patent_id": "patent/CN202435050U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202435050U%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18319971823997678252",
+      "scholar_authors": "Sun et al.",
+      "publication_date": "2020",
+      "title": "Coordination control for multi-voltage-level dc grid based on the dc–dc converters",
+      "patent_id": "scholar/18319971823997678252",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18319971823997678252"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104810845A",
+      "primary_language": "en",
+      "publication_date": "2015-07-29",
+      "title": "Distributed optical energy storage participated bus regulation self-adaptive control device and method",
+      "patent_id": "patent/CN104810845A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104810845A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102097975A",
+      "primary_language": "en",
+      "publication_date": "2011-06-15",
+      "title": "Complementary solar power generation system",
+      "patent_id": "patent/CN102097975A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102097975A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203536978U",
+      "primary_language": "en",
+      "publication_date": "2014-04-09",
+      "title": "Distribution type micro-grid power generation system",
+      "patent_id": "patent/CN203536978U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203536978U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN219918433U",
+      "primary_language": "en",
+      "publication_date": "2023-10-27",
+      "title": "Intelligent micro-grid system based on wind-solar energy storage",
+      "patent_id": "patent/CN219918433U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN219918433U%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2012-09-12",
+      "code": "C06",
+      "title": "Publication"
+    },
+    {
+      "date": "2012-09-12",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2012-11-07",
+      "code": "C10",
+      "title": "Entry into substantive examination"
+    },
+    {
+      "date": "2012-11-07",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2014-05-14",
+      "code": "C14",
+      "title": "Grant of patent or utility model"
+    },
+    {
+      "date": "2014-05-14",
+      "code": "GR01",
+      "title": "Patent grant"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000006855",
+        "name": "networking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 59
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "230000003068",
+        "name": "static effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012384",
+        "name": "transportation and delivery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010008190",
+        "name": "Cerebrovascular accident",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000006011",
+        "name": "Stroke",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010521",
+        "name": "absorption reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009897",
+        "name": "systematic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000009825",
+        "name": "accumulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003116",
+        "name": "impacting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013084",
+        "name": "building-integrated photovoltaic technology",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002955",
+        "name": "isolation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035699",
+        "name": "permeability",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013439",
+        "name": "planning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001737",
+        "name": "promoting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012797",
+        "name": "qualification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001172",
+        "name": "regenerating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006641",
+        "name": "stabilisation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011105",
+        "name": "stabilization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+[
+    {
+        "position": 1,
+        "rank": 0,
+        "patent_id": "patent/SA523442135B1/en",
+        "patent_link": "https://patents.google.com/patent/SA523442135B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSA523442135B1%2Fen",
+        "title": "Hybrid Renewable System for Heat and Power Production",
+        "snippet": "The present disclosure describes a hybrid photovoltaic (PV) panel comprising: a first photovoltaic (PV) layer including photovoltaic cells capable of converting energy from incident solar energy into electricity; A second transparent layer is arranged below the first photovoltaic layer so that a \u2026",
+        "priority_date": "2020-07-14",
+        "filing_date": "2023-01-11",
+        "publication_date": "2024-01-03",
+        "inventor": "\u062c\u064a\u0631\u064a\u062c\u064a \u0639\u0635\u0627\u0645",
+        "assignee": "\u0634\u0631\u0643\u0640\u0640\u0640\u0640\u0629 \u0627\u0644\u0632\u064a\u0640\u0640\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0640\u0640\u0640\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0640\u0640\u0629",
+        "publication_number": "SA523442135B1",
+        "language": "en",
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "US": "ACTIVE",
+            "SA": "UNKNOWN"
+        }
+    },
+    {
+        "position": 2,
+        "rank": 1,
+        "patent_id": "patent/CN103390903A/en",
+        "patent_link": "https://patents.google.com/patent/CN103390903A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103390903A%2Fen",
+        "title": "Novel wind, photo-thermal and energy storage integrated intelligent power \u2026",
+        "snippet": "The invention provides a novel wind, photo-thermal, energy storage integrated power generation system and a control method thereof and belongs to the field of power generation technologies of wind, photo-thermal and energy storage. The novel wind, photo-thermal, energy storage integrated power \u2026",
+        "priority_date": "2013-06-29",
+        "filing_date": "2013-06-29",
+        "publication_date": "2013-11-13",
+        "inventor": "\u5bc7\u5efa\u7389",
+        "assignee": "\u5185\u8499\u53e4\u7535\u529b\u52d8\u6d4b\u8bbe\u8ba1\u9662",
+        "publication_number": "CN103390903A",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/ca/5e/1c/e239e341b32515/HDA00003438054000011.png",
+        "pdf": "https://patentimages.storage.googleapis.com/18/71/4f/22cf211968c897/CN103390903A.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/bf/5a/59/b808a7d9c53bf8/HDA00003438054000011.png",
+                "full": "https://patentimages.storage.googleapis.com/66/dd/80/1a6ba08bc0dc93/HDA00003438054000011.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/2f/c7/f1/79b5ecb0488468/HDA00003438054000021.png",
+                "full": "https://patentimages.storage.googleapis.com/58/20/45/d577e547bd81a5/HDA00003438054000021.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/b6/33/c6/33af4b9e5df98c/HDA00003438054000031.png",
+                "full": "https://patentimages.storage.googleapis.com/a5/0f/68/5ad9428dd3a367/HDA00003438054000031.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/94/65/a8/e9934773a99515/HDA00003438054000041.png",
+                "full": "https://patentimages.storage.googleapis.com/85/42/fe/4eb19b40518249/HDA00003438054000041.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/64/a8/9d/a000e8a6b68f52/HDA00003438054000051.png",
+                "full": "https://patentimages.storage.googleapis.com/7d/70/38/36b9c49515dd21/HDA00003438054000051.png"
+            }
+        ],
+        "country_status": {
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 3,
+        "rank": 2,
+        "patent_id": "patent/CN215176096U/en",
+        "patent_link": "https://patents.google.com/patent/CN215176096U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215176096U%2Fen",
+        "title": "Solar photovoltaic photo-thermal hybrid power generation system",
+        "snippet": "In the future, photo-thermal power generation is used as an important clean and flexible adjusting power supply of a power system and becomes an important component of a high-proportion renewable energy base. With the great increase of the utilization ratio of renewable energy sources, solar \u2026",
+        "priority_date": "2021-04-11",
+        "filing_date": "2021-04-11",
+        "grant_date": "2021-12-14",
+        "publication_date": "2021-12-14",
+        "inventor": "\u6768\u5929\u950b",
+        "assignee": "\u676d\u5dde\u660e\u665f\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN215176096U",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/14/59/2d/f0e869ca24c32a/210408215412.png",
+        "pdf": "https://patentimages.storage.googleapis.com/f5/22/86/de591e9789b643/CN215176096U.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/95/06/86/842ceb8d7ec175/210408215412.png",
+                "full": "https://patentimages.storage.googleapis.com/43/00/cb/542254a3e70b1c/210408215412.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/4e/65/96/c4618f56c1a37a/210408215417.png",
+                "full": "https://patentimages.storage.googleapis.com/84/0e/6b/5e2618483d734f/210408215417.png"
+            }
+        ],
+        "country_status": {
+            "CN": "NOT_ACTIVE"
+        }
+    },
+    {
+        "position": 4,
+        "rank": 3,
+        "patent_id": "patent/WO2025147290A3/en",
+        "patent_link": "https://patents.google.com/patent/WO2025147290A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025147290A3%2Fen",
+        "title": "Hybrid power generation system",
+        "snippet": "A hybrid power generation system in one embodiment comprises a green boiler containing a thermal mass composition operable to store thermal energy, a solar energy collection system which absorbs solar energy to heat a first working fluid and in turn the thermal mass composition, and a power \u2026",
+        "priority_date": "2023-07-07",
+        "filing_date": "2024-07-02",
+        "publication_date": "2025-08-07",
+        "inventor": "Krishna P. Singh",
+        "assignee": "Holtec International",
+        "publication_number": "WO2025147290A3",
+        "language": "en",
+        "country_status": {
+            "WO": "ACTIVE",
+            "US": "ACTIVE"
+        }
+    },
+    {
+        "position": 5,
+        "rank": 4,
+        "patent_id": "patent/CN215170566U/en",
+        "patent_link": "https://patents.google.com/patent/CN215170566U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215170566U%2Fen",
+        "title": "Brayton heat pump circulating energy storage system",
+        "snippet": "In the future, photo-thermal power generation is used as an important clean and flexible adjusting power supply of a power system and becomes an important component of a high-proportion renewable energy base. With the great increase of the utilization ratio of renewable energy sources, solar \u2026",
+        "priority_date": "2021-04-20",
+        "filing_date": "2021-04-20",
+        "grant_date": "2021-12-14",
+        "publication_date": "2021-12-14",
+        "inventor": "\u6768\u5929\u950b",
+        "assignee": "\u676d\u5dde\u660e\u665f\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN215170566U",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/a1/57/4a/06b370ffb34252/210420105122.png",
+        "pdf": "https://patentimages.storage.googleapis.com/c5/a4/23/aa8caff3f9b877/CN215170566U.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/b9/ad/1d/e59db6dbd98899/210420105122.png",
+                "full": "https://patentimages.storage.googleapis.com/63/b9/3d/f094bada27972a/210420105122.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/06/56/92/990278bc101cb4/210420105127.png",
+                "full": "https://patentimages.storage.googleapis.com/40/a7/2b/6b5e836e082d6b/210420105127.png"
+            }
+        ],
+        "country_status": {
+            "CN": "NOT_ACTIVE"
+        }
+    },
+    {
+        "position": 6,
+        "rank": 5,
+        "patent_id": "patent/CN102410162A/en",
+        "patent_link": "https://patents.google.com/patent/CN102410162A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102410162A%2Fen",
+        "title": "Solar power generation system utilizing Stirling engine to pump water and store \u2026",
+        "snippet": "A kind of solar power system that utilizes the Stirling engine pumped storage [technical field] The present invention relates to a kind of novel solar power system that utilizes the Stirling engine pumped storage. [background technique] Along with the exhaustion of traditional non-renewable \u2026",
+        "priority_date": "2010-09-20",
+        "filing_date": "2010-09-20",
+        "publication_date": "2012-04-11",
+        "inventor": "\u6731\u6977",
+        "assignee": "\u6731\u6977",
+        "publication_number": "CN102410162A",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/62/e9/9f/593147f00e8cdb/HSA00000282057500011.png",
+        "pdf": "https://patentimages.storage.googleapis.com/c2/72/4b/5ef851003b794a/CN102410162A.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/66/a4/69/4e035aba5e201d/HSA00000282057500011.png",
+                "full": "https://patentimages.storage.googleapis.com/7f/be/d6/b98b9adb37c8e2/HSA00000282057500011.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/3e/83/81/ccf2b0b522624c/HSA00000282057500012.png",
+                "full": "https://patentimages.storage.googleapis.com/9d/69/3e/7686ca5b22bb7e/HSA00000282057500012.png"
+            }
+        ],
+        "country_status": {
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 7,
+        "rank": 6,
+        "patent_id": "patent/CN201084872Y/en",
+        "patent_link": "https://patents.google.com/patent/CN201084872Y/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201084872Y%2Fen",
+        "title": "A solar electricity-generation, energy-accumulation water-heating device",
+        "snippet": "China is the country of a solar energy than horn of plenty, and solar energy uses the multiple renewable energy resources that comprise solar energy power generating, yet even to this day, people also rest on water heater and independent application stage of photovoltaic generation to the \u2026",
+        "priority_date": "2007-07-12",
+        "filing_date": "2007-07-12",
+        "grant_date": "2008-07-09",
+        "publication_date": "2008-07-09",
+        "inventor": "\u7a0b\u6ce2",
+        "assignee": "\u7a0b\u6ce2",
+        "publication_number": "CN201084872Y",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/d4/cc/a6/39901064337035/Y20072001324900081.png",
+        "pdf": "https://patentimages.storage.googleapis.com/94/05/77/56c326f7eec4a6/CN201084872Y.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/d1/16/84/f6fc83f392fbbf/Y20072001324900081.png",
+                "full": "https://patentimages.storage.googleapis.com/1c/ce/07/9b0bb787202d97/Y20072001324900081.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/d9/b3/cd/45147ac7c3d759/Y20072001324900091.png",
+                "full": "https://patentimages.storage.googleapis.com/d1/4f/05/3b10ccfdedb5e2/Y20072001324900091.png"
+            }
+        ],
+        "country_status": {
+            "CN": "NOT_ACTIVE"
+        }
+    },
+    {
+        "position": 8,
+        "rank": 7,
+        "patent_id": "patent/CN203617315U/en",
+        "patent_link": "https://patents.google.com/patent/CN203617315U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203617315U%2Fen",
+        "title": "Phase-change energy-storage thermoregulation photovoltaic power generation \u2026",
+        "snippet": "The utility model discloses a phase-change energy-storage thermoregulation photovoltaic power generation system, and relates to a solar power generation system. The phase-change energy-storage thermoregulation photovoltaic power generation system includes a solar battery array and a phase-change \u2026",
+        "priority_date": "2013-11-26",
+        "filing_date": "2013-11-26",
+        "grant_date": "2014-05-28",
+        "publication_date": "2014-05-28",
+        "inventor": "\u9648\u7ee7\u52aa",
+        "assignee": "\u9648\u7ee7\u52aa",
+        "publication_number": "CN203617315U",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/65/9a/aa/a10052d0c99246/HDA0000423131830000011.png",
+        "pdf": "https://patentimages.storage.googleapis.com/a5/da/79/26a7c33d46918d/CN203617315U.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/76/36/f5/34aa712edda7b8/HDA0000423131830000011.png",
+                "full": "https://patentimages.storage.googleapis.com/48/b3/94/cdda15248d7e3d/HDA0000423131830000011.png"
+            }
+        ],
+        "country_status": {
+            "CN": "NOT_ACTIVE"
+        }
+    },
+    {
+        "position": 9,
+        "rank": 8,
+        "patent_id": "patent/CN114094915B/en",
+        "patent_link": "https://patents.google.com/patent/CN114094915B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114094915B%2Fen",
+        "title": "Energy storage type high-temperature photovoltaic and photo-thermal integrated \u2026",
+        "snippet": "Background Solar photovoltaic power generation is based on a solar photovoltaic module, converts light energy into electric energy, and is widely used as a novel renewable energy source. The solar photo-thermal power generation is based on concentrated solar energy, solar heat energy is collected \u2026",
+        "priority_date": "2021-11-25",
+        "filing_date": "2021-11-25",
+        "grant_date": "2024-01-23",
+        "publication_date": "2024-01-23",
+        "inventor": "\u97e9\u4f1f",
+        "assignee": "\u897f\u5b89\u70ed\u5de5\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN114094915B",
+        "language": "en",
+        "pdf": "https://patentimages.storage.googleapis.com/d5/75/8a/6774a65c3507e8/CN114094915B.pdf",
+        "country_status": {
+            "WO": "NOT_ACTIVE",
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 10,
+        "rank": 9,
+        "patent_id": "patent/CN109611276A/en",
+        "patent_link": "https://patents.google.com/patent/CN109611276A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109611276A%2Fen",
+        "title": "A kind of novel solar power generation windmill",
+        "snippet": "The invention discloses a kind of novel solar power generation windmill, including bracket, generator is installed on the bracket, the input terminal of the generator is equipped with transmission shaft, flabellum shape solar panels are equipped on the transmission shaft.Bracket is mounted on the \u2026",
+        "priority_date": "2018-08-12",
+        "filing_date": "2018-08-12",
+        "publication_date": "2019-04-12",
+        "inventor": "\u6768\u5357\u742a",
+        "assignee": "\u8d35\u5dde\u7701\u5251\u6cb3\u6c11\u65cf\u4e2d\u5b66",
+        "publication_number": "CN109611276A",
+        "language": "en",
+        "pdf": "https://patentimages.storage.googleapis.com/23/39/f3/bacd37749f597a/CN109611276A.pdf",
+        "country_status": {
+            "CN": "ACTIVE"
+        }
+    }
+]

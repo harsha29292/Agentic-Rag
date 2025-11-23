@@ -1,0 +1,785 @@
+{
+  "search_metadata": {
+    "id": "691889b4f7358118fe147ca6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1a5e45ec541f0dcb/691889b4f7358118fe147ca6.json",
+    "created_at": "2025-11-15 14:09:56 UTC",
+    "processed_at": "2025-11-15 14:09:56 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN215176096U/en",
+    "raw_html_file": "https://serpapi.com/searches/1a5e45ec541f0dcb/691889b4f7358118fe147ca6.html",
+    "total_time_taken": 1.79
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN215176096U/en"
+  },
+  "title": "Solar photovoltaic photo-thermal hybrid power generation system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/f5/22/86/de591e9789b643/CN215176096U.pdf",
+  "publication_number": "CN215176096U",
+  "country": "China",
+  "prior_art_keywords": [
+    "power generation",
+    "heat",
+    "generation system",
+    "temperature",
+    "storage tank"
+  ],
+  "prior_art_date": "2021-04-11",
+  "application_number": "CN202120726996.XU",
+  "inventors": [
+    {
+      "name": "杨天锋",
+      "link": "https://patents.google.com/?inventor=%E6%9D%A8%E5%A4%A9%E9%94%8B",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%A8%E5%A4%A9%E9%94%8B"
+    },
+    {
+      "name": "梁鹏锋",
+      "link": "https://patents.google.com/?inventor=%E6%A2%81%E9%B9%8F%E9%94%8B",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%A2%81%E9%B9%8F%E9%94%8B"
+    },
+    {
+      "name": "杨上锋",
+      "link": "https://patents.google.com/?inventor=%E6%9D%A8%E4%B8%8A%E9%94%8B",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%A8%E4%B8%8A%E9%94%8B"
+    },
+    {
+      "name": "林诚乾",
+      "link": "https://patents.google.com/?inventor=%E6%9E%97%E8%AF%9A%E4%B9%BE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9E%97%E8%AF%9A%E4%B9%BE"
+    },
+    {
+      "name": "杨佳丽",
+      "link": "https://patents.google.com/?inventor=%E6%9D%A8%E4%BD%B3%E4%B8%BD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%A8%E4%BD%B3%E4%B8%BD"
+    }
+  ],
+  "assignees": [
+    "Hangzhou Mingsheng New Energy Technology Co ltd"
+  ],
+  "priority_date": "2021-04-11",
+  "filing_date": "2021-04-11",
+  "publication_date": "2021-12-14",
+  "worldwide_applications": {
+    "2021": [
+      {
+        "filing_date": "2021-04-11",
+        "country_code": "CN",
+        "application_number": "CN202120726996.XU",
+        "document_id": "patent/CN215176096U/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2021-04-11",
+      "title": "Application filed by Hangzhou Mingsheng New Energy Technology Co ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Hangzhou Mingsheng New Energy Technology Co ltd"
+    },
+    {
+      "date": "2021-04-11",
+      "title": "Priority to CN202120726996.XU",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN215176096U/en"
+    },
+    {
+      "date": "2021-12-14",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2021-12-14",
+      "title": "Publication of CN215176096U",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN215176096U/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2031-04-11",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=215176096U&KC=U&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/202120726996/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN215176096U"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/43/00/cb/542254a3e70b1c/210408215412.png",
+    "https://patentimages.storage.googleapis.com/84/0e/6b/5e2618483d734f/210408215417.png"
+  ],
+  "classifications": [
+    {
+      "code": "Y02E10/46",
+      "description": "Conversion of thermal power into mechanical power, e.g. Rankine, Stirling or solar thermal engines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/50",
+      "description": "Photovoltaic [PV] energy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The utility model relates to a solar photovoltaic photo-thermal hybrid power generation system, which comprises a solar heat collector, a heat pump, a high-temperature storage tank, a low-temperature storage tank, a steam generator, a steam turbine power generation system and a photovoltaic power generation system, wherein a heat transfer medium flows into the heat pump after being heated by the solar heat collector, the heat of the heat transfer medium is transferred to a heat storage medium discharged from the low-temperature storage tank under the action of the heat pump, and the heated high-temperature heat storage medium enters the high-temperature storage tank for storage; the heat storage medium from the high-temperature storage tank enters the steam generator, the water working medium is heated to generate high-temperature steam, and the high-temperature steam enters the steam turbine power generation system to do work and generate power; the electric energy required by the heat pump comes from the photovoltaic power generation system.",
+  "description_link": "https://serpapi.com/searches/691889b4f7358118fe147ca6/google_patents_details/description.html",
+  "claims": [
+    "1. A solar photovoltaic photo-thermal hybrid power generation system is characterized by comprising a solar heat collector, a heat pump, a high-temperature storage tank, a low-temperature storage tank, a steam generator and a steam turbine power generation system, wherein the solar heat collector is connected with the low-temperature heat source side of the heat pump, namely, an outlet of the solar heat collector is connected with an inlet of the low-temperature heat source side of the heat pump, and an outlet of the low-temperature heat source side of the heat pump is connected with an inlet of the solar heat collector; the outlet of the low-temperature storage tank is connected with the inlet of the high-temperature heat source side of the heat pump, and the outlet of the high-temperature heat source side of the heat pump is connected with the inlet of the high-temperature storage tank; the outlet of the high-temperature storage tank is connected with the inlet of the hot side of the steam generator, and the outlet of the hot side of the steam generator is connected with the inlet of the low-temperature storage tank; and a water working medium outlet of the steam turbine power generation system is connected with a cold side inlet of the steam generator, and a cold side outlet of the steam generator is connected with a water working medium inlet of the steam turbine power generation system.",
+    "2. The solar photovoltaic-photothermal hybrid power generation system according to claim 1, wherein a heat transfer medium is heated in said solar heat collector, and enters said heat pump to provide heat as a low temperature heat source; the heat storage medium from the low-temperature storage tank enters the high-temperature heat source side of the heat pump to be heated, and then enters the high-temperature storage tank; the steam generator heats the water working medium from the steam turbine power generation system to generate high-temperature steam, and then the high-temperature steam enters the steam turbine power generation system to do work and generate power.",
+    "3. The solar photovoltaic and photo-thermal hybrid power generation system according to claim 1, further comprising an electric heater, wherein the outlet on the high-temperature heat source side of the heat pump is connected to the inlet of the electric heater, and the outlet of the electric heater is connected to the inlet of the high-temperature storage tank.",
+    "4. The solar photovoltaic and photo-thermal hybrid power generation system according to claim 1, further comprising a photovoltaic power generation system, wherein the electric energy required by the heat pump comes from the photovoltaic power generation system.",
+    "5. The solar photovoltaic and photo-thermal hybrid power generation system according to claim 3, further comprising a photovoltaic power generation system, wherein the electric energy required by the heat pump and the electric heater comes from the photovoltaic power generation system.",
+    "6. The solar photovoltaic photo-thermal hybrid power generation system according to any one of claims 1, 2, 3, 4 or 5, wherein the solar thermal collector comprises a tower type, a dish type, a trough type, a linear Fresnel type.",
+    "7. The solar photovoltaic photo-thermal hybrid power generation system according to claim 2, wherein the heat transfer medium is any one of heat transfer oil, molten salt, water working medium, air and liquid metal, and the heat storage medium is any one of molten salt and solid particles."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN202120726996.XU",
+      "representative_publication": "CN215176096U",
+      "primary_language": "en",
+      "priority_date": "2021-04-11",
+      "filing_date": "2021-04-11",
+      "title": "Solar photovoltaic photo-thermal hybrid power generation system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN202120726996.XU",
+      "representative_publication": "CN215176096U",
+      "primary_language": "en",
+      "priority_date": "2021-04-11",
+      "filing_date": "2021-04-11",
+      "title": "Solar photovoltaic photo-thermal hybrid power generation system"
+    }
+  ],
+  "family_id": "79356178",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN115200076A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-07",
+        "publication_date": "2022-10-18",
+        "assignee_original": "陕西煤业新型能源科技股份有限公司",
+        "title": "Solar light-electricity-thermal coupled energy and domestic water self-supply system",
+        "patent_id": "patent/CN115200076A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115200076A%2Fen"
+      },
+      {
+        "publication_number": "CN115200233A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-11",
+        "publication_date": "2022-10-18",
+        "assignee_original": "杭州明晟新能源科技有限公司",
+        "title": "A solar photovoltaic photothermal hybrid power generation system",
+        "patent_id": "patent/CN115200233A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115200233A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN101413719B",
+      "primary_language": "en",
+      "publication_date": "2011-10-12",
+      "title": "Tower type solar heat power generation system with double-stage thermal storage",
+      "patent_id": "patent/CN101413719B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101413719B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202100399U",
+      "primary_language": "en",
+      "publication_date": "2012-01-04",
+      "title": "Solar energy and common boiler combined power-generating and heating system",
+      "patent_id": "patent/CN202100399U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202100399U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108533467A",
+      "primary_language": "en",
+      "publication_date": "2018-09-14",
+      "title": "A kind of slot type of power regulation, tower photo-thermal and photovoltaic can heat accumulation electricity generation systems",
+      "patent_id": "patent/CN108533467A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108533467A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN205823548U",
+      "primary_language": "en",
+      "publication_date": "2016-12-21",
+      "title": "A kind of wind and solar hybrid generating system",
+      "patent_id": "patent/CN205823548U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205823548U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102926955A",
+      "primary_language": "en",
+      "publication_date": "2013-02-13",
+      "title": "Independently distributed comprehensive utilization system for renewable energy sources",
+      "patent_id": "patent/CN102926955A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102926955A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3130770A1",
+      "primary_language": "en",
+      "publication_date": "2017-02-15",
+      "title": "Optimized integrated system for solar-biomass hybrid electricity generation",
+      "patent_id": "patent/EP3130770A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3130770A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108321837A",
+      "primary_language": "en",
+      "publication_date": "2018-07-24",
+      "title": "A kind of wind-powered electricity generation-photo-thermal combined generating system and its operation method",
+      "patent_id": "patent/CN108321837A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108321837A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104653420A",
+      "primary_language": "en",
+      "publication_date": "2015-05-27",
+      "title": "Tower solar thermal power generation method and system using closed Brayton cycle",
+      "patent_id": "patent/CN104653420A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104653420A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104653419A",
+      "primary_language": "en",
+      "publication_date": "2015-05-27",
+      "title": "Closed Brayton tower solar thermal power generation method and system",
+      "patent_id": "patent/CN104653419A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104653419A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102518571A",
+      "primary_language": "en",
+      "publication_date": "2012-06-27",
+      "title": "Large-sized integrated utilization system for photo-thermal power generating station and photovoltaic power generating station",
+      "patent_id": "patent/CN102518571A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102518571A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115045810A",
+      "primary_language": "en",
+      "publication_date": "2022-09-13",
+      "title": "A light-nuclear-storage power generation system and working method for nuclear power peak regulation",
+      "patent_id": "patent/CN115045810A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115045810A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111102143A",
+      "primary_language": "en",
+      "publication_date": "2020-05-05",
+      "title": "Geothermal photo-thermal combined type continuous power generation system",
+      "patent_id": "patent/CN111102143A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111102143A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202673591U",
+      "primary_language": "en",
+      "publication_date": "2013-01-16",
+      "title": "Trough and tower solar hybrid power generation system",
+      "patent_id": "patent/CN202673591U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202673591U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215170240U",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Heat-storage peak regulation system of thermal power plant",
+      "patent_id": "patent/CN215170240U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215170240U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215176096U",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Solar photovoltaic photo-thermal hybrid power generation system",
+      "patent_id": "patent/CN215176096U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215176096U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204572366U",
+      "primary_language": "en",
+      "publication_date": "2015-08-19",
+      "title": "Enclosed Boulez is adopted to pause the tower-type solar thermal power generating system of circulation",
+      "patent_id": "patent/CN204572366U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204572366U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103390903B",
+      "primary_language": "en",
+      "publication_date": "2015-09-09",
+      "title": "Novel wind-light storage intelligence combined generating system and control method thereof",
+      "patent_id": "patent/CN103390903B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103390903B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104764217A",
+      "primary_language": "en",
+      "publication_date": "2015-07-08",
+      "title": "Generalized closed Brayton type tower type solar thermal power generation method and system",
+      "patent_id": "patent/CN104764217A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104764217A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110056489A",
+      "primary_language": "en",
+      "publication_date": "2019-07-26",
+      "title": "Photovoltaic power generation and solar thermal energy-combined combustion and steam turbine power complementary power generation system",
+      "patent_id": "patent/CN110056489A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110056489A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202673592U",
+      "primary_language": "en",
+      "publication_date": "2013-01-16",
+      "title": "Slot type solar-gas combined cycle generation system",
+      "patent_id": "patent/CN202673592U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202673592U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115839517A",
+      "primary_language": "en",
+      "publication_date": "2023-03-24",
+      "title": "Photovoltaic photo-thermal and geothermal coupling power generation and energy supply system",
+      "patent_id": "patent/CN115839517A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115839517A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215170237U",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Flexible peak shaving system of thermal power plant based on heat storage",
+      "patent_id": "patent/CN215170237U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215170237U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201705599U",
+      "primary_language": "en",
+      "publication_date": "2011-01-12",
+      "title": "Trough type solar energy thermal power generation system",
+      "patent_id": "patent/CN201705599U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201705599U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204572363U",
+      "primary_language": "en",
+      "publication_date": "2015-08-19",
+      "title": "Enclosed Boulez pauses-Rankine combined cycle solar heat power generation system",
+      "patent_id": "patent/CN204572363U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204572363U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215170566U",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Brayton heat pump circulating energy storage system",
+      "patent_id": "patent/CN215170566U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215170566U%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2021-12-14",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2021-12-14",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2024-04-19",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee"
+    },
+    {
+      "date": "2024-04-19",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee",
+      "attributes": [
+        {
+          "label": "Granted publication date",
+          "value": "20211214"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 74
+      },
+      {
+        "id": "238000005338",
+        "name": "heat storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910001338",
+        "name": "liquidmetal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000009833",
+        "name": "condensation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000005494",
+        "name": "condensation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008676",
+        "name": "import",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002028",
+        "name": "Biomass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006096",
+        "name": "absorbing agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005265",
+        "name": "energy consumption",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001704",
+        "name": "evaporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

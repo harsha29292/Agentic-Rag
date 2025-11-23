@@ -1,0 +1,1700 @@
+{
+  "search_metadata": {
+    "id": "691889bcdbb9ffa9f9cf298f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/373d5e2ccef74882/691889bcdbb9ffa9f9cf298f.json",
+    "created_at": "2025-11-15 14:10:04 UTC",
+    "processed_at": "2025-11-15 14:10:04 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20070220889A1/en",
+    "raw_html_file": "https://serpapi.com/searches/373d5e2ccef74882/691889bcdbb9ffa9f9cf298f.html",
+    "total_time_taken": 1.06
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20070220889A1/en"
+  },
+  "title": "Electric Power Plant With Thermal Storage Medium",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/ca/be/1c/1fdab8b03de4d8/US20070220889A1.pdf",
+  "publication_number": "US20070220889A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "storage medium",
+    "electricity",
+    "heat",
+    "heat storage",
+    "generators"
+  ],
+  "prior_art_date": "2004-07-23",
+  "application_number": "US11/572,544",
+  "inventors": [
+    {
+      "name": "Durald Nayef",
+      "link": "https://patents.google.com/?inventor=Durald+Nayef",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Durald+Nayef"
+    },
+    {
+      "name": "Irvine Hollis",
+      "link": "https://patents.google.com/?inventor=Irvine+Hollis",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Irvine+Hollis"
+    }
+  ],
+  "assignees": [
+    "New World Generation Inc"
+  ],
+  "priority_date": "2004-07-23",
+  "filing_date": "2005-07-25",
+  "publication_date": "2007-09-27",
+  "worldwide_applications": {
+    "2005": [
+      {
+        "filing_date": "2005-07-25",
+        "country_code": "US",
+        "application_number": "US11/572,544",
+        "document_id": "patent/US20070220889A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      },
+      {
+        "filing_date": "2005-07-25",
+        "country_code": "EP",
+        "application_number": "EP05772091A",
+        "document_id": "patent/EP1799971B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2005-07-25",
+        "country_code": "CA",
+        "application_number": "CA2574830A",
+        "document_id": "patent/CA2574830C/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2005-07-25",
+        "country_code": "WO",
+        "application_number": "PCT/CA2005/001168",
+        "document_id": "patent/WO2006007733A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2005-07-25",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2005-07-25",
+      "title": "Priority to US11/572,544",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US20070220889A1/en"
+    },
+    {
+      "date": "2007-01-23",
+      "title": "Assigned to NEW WORLD GENERATION INC.",
+      "type": "reassignment",
+      "assignee_search": "NEW WORLD GENERATION INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: HOLLIS, IRVINE A., NAYEF, DURAID S."
+      ]
+    },
+    {
+      "date": "2007-09-27",
+      "title": "Publication of US20070220889A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20070220889A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20070220889.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11572544"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20070220889"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2007220889A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11572544/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20070220889"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/7d/fd/b1/092fff38082d49/US20070220889A1-20070927-D00000.png",
+    "https://patentimages.storage.googleapis.com/aa/3a/c7/ccef06f26d774d/US20070220889A1-20070927-D00001.png"
+  ],
+  "classifications": [
+    {
+      "code": "F01K3/12",
+      "description": "Plants characterised by the use of steam or heat accumulators, or intermediate steam heaters, therein having two or more accumulators",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F01K27/00",
+      "description": "Plants for converting heat or fluid energy into mechanical energy, not otherwise provided for",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F01K3/08",
+      "description": "Use of accumulators and the plant being specially adapted for a specific use",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F02C6/14",
+      "description": "Gas-turbine plants having means for storing energy, e.g. for meeting peak loads",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F02C6/18",
+      "description": "Plural gas-turbine plants; Combinations of gas-turbine plants with other apparatus; Adaptations of gas-turbine plants for special use using the waste heat of gas-turbine plants outside the plants themselves, e.g. gas-turbine power heat plants",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03D9/18",
+      "description": "Combinations of wind motors with apparatus storing energy storing heat",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03D9/22",
+      "description": "Wind motors characterised by the driven apparatus the apparatus producing heat",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03D9/255",
+      "description": "Wind motors characterised by the driven apparatus the apparatus being an electrical generator connected to electrical distribution networks; Arrangements therefor",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F03G6/003",
+      "description": "Devices for producing mechanical power from solar energy having a Rankine cycle",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F22B1/028",
+      "description": "Steam generation using heat accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F24H7/0433",
+      "description": "Storage heaters, i.e. heaters in which the energy is stored as heat in masses for subsequent release the released heat being conveyed to a transfer fluid with forced circulation of the transfer fluid using electrical energy supply the transfer medium being water",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/46",
+      "description": "Conversion of thermal power into mechanical power, e.g. Rankine, Stirling or solar thermal engines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/72",
+      "description": "Wind turbines with rotation axis in wind direction",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E70/30",
+      "description": "Systems combining energy storage with energy generation of non-fossil origin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02P80/10",
+      "description": "Efficient use of energy, e.g. using compressed air or pressurized fluid as energy carrier",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02P90/50",
+      "description": "Energy storage in industry with an added climate change mitigation effect",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A power plant uses an energy source (1) to produce electricity in a first generator. The electricity from the first generator provides heat to a solid heat storage medium (2). The solid heat storage medium (2) is a heat exchanger and water is pumped through the solid heat storage medium to receive heat in order to convert the water into steam. The steam is then used to drive a set of second generators (4) to produce electricity. In this way, electricity can be produced using heat from the heat storage medium (2) whether or not the energy source (1) is operable. For example, if the energy source (1) is a wind turbine and the wind is not traveling at sufficient velocity to produce electricity, the heat storage medium can be used to convert water into steam, and reheat steam which is then used to generate electricity in a second generator (4).",
+  "description_link": "https://serpapi.com/searches/691889bcdbb9ffa9f9cf298f/google_patents_details/description.html",
+  "claims": [
+    "1. A power plant for producing electricity, said power plant comprising an energy source connected to one or more first generators to produce electricity, a solid heat storage medium containing a plurality of electrical heaters, said heaters being connected to receive electricity from said first generators, said heat storage medium being a heat exchanger and having high pressure heat transfer lines located therein, said heat transfer lines being arranged so that when fluid is located within said lines, said fluid receives heat from said storage medium, a flow of fluid through said lines being controlled by a controller, said storage medium being hot enough to vaporize said fluid, said heat transfer lines having an outlet connected to drive one or more second generators to produce electricity, said second generators being connected to a power line to distribute said electricity, said second generators being operable to produce electricity from heat stored within said heat storage medium.",
+    "2. A power plant for producing electricity, said power plant comprising an energy source connected to one or more first generators to produce electricity, a solid heat storage medium containing a plurality of electrical heaters, said heaters being connected to receive electricity from said first generators, said heat storage medium being a heat exchanger and having high pressure water/steam lines located therein, said water/steam lines being arranged to receive heat transferred from said storage medium to heat water/steam, within said water/steam lines, a flow of water/steam through said water/steam lines being controlled by a controller, said storage medium being hot enough to convert water within said lines to steam at a first outlet from said heat storage medium, said first outlet being connected to drive one or more second generators to generate electricity.",
+    "3. A power plant as claimed in claim 1 wherein said fluid is water that is converted to steam by said heat storage medium.",
+    "4. A power plant as claimed in claim 3 wherein there is a steam engine located between said second generators and an outlet from said heat transfer lines.",
+    "5. A power plant as claimed in claim 4 wherein said solid heat storage medium and said second generators are a first stage, there being a second stage having a second heat storage medium and one or more third generators, said heaters in said second heat storage medium being connected to receive electricity from said first generators, said thermal storage medium reheating said steam and said steam from said second storage medium driving said third generators to produce electricity.",
+    "6. A power plant has claimed in claim 5 wherein there is a third stage that is substantially similar to said second stage, said third stage producing additional electricity beyond that produced by said second stage.",
+    "7. A power plant for producing electricity, said power plant comprising an energy source connected to produce electricity, a solid heat storage medium containing a plurality of electrical heaters, said heaters being connected to receive electricity from said generator and to store electricity, said solid heat storage medium being substantially surrounded by insulation and having high pressure heat transfer lines located therein, said heat transfer lines being arranged so that when fluid is located within said lines, said fluid receives heat from said storage medium, a flow of fluid through said lines being controlled by a controller, said storage medium being hot enough to vaporize said fluid, said heat transfer lines having an outlet connected to drive one or more means to produce electricity from said fluid flowing from said outlet of said heat transfer lines, said means to produce electricity having an electrical output that is connected to a power line to distribute said electricity.",
+    "8. A power plant for producing electricity, said power plant comprising, an energy source connected to first means to produce electricity, a solid heat storage medium containing a plurality of electrical heaters, said heaters being connected to receive electricity produced by said energy source during a first time period, said heat storage medium having high pressure heat transfer lines located therein, said high pressure heat transfer lines being connected to second means to produced electricity during a second time period, a flow of fluid through said high pressure heat transfer lines being controlled by a controller, said heat storage medium being hot enough to vaporize fluid flowing through said high pressure heat transfer lines at a first outlet from said heat storage medium, said first outlet being connected to second means to produce electricity.",
+    "9. A power plant as claimed in claim 8 wherein said fluid is water/steam.",
+    "10. A power plant as claimed in claim 8 wherein said first and second means to produce electricity are generators that are powered by said fluid flowing from said heat storage medium.",
+    "11. A power plant as claimed in claim 8 wherein said first and second means to produce electricity are first and second generators.",
+    "12. A power plant as claimed in claim 10 wherein said first and second means to produce electricity are first and second mechanical drive means, being connected to first and second generators respectively, said first and second drive means being powered by fluid flowing from said outlet of said heat storage medium, said heat storage medium being connected to store heat and to transfer heat.",
+    "13. A method of operating a power plant for generating electricity, said power plant having a solid heat storage medium that is connected to one or more first generators to produce electricity, said solid heat storage medium containing a plurality of electrical heaters, said heaters being connected to receive electricity from said first generators, said heat storage medium being a heat exchanger with an outlet from said medium connected to one or more second generators, said method comprising generating electricity from an energy source, directing excess electricity to said solid heat storage medium, controlling a flow of water through said heat exchanger to receive heat from said storage medium in a sufficient amount to convert water into steam at an outlet from said storage medium, using said steam to drive one or more second electrical generators, controlling the flow of water through said heat exchanger or to shut off the flow of water to produce more, less or no electricity respectively from said heat storage medium during peak hours or when the energy source does not produce sufficient electricity.",
+    "14. A method as claimed in claim 13 including the steps of operating said power plant to heat said solid heat storage medium to a temperature ranging from 300° C. to 900° C.",
+    "15. A method as claimed in claim 13 including the step using said heat storage medium to superheat said steam.",
+    "16. A method as claimed in claim 13 wherein said solid heat storage medium and said second generators are a first stage, there being a second stage having a second heat storage medium and one or more third generators, said heaters in said second storage medium being connected to receive electricity from said first generators, said method comprising operating said plant to recycle steam/water from said second generators to said second heat storage medium."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/572,544",
+      "representative_publication": "US20070220889A1",
+      "primary_language": "en",
+      "priority_date": "2004-07-23",
+      "filing_date": "2005-07-25",
+      "title": "Electric Power Plant With Thermal Storage Medium"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US59034404P",
+      "priority_date": "2004-07-23",
+      "filing_date": "2004-07-23"
+    },
+    {
+      "application_number": "PCT/CA2005/001168",
+      "representative_publication": "WO2006007733A1",
+      "primary_language": "en",
+      "priority_date": "2004-07-23",
+      "filing_date": "2005-07-25",
+      "title": "Electric power plant with thermal storage medium"
+    },
+    {
+      "application_number": "US11/572,544",
+      "representative_publication": "US20070220889A1",
+      "primary_language": "en",
+      "priority_date": "2004-07-23",
+      "filing_date": "2005-07-25",
+      "title": "Electric Power Plant With Thermal Storage Medium"
+    }
+  ],
+  "family_id": "35784853",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3381113A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1964-09-29",
+        "publication_date": "1968-04-30",
+        "assignee_original": "Albright & Wilson Mfg Ltd",
+        "title": "Heat storage apparatus",
+        "patent_id": "patent/US3381113A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3381113A%2Fen"
+      },
+      {
+        "publication_number": "US3596034A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1969-12-08",
+        "publication_date": "1971-07-27",
+        "assignee_original": "Hooker Chemical Corp",
+        "title": "Heat storage",
+        "patent_id": "patent/US3596034A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3596034A%2Fen"
+      },
+      {
+        "publication_number": "US5005360A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-02-22",
+        "publication_date": "1991-04-09",
+        "assignee_original": "Mcmurtry J A",
+        "title": "Solar energy system for generating electricity",
+        "patent_id": "patent/US5005360A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5005360A%2Fen"
+      },
+      {
+        "publication_number": "US5384489A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-02-07",
+        "publication_date": "1995-01-24",
+        "assignee_original": "Bellac; Alphonse H.",
+        "title": "Wind-powered electricity generating system including wind energy storage",
+        "patent_id": "patent/US5384489A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5384489A%2Fen"
+      },
+      {
+        "publication_number": "US5436508A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-02-12",
+        "publication_date": "1995-07-25",
+        "assignee_original": "Anna-Margrethe Sorensen",
+        "title": "Wind-powered energy production and storing system",
+        "patent_id": "patent/US5436508A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5436508A%2Fen"
+      },
+      {
+        "publication_number": "US6474067B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-03",
+        "publication_date": "2002-11-05",
+        "assignee_original": "Chugoku Maintenance Co., Ltd.",
+        "title": "Apparatus and method for resource recovery from organic substance",
+        "patent_id": "patent/US6474067B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6474067B2%2Fen"
+      },
+      {
+        "publication_number": "US7007474B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-04",
+        "publication_date": "2006-03-07",
+        "assignee_original": "The United States Of America As Represented By The United States Department Of Energy",
+        "title": "Energy recovery during expansion of compressed gas using power plant low-quality heat sources",
+        "patent_id": "patent/US7007474B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7007474B1%2Fen"
+      },
+      {
+        "publication_number": "US7086231B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-05",
+        "publication_date": "2006-08-08",
+        "assignee_original": "Active Power, Inc.",
+        "title": "Thermal and compressed air storage system",
+        "patent_id": "patent/US7086231B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7086231B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "EP1577549A1",
+        "primary_language": "en",
+        "priority_date": "2004-03-16",
+        "publication_date": "2005-09-21",
+        "assignee_original": "Abb Research Ltd.",
+        "title": "Apparatus for storing thermal energy and generating electricity",
+        "patent_id": "patent/EP1577549A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1577549A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20060150629A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-22",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Eric Ingersoll",
+        "title": "Use of intersecting vane machines in combination with wind turbines",
+        "patent_id": "patent/US20060150629A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060150629A1%2Fen"
+      },
+      {
+        "publication_number": "US20080134681A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-10",
+        "publication_date": "2008-06-12",
+        "assignee_original": "New World Generation Inc.",
+        "title": "Power Plant Having A Heat Storage Medium And A Method Of Operation Thereof",
+        "patent_id": "patent/US20080134681A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080134681A1%2Fen"
+      },
+      {
+        "publication_number": "US20100252028A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-26",
+        "publication_date": "2010-10-07",
+        "assignee_original": "Robert Charles Mierisch",
+        "title": "Intermediate pressure storage system for thermal storage",
+        "patent_id": "patent/US20100252028A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100252028A1%2Fen"
+      },
+      {
+        "publication_number": "US20100251711A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-03",
+        "publication_date": "2010-10-07",
+        "assignee_original": "Isentropic Limited",
+        "title": "Energy Storage",
+        "patent_id": "patent/US20100251711A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100251711A1%2Fen"
+      },
+      {
+        "publication_number": "EP2400120A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-06-23",
+        "publication_date": "2011-12-28",
+        "assignee_original": "ABB Research Ltd.",
+        "title": "Thermoelectric energy storage system",
+        "patent_id": "patent/EP2400120A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2400120A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012003021A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-01",
+        "publication_date": "2012-01-05",
+        "assignee_original": "Twin Disc, Inc.",
+        "title": "Power generator using a wind turbine, a hydrodynamic retarder, and an organic rankine cycle drive",
+        "patent_id": "patent/WO2012003021A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012003021A1%2Fen"
+      },
+      {
+        "publication_number": "US20120223533A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-18",
+        "publication_date": "2012-09-06",
+        "assignee_original": "Dariusz Krzysztof Iwanowski",
+        "title": "Method and system for renewable energy store in temperature-pressure tank of energy and conversion to electrical energy",
+        "patent_id": "patent/US20120223533A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120223533A1%2Fen"
+      },
+      {
+        "publication_number": "US20130104549A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-12",
+        "publication_date": "2013-05-02",
+        "assignee_original": "Henrik Stiesdal",
+        "title": "Thermal energy storage and recovery with a heat exchanger arrangement having an extended thermal interaction region",
+        "patent_id": "patent/US20130104549A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130104549A1%2Fen"
+      },
+      {
+        "publication_number": "US8664793B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-23",
+        "publication_date": "2014-03-04",
+        "assignee_original": "Apple Inc.",
+        "title": "On-demand generation of electricity from stored wind energy",
+        "patent_id": "patent/US8664793B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8664793B2%2Fen"
+      },
+      {
+        "publication_number": "EP2554804A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-18",
+        "publication_date": "2015-03-11",
+        "assignee_original": "ABB Research Ltd.",
+        "title": "Energy storage system with an intermediate storage tank and method for storing thermoelectric energy",
+        "patent_id": "patent/EP2554804A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2554804A3%2Fen"
+      },
+      {
+        "publication_number": "US20150145254A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-07",
+        "publication_date": "2015-05-28",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Power generation system",
+        "patent_id": "patent/US20150145254A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150145254A1%2Fen"
+      },
+      {
+        "publication_number": "US20160024973A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-28",
+        "publication_date": "2016-01-28",
+        "assignee_original": "Third Power, LLC",
+        "title": "Conversion of Power Plants to Energy Storage Resources",
+        "patent_id": "patent/US20160024973A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160024973A1%2Fen"
+      },
+      {
+        "publication_number": "WO2018033763A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-17",
+        "publication_date": "2018-02-22",
+        "assignee_original": "Al Atheri M B Yasar",
+        "title": "Multi-purpose self-sustained heat generating revolving evaporator apparatus (ms re)",
+        "patent_id": "patent/WO2018033763A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018033763A1%2Fen"
+      },
+      {
+        "publication_number": "US9938896B2",
+        "primary_language": "en",
+        "priority_date": "2013-04-03",
+        "publication_date": "2018-04-10",
+        "assignee_original": "Sigma Energy Storage Inc.",
+        "title": "Compressed air energy storage and recovery",
+        "patent_id": "patent/US9938896B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9938896B2%2Fen"
+      },
+      {
+        "publication_number": "US20190323374A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-24",
+        "publication_date": "2019-10-24",
+        "assignee_original": "Heinrich Graucob",
+        "title": "Hochtemperatur-Energiespeicher - Drucklos",
+        "patent_id": "patent/US20190323374A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190323374A1%2Fen"
+      },
+      {
+        "publication_number": "US10488085B2",
+        "primary_language": "en",
+        "priority_date": "2017-05-24",
+        "publication_date": "2019-11-26",
+        "assignee_original": "General Electric Company",
+        "title": "Thermoelectric energy storage system and an associated method thereof",
+        "patent_id": "patent/US10488085B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10488085B2%2Fen"
+      },
+      {
+        "publication_number": "EP3470667A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-08",
+        "publication_date": "2020-03-04",
+        "assignee_original": "González Pérez, Adolfo",
+        "title": "AUTONOMOUS SUSTAINABLE WINCH UNIT, NETWORKED MULTI-BLADE ROTOR, ENERGY ACCUMULATOR AND ENERGY CONVERTER AND USES",
+        "patent_id": "patent/EP3470667A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3470667A4%2Fen"
+      },
+      {
+        "publication_number": "CN113154500A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-17",
+        "publication_date": "2021-07-23",
+        "assignee_original": "华能苏州热电有限责任公司",
+        "title": "Wind energy utilization method and device based on cogeneration coupling molten salt heat storage",
+        "patent_id": "patent/CN113154500A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113154500A%2Fen"
+      },
+      {
+        "publication_number": "WO2021257731A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-16",
+        "publication_date": "2021-12-23",
+        "assignee_original": "Cyrq Energy, Inc.",
+        "title": "Electricity generating systems with thermal energy storage coupled superheaters",
+        "patent_id": "patent/WO2021257731A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021257731A1%2Fen"
+      },
+      {
+        "publication_number": "CN114370708A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-22",
+        "publication_date": "2022-04-19",
+        "assignee_original": "广东中澳能源科技有限公司",
+        "title": "Pressure-bearing type high-temperature heat-storage electric water heating boiler",
+        "patent_id": "patent/CN114370708A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114370708A%2Fen"
+      },
+      {
+        "publication_number": "US20220298966A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-19",
+        "publication_date": "2022-09-22",
+        "assignee_original": "247Solar Inc.",
+        "title": "Thermal storage and power generation systems and methods for electrical power source management",
+        "patent_id": "patent/US20220298966A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220298966A1%2Fen"
+      },
+      {
+        "publication_number": "US20230091879A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-12",
+        "publication_date": "2023-03-23",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat energy storage system with hot-side thermal integration",
+        "patent_id": "patent/US20230091879A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230091879A1%2Fen"
+      },
+      {
+        "publication_number": "US11754319B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-27",
+        "publication_date": "2023-09-12",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped thermal storage cycles with turbomachine speed control",
+        "patent_id": "patent/US11754319B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11754319B2%2Fen"
+      },
+      {
+        "publication_number": "US11761336B2",
+        "primary_language": "en",
+        "priority_date": "2010-03-04",
+        "publication_date": "2023-09-19",
+        "assignee_original": "Malta Inc.",
+        "title": "Adiabatic salt energy storage",
+        "patent_id": "patent/US11761336B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11761336B2%2Fen"
+      },
+      {
+        "publication_number": "US11840932B1",
+        "primary_language": "en",
+        "priority_date": "2020-08-12",
+        "publication_date": "2023-12-12",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat energy storage system with generation cycle thermal integration",
+        "patent_id": "patent/US11840932B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11840932B1%2Fen"
+      },
+      {
+        "publication_number": "US11846197B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-12",
+        "publication_date": "2023-12-19",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat energy storage system with charge cycle thermal integration",
+        "patent_id": "patent/US11846197B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11846197B2%2Fen"
+      },
+      {
+        "publication_number": "US11852043B2",
+        "primary_language": "en",
+        "priority_date": "2019-11-16",
+        "publication_date": "2023-12-26",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat electric storage system with recirculation",
+        "patent_id": "patent/US11852043B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11852043B2%2Fen"
+      },
+      {
+        "publication_number": "US11885244B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-12",
+        "publication_date": "2024-01-30",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat energy storage system with electric heating integration",
+        "patent_id": "patent/US11885244B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11885244B2%2Fen"
+      },
+      {
+        "publication_number": "US11927130B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-28",
+        "publication_date": "2024-03-12",
+        "assignee_original": "Malta Inc.",
+        "title": "Pump control of closed cycle power generation system",
+        "patent_id": "patent/US11927130B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11927130B2%2Fen"
+      },
+      {
+        "publication_number": "US11982228B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-12",
+        "publication_date": "2024-05-14",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat energy storage system with steam cycle",
+        "patent_id": "patent/US11982228B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11982228B2%2Fen"
+      },
+      {
+        "publication_number": "US12012902B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-28",
+        "publication_date": "2024-06-18",
+        "assignee_original": "Malta Inc.",
+        "title": "Variable pressure inventory control of closed cycle system with a high pressure tank and an intermediate pressure tank",
+        "patent_id": "patent/US12012902B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12012902B2%2Fen"
+      },
+      {
+        "publication_number": "US20240254897A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-30",
+        "publication_date": "2024-08-01",
+        "assignee_original": "Rondo Energy, Inc.",
+        "title": "Thermal energy storage system with steam generation system including flow control and energy cogeneration",
+        "patent_id": "patent/US20240254897A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240254897A1%2Fen"
+      },
+      {
+        "publication_number": "US12123327B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-12",
+        "publication_date": "2024-10-22",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat energy storage system with modular turbomachinery",
+        "patent_id": "patent/US12123327B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12123327B2%2Fen"
+      },
+      {
+        "publication_number": "US12123347B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-12",
+        "publication_date": "2024-10-22",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat energy storage system with load following",
+        "patent_id": "patent/US12123347B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12123347B2%2Fen"
+      },
+      {
+        "publication_number": "US12129791B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-28",
+        "publication_date": "2024-10-29",
+        "assignee_original": "Malta Inc.",
+        "title": "Baffled thermoclines in thermodynamic cycle systems",
+        "patent_id": "patent/US12129791B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12129791B2%2Fen"
+      },
+      {
+        "publication_number": "US12140053B2",
+        "primary_language": "en",
+        "priority_date": "2020-11-30",
+        "publication_date": "2024-11-12",
+        "assignee_original": "Rondo Energy, Inc.",
+        "title": "Thermal energy storage system coupled with steam cracking system",
+        "patent_id": "patent/US12140053B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12140053B2%2Fen"
+      },
+      {
+        "publication_number": "US12146426B2",
+        "primary_language": "en",
+        "priority_date": "2020-11-30",
+        "publication_date": "2024-11-19",
+        "assignee_original": "Rondo Energy, Inc.",
+        "title": "Energy storage system and alumina calcination applications",
+        "patent_id": "patent/US12146426B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12146426B2%2Fen"
+      },
+      {
+        "publication_number": "US12146424B2",
+        "primary_language": "en",
+        "priority_date": "2020-11-30",
+        "publication_date": "2024-11-19",
+        "assignee_original": "Rondo Energy, Inc.",
+        "title": "Thermal energy storage system coupled with a solid oxide electrolysis system",
+        "patent_id": "patent/US12146424B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12146424B2%2Fen"
+      },
+      {
+        "publication_number": "US12291982B2",
+        "primary_language": "en",
+        "priority_date": "2020-11-30",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Rondo Energy, Inc.",
+        "title": "Thermal energy storage systems for use in material processing",
+        "patent_id": "patent/US12291982B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291982B2%2Fen"
+      },
+      {
+        "publication_number": "US12352505B2",
+        "primary_language": "en",
+        "priority_date": "2023-04-14",
+        "publication_date": "2025-07-08",
+        "assignee_original": "Rondo Energy, Inc.",
+        "title": "Thermal energy storage systems with improved seismic stability",
+        "patent_id": "patent/US12352505B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12352505B2%2Fen"
+      },
+      {
+        "publication_number": "US12359591B1",
+        "primary_language": "en",
+        "priority_date": "2020-11-30",
+        "publication_date": "2025-07-15",
+        "assignee_original": "Rondo Energy, Inc.",
+        "title": "Thermal energy storage systems for repowering existing power plants for improving efficiency and safety",
+        "patent_id": "patent/US12359591B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12359591B1%2Fen"
+      },
+      {
+        "publication_number": "WO2025147290A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-07",
+        "publication_date": "2025-08-07",
+        "assignee_original": "Holtec International",
+        "title": "Hybrid power generation system",
+        "patent_id": "patent/WO2025147290A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025147290A3%2Fen"
+      },
+      {
+        "publication_number": "US12428979B2",
+        "primary_language": "en",
+        "priority_date": "2021-12-14",
+        "publication_date": "2025-09-30",
+        "assignee_original": "Malta Inc.",
+        "title": "Pumped heat energy storage system integrated with coal-fired energy generation unit",
+        "patent_id": "patent/US12428979B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12428979B2%2Fen"
+      },
+      {
+        "publication_number": "US12435648B1",
+        "primary_language": "en",
+        "priority_date": "2020-11-30",
+        "publication_date": "2025-10-07",
+        "assignee_original": "Rondo Energy, Inc.",
+        "title": "Thermal energy storage system coupled with thermal power cycle systems",
+        "patent_id": "patent/US12435648B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12435648B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "AT503167B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-06",
+        "publication_date": "2007-10-15",
+        "assignee_original": "Siegfried Prugner",
+        "title": "Device for converting thermal energy in flowing force and further into motion or electrical energy, has two containers, in which both containers are partly filled with fluid",
+        "patent_id": "patent/AT503167B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAT503167B1%2Fen"
+      },
+      {
+        "publication_number": "WO2007134466A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-24",
+        "publication_date": "2007-11-29",
+        "assignee_original": "Abb Research Ltd",
+        "title": "Thermoelectric energy storage system and method for storing thermoelectric energy",
+        "patent_id": "patent/WO2007134466A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007134466A1%2Fen"
+      },
+      {
+        "publication_number": "WO2008004861A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-04",
+        "publication_date": "2008-01-10",
+        "assignee_original": "Pieter Van Ittersum",
+        "title": "System for generating mechanical energy based on thermal energy",
+        "patent_id": "patent/WO2008004861A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008004861A1%2Fen"
+      },
+      {
+        "publication_number": "EP2101051A1",
+        "primary_language": "en",
+        "priority_date": "2008-03-12",
+        "publication_date": "2009-09-16",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Storage of electrical energy in a heat accumulator and reverse electrical energy production by means of a thermodynamic  cycle",
+        "patent_id": "patent/EP2101051A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2101051A1%2Fen"
+      },
+      {
+        "publication_number": "JP5024736B2",
+        "primary_language": "en",
+        "priority_date": "2009-10-15",
+        "publication_date": "2012-09-12",
+        "assignee_original": "住友電気工業株式会社",
+        "title": "Power generation system",
+        "patent_id": "patent/JP5024736B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5024736B2%2Fen"
+      },
+      {
+        "publication_number": "FR2972889A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-03-17",
+        "publication_date": "2012-09-21",
+        "assignee_original": "Kevin Stephane Ayassamy",
+        "title": "Electrical heating system for storage and retrieval of renewable electric energy for infrastructure, has water tank supplying water jet for allowing contact of water with heater to release energy in form of vapor",
+        "patent_id": "patent/FR2972889A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2972889A1%2Fen"
+      },
+      {
+        "publication_number": "FR2978533A1",
+        "primary_language": "en",
+        "priority_date": "2011-07-26",
+        "publication_date": "2013-02-01",
+        "assignee_original": "Jacquis Suzanne",
+        "title": "HEAT-RENEWABLE ENERGY STORAGE DEVICE AND TRI GENERATION RESTITUTION METHOD",
+        "patent_id": "patent/FR2978533A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2978533A1%2Fen"
+      },
+      {
+        "publication_number": "DE102012204081A1",
+        "primary_language": "en",
+        "priority_date": "2012-03-15",
+        "publication_date": "2013-09-19",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Energy storage power plant",
+        "patent_id": "patent/DE102012204081A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012204081A1%2Fen"
+      },
+      {
+        "publication_number": "DE102013004330A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-12",
+        "publication_date": "2014-08-14",
+        "assignee_original": "Carbon-Clean Technologies Gmbh",
+        "title": "Heat storage and heat storage power plant",
+        "patent_id": "patent/DE102013004330A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102013004330A1%2Fen"
+      },
+      {
+        "publication_number": "EP3139108B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-04",
+        "publication_date": "2018-03-28",
+        "assignee_original": "Lumenion GmbH",
+        "title": "Storage device and method of temporarily storing electrical energy into heat energy",
+        "patent_id": "patent/EP3139108B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3139108B1%2Fen"
+      },
+      {
+        "publication_number": "GB2559779B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-17",
+        "publication_date": "2021-10-13",
+        "assignee_original": "Anthony Richardson Nicholas",
+        "title": "System and method of supplying steam",
+        "patent_id": "patent/GB2559779B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2559779B%2Fen"
+      },
+      {
+        "publication_number": "CN107989759B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-08",
+        "publication_date": "2020-04-03",
+        "assignee_original": "北京兆阳光热技术有限公司",
+        "title": "Solid heat storage power generation system and photo-thermal power station",
+        "patent_id": "patent/CN107989759B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107989759B%2Fen"
+      },
+      {
+        "publication_number": "CN108757075B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-28",
+        "publication_date": "2024-12-06",
+        "assignee_original": "思安新能源股份有限公司",
+        "title": "A surplus energy utilization power generation system",
+        "patent_id": "patent/CN108757075B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108757075B%2Fen"
+      },
+      {
+        "publication_number": "CN113390074B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-11",
+        "publication_date": "2024-12-20",
+        "assignee_original": "赫普能源环境科技股份有限公司",
+        "title": "A thermal power plant thermal storage power generation peak regulation and frequency regulation system and working method",
+        "patent_id": "patent/CN113390074B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113390074B%2Fen"
+      },
+      {
+        "publication_number": "WO2024243570A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-05-25",
+        "publication_date": "2024-11-28",
+        "assignee_original": "Nuscale Power, Llc",
+        "title": "Integrated energy systems including techniques for achieving steam production for use in resource production",
+        "patent_id": "patent/WO2024243570A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024243570A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CA2574830C",
+      "primary_language": "en",
+      "publication_date": "2014-04-15",
+      "title": "Electric power plant with thermal storage medium",
+      "patent_id": "patent/CA2574830C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2574830C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7723858B2",
+      "primary_language": "en",
+      "publication_date": "2010-05-25",
+      "title": "Power plant having a heat storage medium and a method of operation thereof",
+      "patent_id": "patent/US7723858B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7723858B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN209558305U",
+      "primary_language": "en",
+      "publication_date": "2019-10-29",
+      "title": "Vapour vapor extractor combination thermal storage electric boiler peak regulation system is penetrated by a kind of thermal power plant",
+      "patent_id": "patent/CN209558305U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN209558305U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8938966B2",
+      "primary_language": "en",
+      "publication_date": "2015-01-27",
+      "title": "Storage of electrical energy with thermal storage and return through a thermodynamic cycle",
+      "patent_id": "patent/US8938966B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8938966B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7640746B2",
+      "primary_language": "en",
+      "publication_date": "2010-01-05",
+      "title": "Method and system integrating solar heat into a regenerative rankine steam cycle",
+      "patent_id": "patent/US7640746B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7640746B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080219651A1",
+      "primary_language": "en",
+      "publication_date": "2008-09-11",
+      "title": "Thermal Storage Medium",
+      "patent_id": "patent/US20080219651A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080219651A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6244033B1",
+      "primary_language": "en",
+      "publication_date": "2001-06-12",
+      "title": "Process for generating electric power",
+      "patent_id": "patent/US6244033B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6244033B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN212296519U",
+      "primary_language": "en",
+      "publication_date": "2021-01-05",
+      "title": "Variable-parameter multi-element cascade thermoelectric decoupling system of thermal power heat supply unit",
+      "patent_id": "patent/CN212296519U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN212296519U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2008103067A1",
+      "primary_language": "en",
+      "publication_date": "2008-08-28",
+      "title": "Electrogenerating device with a high-temperature steam turbine",
+      "patent_id": "patent/WO2008103067A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008103067A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115234322A",
+      "primary_language": "en",
+      "publication_date": "2022-10-25",
+      "title": "Electrode molten salt energy storage steam supply power generation system",
+      "patent_id": "patent/CN115234322A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115234322A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102588020B",
+      "primary_language": "en",
+      "publication_date": "2015-07-15",
+      "title": "Solar power generation and thermal power generation combined turbine-generator unit and realizing method",
+      "patent_id": "patent/CN102588020B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102588020B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2001245857B2",
+      "primary_language": "en",
+      "publication_date": "2005-08-25",
+      "title": "Method and system for generating power",
+      "patent_id": "patent/AU2001245857B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2001245857B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH084586A",
+      "primary_language": "en",
+      "publication_date": "1996-01-09",
+      "title": "Cogeneration system",
+      "patent_id": "patent/JPH084586A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH084586A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2001245857A1",
+      "primary_language": "en",
+      "publication_date": "2001-12-13",
+      "title": "Method and system for generating power",
+      "patent_id": "patent/AU2001245857A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2001245857A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2326246C1",
+      "primary_language": "en",
+      "publication_date": "2008-06-10",
+      "title": "Ccpp plant for combined heat and power production",
+      "patent_id": "patent/RU2326246C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2326246C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2391515C1",
+      "primary_language": "en",
+      "publication_date": "2010-06-10",
+      "title": "Electro-generating installation with carbon-hydrogen fuel",
+      "patent_id": "patent/RU2391515C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2391515C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN216588750U",
+      "primary_language": "en",
+      "publication_date": "2022-05-24",
+      "title": "Solid heat storage coupling thermal power unit system",
+      "patent_id": "patent/CN216588750U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN216588750U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2755855C1",
+      "primary_language": "en",
+      "publication_date": "2021-09-22",
+      "title": "Combined heat and power plant with an open cogeneration system",
+      "patent_id": "patent/RU2755855C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2755855C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2405942C2",
+      "primary_language": "en",
+      "publication_date": "2010-12-10",
+      "title": "Operating method of heat-and-power plant",
+      "patent_id": "patent/RU2405942C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2405942C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN219220536U",
+      "primary_language": "en",
+      "publication_date": "2023-06-20",
+      "title": "Combined heat and power system of high-temperature heat storage type water turbine and steam turbine",
+      "patent_id": "patent/CN219220536U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN219220536U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2773580C1",
+      "primary_language": "en",
+      "publication_date": "2022-06-06",
+      "title": "Combined-cycle thermal power plant with energy storage",
+      "patent_id": "patent/RU2773580C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2773580C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202431309U",
+      "primary_language": "en",
+      "publication_date": "2012-09-12",
+      "title": "Energy-saving power generation system",
+      "patent_id": "patent/CN202431309U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202431309U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207437137U",
+      "primary_language": "en",
+      "publication_date": "2018-06-01",
+      "title": "A kind of power plant thermal system",
+      "patent_id": "patent/CN207437137U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207437137U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "SU1101567A1",
+      "primary_language": "en",
+      "publication_date": "1984-07-07",
+      "title": "Method of regulating load of heat-electric generating plant",
+      "patent_id": "patent/SU1101567A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSU1101567A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250243775A1",
+      "primary_language": "en",
+      "publication_date": "2025-07-31",
+      "title": "Method for the conversion of thermal energy into electrical energy based on an anticlockwise thermally regenerated cycle combined with thermal acceleration, and the application of same",
+      "patent_id": "patent/US20250243775A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250243775A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2007-01-23",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "NEW WORLD GENERATION INC., CANADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NAYEF, DURAID S.;HOLLIS, IRVINE A.;REEL/FRAME:018792/0670"
+        },
+        {
+          "label": "Effective date",
+          "value": "20050715"
+        }
+      ]
+    },
+    {
+      "date": "2010-12-06",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 95
+      },
+      {
+        "id": "238000005338",
+        "name": "heat storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 85
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 52
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000009413",
+        "name": "insulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003303",
+        "name": "reheating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011449",
+        "name": "brick",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000013529",
+        "name": "heat transfer fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "name": "Iron",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]",
+        "inchi_key": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CPLXHLVBOLITMK-UHFFFAOYSA-N",
+        "name": "Magnesium oxide",
+        "domain": "Chemical compound",
+        "smiles": "[Mg]=O",
+        "inchi_key": "CPLXHLVBOLITMK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007664",
+        "name": "blowing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "name": "methane",
+        "domain": "Chemical compound",
+        "smiles": "C",
+        "inchi_key": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011435",
+        "name": "rock",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WYTGDNHDOZPMIW-RCBQFDQVSA-N",
+        "name": "alstonine",
+        "domain": "Natural products",
+        "smiles": "C1=CC2=C3C=CC=CC3=NC2=C2N1C[C@H]1[C@H](C)OC=C(C(=O)OC)[C@H]1C2",
+        "inchi_key": "WYTGDNHDOZPMIW-RCBQFDQVSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "name": "aluminium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[O-2].[O-2].[O-2].[Al+3].[Al+3]",
+        "inchi_key": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009835",
+        "name": "boiling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006698",
+        "name": "induction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052742",
+        "name": "iron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000395",
+        "name": "magnesium oxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003345",
+        "name": "natural gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013618",
+        "name": "particulate matter",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005086",
+        "name": "pumping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011343",
+        "name": "solid material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

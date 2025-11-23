@@ -1,0 +1,1275 @@
+{
+  "search_metadata": {
+    "id": "691889abdbb9ff79ceec1cf3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b66c75c8a7fb9b2c/691889abdbb9ff79ceec1cf3.json",
+    "created_at": "2025-11-15 14:09:47 UTC",
+    "processed_at": "2025-11-15 14:09:47 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN101841163A/en",
+    "raw_html_file": "https://serpapi.com/searches/b66c75c8a7fb9b2c/691889abdbb9ff79ceec1cf3.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN101841163A/en"
+  },
+  "title": "Grid-connected wind-light combined power generation system and power generation method thereof",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/c7/6b/50/effd20a9ef8b14/CN101841163A.pdf",
+  "publication_number": "CN101841163A",
+  "country": "China",
+  "prior_art_keywords": [
+    "power",
+    "wind",
+    "grid",
+    "power generation",
+    "storage device"
+  ],
+  "prior_art_date": "2010-03-15",
+  "application_number": "CN201010125769A",
+  "inventors": [
+    {
+      "name": "吴佳梁",
+      "link": "https://patents.google.com/?inventor=%E5%90%B4%E4%BD%B3%E6%A2%81",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%90%B4%E4%BD%B3%E6%A2%81"
+    },
+    {
+      "name": "叶坚强",
+      "link": "https://patents.google.com/?inventor=%E5%8F%B6%E5%9D%9A%E5%BC%BA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%8F%B6%E5%9D%9A%E5%BC%BA"
+    },
+    {
+      "name": "王飞",
+      "link": "https://patents.google.com/?inventor=%E7%8E%8B%E9%A3%9E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%8E%8B%E9%A3%9E"
+    }
+  ],
+  "assignees": [
+    "Sany Electric Co Ltd"
+  ],
+  "priority_date": "2010-03-15",
+  "filing_date": "2010-03-15",
+  "publication_date": "2010-09-22",
+  "worldwide_applications": {
+    "2010": [
+      {
+        "filing_date": "2010-03-15",
+        "country_code": "CN",
+        "application_number": "CN201010125769A",
+        "document_id": "patent/CN101841163A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      },
+      {
+        "filing_date": "2010-04-15",
+        "country_code": "WO",
+        "application_number": "PCT/CN2010/071785",
+        "document_id": "patent/WO2011113219A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2010-03-15",
+      "title": "Application filed by Sany Electric Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Sany Electric Co Ltd"
+    },
+    {
+      "date": "2010-03-15",
+      "title": "Priority to CN201010125769A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN101841163A/en"
+    },
+    {
+      "date": "2010-04-15",
+      "title": "Priority to PCT/CN2010/071785",
+      "type": "priority",
+      "document_id": "patent/WO2011113219A1/en"
+    },
+    {
+      "date": "2010-09-22",
+      "title": "Publication of CN101841163A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN101841163A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=101841163A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201010125769/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN101841163A"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/da/96/3f/bae656479fc1aa/HSA00000045280700011.png",
+    "https://patentimages.storage.googleapis.com/78/99/92/69b14f3f3caeb5/HSA00000045280700012.png",
+    "https://patentimages.storage.googleapis.com/b4/34/fc/5e5cb18ed2d434/HSA00000045280700021.png",
+    "https://patentimages.storage.googleapis.com/ea/b9/4c/c75d113b0fa5e2/HSA00000045280700022.png",
+    "https://patentimages.storage.googleapis.com/fe/09/26/18b719e4422795/HSA00000045280700031.png",
+    "https://patentimages.storage.googleapis.com/94/10/9e/22036d71740b07/HSA00000045280700032.png"
+  ],
+  "classifications": [
+    {
+      "code": "H02J3/381",
+      "description": "Dispersed generators",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02J2300/24",
+      "description": "The renewable source being solar energy of photovoltaic origin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02J2300/28",
+      "description": "The renewable source being wind energy",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02J2300/40",
+      "description": "Systems for supplying or distributing electric power characterised by decentralized, dispersed, or local generation wherein a plurality of decentralised, dispersed or local energy generation technologies are operated simultaneously",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/56",
+      "description": "Power conversion systems, e.g. maximum power point trackers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E10/76",
+      "description": "Power conversion electric or electronic aspects",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention discloses a grid-connected wind-solar combined power generation system, comprising a wind power generating set connected to a power grid, a solar photovoltaic square array, a detection device (11), a power storage device (12), and a master control device (13); When the sum of the output power generated by the wind power generating set and the solar photovoltaic array is greater than the output power fluctuation range required by the grid, the master control device (13) controls the power storage device (12) to store electric energy; when the sum of the output power is less than the grid requirement When the output power fluctuates within a certain range, the master control device (13) controls the power storage device (12) to release electric energy. During the working process of the grid-connected wind-solar combined power generation system, the power generation and storage device (12) of the supplementary generating set can adjust the power transmitted by the power generation system to the grid in real time according to the output power, so that the power output from the power generation system to the grid It is relatively stable, thereby improving the power supply stability of the power generation system and ensuring the power supply quality of the power grid.",
+  "abstract_original": "本发明公开了一种并网型风光联合发电系统，包括分别连入电网的风力发电机组、太阳能光伏方阵，以及检测装置(11)、蓄电装置(12)、总控装置(13)；当风力发电机组和太阳能光伏方阵产生的输出功率，之和大于电网要求的输出功率波动范围时，总控装置(13)控制蓄电装置(12)储存电能；当输出功率之和小于电网要求的输出功率波动范围时，总控装置(13)控制蓄电装置(12)释放电能。在并网型风光联合发电系统的工作过程中，补充发电机组发电和储电装置(12)能够根据输出功率的大小，实时地调整发电系统传输给电网的功率，使得发电系统输出至电网的功率较为稳定，从而提高了发电系统的供电稳定性，保证了电网的供电质量。",
+  "description_link": "https://serpapi.com/searches/691889abdbb9ff79ceec1cf3/google_patents_details/description.html",
+  "claims": [
+    "1.一种并网型风光联合发电系统，包括分别连入电网的风力发电机组、太阳能光伏方阵；其特征在于，还包括：1. A grid-connected wind and wind combined power generation system, including wind power generators and solar photovoltaic arrays respectively connected to the grid; it is characterized in that it also includes:\n      \n      \n         检测装置(11)，用于实时检测所述风力发电机组和所述太阳能光伏方阵的输出功率，并转换为功率信号；A detection device (11), used for real-time detection of the output power of the wind power generating set and the solar photovoltaic array, and converting it into a power signal;\n      \n      \n         蓄电装置(12)，用于可选择地将所述风力发电机组和所述太阳能光伏方阵产生的电能储存或者释放；An electric storage device (12), used for selectively storing or releasing the electric energy generated by the wind power generating set and the solar photovoltaic array;\n      \n      \n         总控装置(13)，用于接收所述功率信号，并控制所述蓄电装置储存或者释放电能；A master control device (13), configured to receive the power signal, and control the storage device to store or release electric energy;\n      \n      \n         当所述风力发电机组和所述太阳能光伏方阵产生的输出功率之和大于预定功率的波动范围的最大值时，所述总控装置(13)控制所述蓄电装置(12)储存电能；当所述风力发电机组和所述太阳能光伏方阵产生的输出功率之和小于预定功率的波动范围的最小值时，所述总控装置(13)控制所述蓄电装置(12)释放电能。When the sum of the output power generated by the wind power generating set and the solar photovoltaic array is greater than the maximum value of the predetermined power fluctuation range, the master control device (13) controls the power storage device (12) to store electric energy; When the sum of the output power generated by the wind power generating set and the solar photovoltaic array is less than the minimum value of the predetermined power fluctuation range, the master control device (13) controls the power storage device (12) to release electric energy.",
+    "2.根据权利要求1所述的并网型风光联合发电系统，其特征在于，还包括风机控制器(14)；所述风机控制器(14)在所述总控装置(13)的控制下，通过控制所述风力发电机组输出电能的传输方向，控制所述蓄电装置(12)可选择地储存电能。2. The grid-connected wind-solar combined power generation system according to claim 1, further comprising a wind turbine controller (14); the wind turbine controller (14) is under the control of the master control device (13) The electric storage device (12) is controlled to selectively store electric energy by controlling the transmission direction of the electric energy output by the wind power generating set.",
+    "3.根据权利要求1所述的并网型风光联合发电系统，其特征在于，还包括光伏阵列控制器(15)；所述光伏阵列控制器(15)在所述总控装置(13)的控制下，通过控制所述太阳能光伏方阵输出电能的传输方向，控制所述蓄电装置(12)可选择地储存电能。3. The grid-connected wind-solar combined power generation system according to claim 1, further comprising a photovoltaic array controller (15); Under control, by controlling the transmission direction of the output electric energy of the solar photovoltaic array, the electric storage device (12) is controlled to selectively store electric energy.",
+    "4.根据权利要求1至3任一项所述的并网型风光联合发电系统，其特征在于，所述蓄电装置(12)为电化学储能装置。4. The grid-connected wind-solar combined power generation system according to any one of claims 1 to 3, characterized in that the power storage device (12) is an electrochemical energy storage device.",
+    "5.根据权利要求1至3任一项所述的并网型风光联合发电系统，其特征在于，还包括补充发电装置(16)，当所述风力发电机组与所述太阳能光伏方阵产生的输出功率之和小于预定功率的波动范围的最小值时，所述总控装置(13)控制所述补充发电装置(16)发电。5. The grid-connected wind-wind combined power generation system according to any one of claims 1 to 3, characterized in that it also includes a supplementary power generation device (16), when the wind power generating set and the solar photovoltaic array generate When the sum of the output power is less than the minimum value of the predetermined power fluctuation range, the general control device (13) controls the supplementary power generation device (16) to generate electricity.",
+    "6.根据权利要求5所述的并网型风光联合发电系统，其特征在于，所述补充发电装置(16)为燃油发电机组。6. The grid-connected wind-solar combined power generation system according to claim 5, characterized in that the supplementary power generation device (16) is a fuel-fired generator set.",
+    "7.一种并网型风光联合发电方法，包括以下步骤：7. A grid-connected wind-wind combined power generation method, comprising the following steps:\n      \n      \n         11)检测风力发电机组和太阳能光伏方阵的输出功率；11) Detect the output power of wind power generators and solar photovoltaic arrays;\n      \n      \n         12)比较检测到的输出功率之和与预定功率的波动范围的关系；当所述输出功率之和大于预定功率的波动范围的最大值时，转向步骤13)；当所述输出功率之和小于预定功率的波动范围的最小值时，转向步骤14)。12) compare the relationship between the detected output power sum and the predetermined power fluctuation range; when the output power sum is greater than the maximum value of the predetermined power fluctuation range, turn to step 13); when the output power sum is less than When the minimum value of the predetermined power fluctuation range is determined, turn to step 14).\n      \n      \n         13)控制所述蓄电装置储存电能，并转向步骤11)；13) Control the electric storage device to store electric energy, and turn to step 11);\n      \n      \n         14)所述总控装置控制蓄电装置释放电能，并转向步骤11)。14) The master control device controls the power storage device to release electric energy, and turns to step 11).",
+    "8.根据权利要求7所述的并网型风光联合发电方法，其特征在于，在上述步骤13)和步骤14)中，通过控制所述风力发电机组电能的传输方向，控制所述蓄电装置可选择地储存电能。8. The grid-connected wind-solar combined power generation method according to claim 7, characterized in that, in the above step 13) and step 14), the power storage device is controlled by controlling the transmission direction of the electric energy of the wind power generating set Optionally store electrical energy.",
+    "9.根据权利要求7所述的并网型风光联合发电方法，其特征在于，在上述步骤13)和步骤14)中，通过控制所述太阳能光伏方阵电能的传输方向，控制所述蓄电装置可选择地储存电能。9. The grid-connected wind-solar combined power generation method according to claim 7, characterized in that, in the above step 13) and step 14), by controlling the transmission direction of the solar photovoltaic square array electric energy, the power storage The device optionally stores electrical energy.",
+    "10.根据权利要求7至9任一项所述的并网型风光联合发电方法，其特征在于，在步骤14)中，还可以包括以下步骤：10. The grid-connected wind-solar combined power generation method according to any one of claims 7 to 9, characterized in that, in step 14), the following steps may also be included:\n      \n      \n         141)控制补充发电装置发电。141) Control the supplementary power generation device to generate electricity.",
+    "11.根据权利要求10所述的并网型风光联合发电方法，其特征在于，所述补充发电装置可为重油发电机组。11. The grid-connected wind-solar combined power generation method according to claim 10, characterized in that the supplementary power generation device can be a heavy oil generator set."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201010125769A",
+      "representative_publication": "CN101841163A",
+      "primary_language": "en",
+      "priority_date": "2010-03-15",
+      "filing_date": "2010-03-15",
+      "title": "Grid-connected wind-light combined power generation system and power generation method thereof"
+    },
+    {
+      "application_number": "PCT/CN2010/071785",
+      "representative_publication": "WO2011113219A1",
+      "primary_language": "en",
+      "priority_date": "2010-03-15",
+      "filing_date": "2010-04-15",
+      "title": "Grid-connected wind-photovoltaic hybrid power generation system and power generation method thereof"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201010125769A",
+      "representative_publication": "CN101841163A",
+      "primary_language": "en",
+      "priority_date": "2010-03-15",
+      "filing_date": "2010-03-15",
+      "title": "Grid-connected wind-light combined power generation system and power generation method thereof"
+    }
+  ],
+  "family_id": "42744369",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "JP2004088900A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-27",
+        "publication_date": "2004-03-18",
+        "assignee_original": "Meidensha Corp",
+        "title": "Power supply system",
+        "patent_id": "patent/JP2004088900A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004088900A%2Fen"
+      },
+      {
+        "publication_number": "US7000395B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-11",
+        "publication_date": "2006-02-21",
+        "assignee_original": "Yuan Ze University",
+        "title": "Hybrid clean-energy power-supply framework",
+        "patent_id": "patent/US7000395B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7000395B2%2Fen"
+      },
+      {
+        "publication_number": "CN1894844A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-19",
+        "publication_date": "2007-01-10",
+        "assignee_original": "株式会社安川电机",
+        "title": "PWM cycloconverter input voltage detection method and device",
+        "patent_id": "patent/CN1894844A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1894844A%2Fen"
+      },
+      {
+        "publication_number": "CN101436785A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-12",
+        "publication_date": "2009-05-20",
+        "assignee_original": "无锡开普动力有限公司",
+        "title": "Mixing DC power supply control system for communication base station",
+        "patent_id": "patent/CN101436785A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101436785A%2Fen"
+      },
+      {
+        "publication_number": "CN101604854A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-17",
+        "publication_date": "2009-12-16",
+        "assignee_original": "哈尔滨工程大学",
+        "title": "Solar energy and wind energy combined power generation system",
+        "patent_id": "patent/CN101604854A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101604854A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP4852885B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-24",
+        "publication_date": "2012-01-11",
+        "assignee_original": "株式会社明電舎",
+        "title": "Load following operation control method with multiple types of distributed power supply",
+        "patent_id": "patent/JP4852885B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4852885B2%2Fen"
+      },
+      {
+        "publication_number": "JP4850019B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-16",
+        "publication_date": "2012-01-11",
+        "assignee_original": "東京瓦斯株式会社",
+        "title": "Storage battery equipment in private power generation equipment connected to power system and operation method of storage battery equipment",
+        "patent_id": "patent/JP4850019B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4850019B2%2Fen"
+      },
+      {
+        "publication_number": "CN101309017B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-11",
+        "publication_date": "2012-05-30",
+        "assignee_original": "中国科学院电工研究所",
+        "title": "Wind power and photovoltaic power complementary power supply system based on mixed energy accumulation of super capacitor accumulator",
+        "patent_id": "patent/CN101309017B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101309017B%2Fen"
+      },
+      {
+        "publication_number": "US7608937B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-30",
+        "publication_date": "2009-10-27",
+        "assignee_original": "General Electric Company",
+        "title": "Power generation system and method for storing electrical energy",
+        "patent_id": "patent/US7608937B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7608937B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN102035438A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-31",
+        "publication_date": "2011-04-27",
+        "assignee_original": "常州天合光能有限公司",
+        "title": "Energy storage solar module and intelligent storage control method thereof",
+        "patent_id": "patent/CN102035438A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102035438A%2Fen"
+      },
+      {
+        "publication_number": "CN102237691A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-06",
+        "publication_date": "2011-11-09",
+        "assignee_original": "东北大学",
+        "title": "Wind energy and solar energy grid-connected generation system and control method thereof",
+        "patent_id": "patent/CN102237691A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102237691A%2Fen"
+      },
+      {
+        "publication_number": "CN102508055A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-29",
+        "publication_date": "2012-06-20",
+        "assignee_original": "东北大学",
+        "title": "Device and method for detecting wind power generation grid-connected system",
+        "patent_id": "patent/CN102508055A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102508055A%2Fen"
+      },
+      {
+        "publication_number": "CN102522814A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-31",
+        "publication_date": "2012-06-27",
+        "assignee_original": "陕西科技大学",
+        "title": "Wind-solar hybrid distribution type generating set",
+        "patent_id": "patent/CN102522814A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102522814A%2Fen"
+      },
+      {
+        "publication_number": "WO2012088915A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-01",
+        "publication_date": "2012-07-05",
+        "assignee_original": "国网电力科学研究院",
+        "title": "Method for analyzing influence of fluctuation in output power of wind farm on power grid",
+        "patent_id": "patent/WO2012088915A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012088915A1%2Fen"
+      },
+      {
+        "publication_number": "CN102684286A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-24",
+        "publication_date": "2012-09-19",
+        "assignee_original": "电联工程技术股份有限公司",
+        "title": "Single-tube tower-type wind-light complementary base station",
+        "patent_id": "patent/CN102684286A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102684286A%2Fen"
+      },
+      {
+        "publication_number": "CN103390903A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-29",
+        "publication_date": "2013-11-13",
+        "assignee_original": "内蒙古电力勘测设计院",
+        "title": "Novel wind, photo-thermal and energy storage integrated intelligent power generation system and control method thereof",
+        "patent_id": "patent/CN103390903A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103390903A%2Fen"
+      },
+      {
+        "publication_number": "CN103414206A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-07-12",
+        "publication_date": "2013-11-27",
+        "assignee_original": "国电南瑞科技股份有限公司",
+        "title": "Water, fire and light combined optimization power generation scheduling optimization method considering security constraints",
+        "patent_id": "patent/CN103414206A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103414206A%2Fen"
+      },
+      {
+        "publication_number": "CN103733473A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-02",
+        "publication_date": "2014-04-16",
+        "assignee_original": "法国毕蓬多夫公司",
+        "title": "Method for controlling dynamic systems by measuring the short circuit current of a photovoltaic generator",
+        "patent_id": "patent/CN103733473A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103733473A%2Fen"
+      },
+      {
+        "publication_number": "CN103795116A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-26",
+        "publication_date": "2014-05-14",
+        "assignee_original": "广东易事特电源股份有限公司",
+        "title": "A power conversion and control device, power supply method and system",
+        "patent_id": "patent/CN103795116A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103795116A%2Fen"
+      },
+      {
+        "publication_number": "CN104009496A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-12",
+        "publication_date": "2014-08-27",
+        "assignee_original": "国网上海市电力公司",
+        "title": "Dual-threshold judgment switching circuit for micro grid backflow protection device",
+        "patent_id": "patent/CN104009496A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104009496A%2Fen"
+      },
+      {
+        "publication_number": "CN105905968A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-14",
+        "publication_date": "2016-08-31",
+        "assignee_original": "上海骄英能源科技有限公司",
+        "title": "Complementary-wind/light-power-generation energy-saving seawater desalting plant and control method thereof",
+        "patent_id": "patent/CN105905968A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105905968A%2Fen"
+      },
+      {
+        "publication_number": "CN106856331A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-09",
+        "publication_date": "2017-06-16",
+        "assignee_original": "中国电力科学研究院",
+        "title": "A kind of grid-connected performance test methods of wind-light combined power generation system",
+        "patent_id": "patent/CN106856331A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106856331A%2Fen"
+      },
+      {
+        "publication_number": "CN104182808B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-25",
+        "publication_date": "2017-09-01",
+        "assignee_original": "国家电网公司",
+        "title": "A new energy station power generation plan formulation method based on proportional power reduction",
+        "patent_id": "patent/CN104182808B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104182808B%2Fen"
+      },
+      {
+        "publication_number": "CN109462248A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-06",
+        "publication_date": "2019-03-12",
+        "assignee_original": "株洲中车时代电气股份有限公司",
+        "title": "A kind of photovoltaic energy storage integrated cabinet and its operation method",
+        "patent_id": "patent/CN109462248A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109462248A%2Fen"
+      },
+      {
+        "publication_number": "CN112751361A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-14",
+        "publication_date": "2021-05-04",
+        "assignee_original": "北京净能新能源科技有限公司",
+        "title": "Wind-solar integrated voltage transmission device",
+        "patent_id": "patent/CN112751361A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112751361A%2Fen"
+      },
+      {
+        "publication_number": "FR3104842A1",
+        "primary_language": "en",
+        "priority_date": "2019-12-16",
+        "publication_date": "2021-06-18",
+        "assignee_original": "Commissariat A L'energie Atomique Et Aux Energies Alternatives",
+        "title": "Method and device for controlling an electricity production assembly, and associated production assembly",
+        "patent_id": "patent/FR3104842A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3104842A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN102522769B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-01",
+        "publication_date": "2014-03-19",
+        "assignee_original": "北京动力机械研究所",
+        "title": "Hybrid excitation wind power generation system with wide wind speed range",
+        "patent_id": "patent/CN102522769B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102522769B%2Fen"
+      },
+      {
+        "publication_number": "CN102969766B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-16",
+        "publication_date": "2015-10-14",
+        "assignee_original": "中科恒源科技股份有限公司",
+        "title": "A kind of wind and solar hybrid generating system",
+        "patent_id": "patent/CN102969766B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102969766B%2Fen"
+      },
+      {
+        "publication_number": "CN103166247B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-15",
+        "publication_date": "2015-03-11",
+        "assignee_original": "东方电气集团东方汽轮机有限公司",
+        "title": "System and method for controlling doubly-fed wind power generation grid-side converter",
+        "patent_id": "patent/CN103166247B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103166247B%2Fen"
+      },
+      {
+        "publication_number": "CN103515981B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-29",
+        "publication_date": "2016-03-16",
+        "assignee_original": "沈阳工业大学",
+        "title": "Grid-connected photovoltaic power generation system and self-action phase shift island phenomenon detection method thereof",
+        "patent_id": "patent/CN103515981B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103515981B%2Fen"
+      },
+      {
+        "publication_number": "CN103633727A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-10",
+        "publication_date": "2014-03-12",
+        "assignee_original": "惠州天能源科技有限公司",
+        "title": "Hybrid electric photovoltaic accumulation system inversion control all-in-one machine",
+        "patent_id": "patent/CN103633727A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103633727A%2Fen"
+      },
+      {
+        "publication_number": "CN105552932A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-25",
+        "publication_date": "2016-05-04",
+        "assignee_original": "重庆邮电大学",
+        "title": "Independent microgrid frequency hierarchical robust control method based on coordination of BESS and DE",
+        "patent_id": "patent/CN105552932A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105552932A%2Fen"
+      },
+      {
+        "publication_number": "CN111384774A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-28",
+        "publication_date": "2020-07-07",
+        "assignee_original": "东汉太阳能无人机技术有限公司",
+        "title": "Power supply unit and unmanned aerial vehicle control system",
+        "patent_id": "patent/CN111384774A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111384774A%2Fen"
+      },
+      {
+        "publication_number": "CN109936167A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-30",
+        "publication_date": "2019-06-25",
+        "assignee_original": "天津锦美碳材科技发展有限公司",
+        "title": "A kind of light/wind suitable for water electrolysis hydrogen production/storage/alternating current electric energy scheduling system and method",
+        "patent_id": "patent/CN109936167A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109936167A%2Fen"
+      },
+      {
+        "publication_number": "CN113437766A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-25",
+        "publication_date": "2021-09-24",
+        "assignee_original": "国家电网有限公司",
+        "title": "Wind-solar energy storage comprehensive energy coordination system",
+        "patent_id": "patent/CN113437766A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113437766A%2Fen"
+      },
+      {
+        "publication_number": "CN113564636B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-29",
+        "publication_date": "2022-08-09",
+        "assignee_original": "全球能源互联网研究院有限公司",
+        "title": "Control method and device for hydrogen energy production and storage and electronic equipment",
+        "patent_id": "patent/CN113564636B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113564636B%2Fen"
+      },
+      {
+        "publication_number": "CN114040519B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-27",
+        "publication_date": "2023-05-26",
+        "assignee_original": "国网河南省电力公司沁阳市供电公司",
+        "title": "Assembled wind-solar complementary self-powered communication base station convenient to install",
+        "patent_id": "patent/CN114040519B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114040519B%2Fen"
+      },
+      {
+        "publication_number": "CN116031955B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-03-31",
+        "publication_date": "2023-06-27",
+        "assignee_original": "赫里欧新能源有限公司",
+        "title": "A micro-grid-type solar-diesel thermal-storage intelligent complementary power supply method and system",
+        "patent_id": "patent/CN116031955B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116031955B%2Fen"
+      },
+      {
+        "publication_number": "CN117132063B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-08-29",
+        "publication_date": "2024-06-25",
+        "assignee_original": "山东探越物联网技术有限公司",
+        "title": "Wind-solar complementary power supply system",
+        "patent_id": "patent/CN117132063B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117132063B%2Fen"
+      },
+      {
+        "publication_number": "CN119401554B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-12-31",
+        "publication_date": "2025-04-18",
+        "assignee_original": "广州佰宏新能源科技股份有限公司",
+        "title": "Wind-solar complementary power supply method and system",
+        "patent_id": "patent/CN119401554B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119401554B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN101841163A",
+      "primary_language": "en",
+      "publication_date": "2010-09-22",
+      "title": "Grid-connected wind-light combined power generation system and power generation method thereof",
+      "patent_id": "patent/CN101841163A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101841163A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102354334B",
+      "primary_language": "en",
+      "publication_date": "2013-12-11",
+      "title": "Minimum life cycle net cost-based microgrid system optimal design method",
+      "patent_id": "patent/CN102354334B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102354334B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103094926B",
+      "primary_language": "en",
+      "publication_date": "2014-12-10",
+      "title": "Multi-component energy-storing capacity collocation method applied to micro power grid group",
+      "patent_id": "patent/CN103094926B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103094926B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105071444B",
+      "primary_language": "en",
+      "publication_date": "2017-12-01",
+      "title": "A kind of capacity collocation method for grid-connected wind-light storage system",
+      "patent_id": "patent/CN105071444B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105071444B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202586481U",
+      "primary_language": "en",
+      "publication_date": "2012-12-05",
+      "title": "Micro electrical network intelligent balanced charging and power supply system",
+      "patent_id": "patent/CN202586481U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202586481U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107147148B",
+      "primary_language": "en",
+      "publication_date": "2020-03-27",
+      "title": "Light storage source and water vapor energy heat pump system based on peak-to-valley electricity price difference and grid-connected control method thereof",
+      "patent_id": "patent/CN107147148B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107147148B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2015133136A1",
+      "primary_language": "en",
+      "publication_date": "2015-09-11",
+      "title": "Power source system",
+      "patent_id": "patent/WO2015133136A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015133136A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102347620A",
+      "primary_language": "en",
+      "publication_date": "2012-02-08",
+      "title": "Micro grid control method",
+      "patent_id": "patent/CN102347620A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102347620A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "353999352414805941",
+      "scholar_authors": "Kumaravel et al.",
+      "publication_date": "2011",
+      "title": "Adapted multilayer feedforward ANN based power management control of solar photovoltaic and wind integrated power system",
+      "patent_id": "scholar/353999352414805941",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F353999352414805941"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20150085227A",
+      "primary_language": "en",
+      "publication_date": "2015-07-23",
+      "title": "The control device and method for Energy Storage System",
+      "patent_id": "patent/KR20150085227A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150085227A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101976986A",
+      "primary_language": "en",
+      "publication_date": "2011-02-16",
+      "title": "Independent power supply system based on multi-energy hybrid power generation",
+      "patent_id": "patent/CN101976986A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101976986A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201860275U",
+      "primary_language": "en",
+      "publication_date": "2011-06-08",
+      "title": "Solar power supply device",
+      "patent_id": "patent/CN201860275U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201860275U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103001259A",
+      "primary_language": "en",
+      "publication_date": "2013-03-27",
+      "title": "Annealing algorithm-based grid-connected micro-grid optimized scheduling method",
+      "patent_id": "patent/CN103001259A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103001259A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102522814A",
+      "primary_language": "en",
+      "publication_date": "2012-06-27",
+      "title": "Wind-solar hybrid distribution type generating set",
+      "patent_id": "patent/CN102522814A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102522814A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN205304266U",
+      "primary_language": "en",
+      "publication_date": "2016-06-08",
+      "title": "Mixture of many powers alternating current -direct current meets little mains supply system",
+      "patent_id": "patent/CN205304266U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205304266U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207339720U",
+      "primary_language": "en",
+      "publication_date": "2018-05-08",
+      "title": "Photovoltaic energy storage power station",
+      "patent_id": "patent/CN207339720U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207339720U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113439375A",
+      "primary_language": "en",
+      "publication_date": "2021-09-24",
+      "title": "Hybrid power plant and method for controlling a hybrid power plant",
+      "patent_id": "patent/CN113439375A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113439375A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6041216B2",
+      "primary_language": "en",
+      "publication_date": "2016-12-14",
+      "title": "Power feeding system and power feeding method",
+      "patent_id": "patent/JP6041216B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6041216B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017132802A1",
+      "primary_language": "en",
+      "publication_date": "2017-08-10",
+      "title": "Inverter control device and method for energy interconnection and energy storage of ac bus",
+      "patent_id": "patent/WO2017132802A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017132802A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18418933091980073604",
+      "scholar_authors": "Bendib et al.",
+      "publication_date": "2019",
+      "title": "Wind-solar power system associated with flywheel and pumped-hydro energy storage",
+      "patent_id": "scholar/18418933091980073604",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18418933091980073604"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202004473U",
+      "primary_language": "en",
+      "publication_date": "2011-10-05",
+      "title": "Grid-connected generating system",
+      "patent_id": "patent/CN202004473U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202004473U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203774835U",
+      "primary_language": "en",
+      "publication_date": "2014-08-13",
+      "title": "Household-type micro grid system",
+      "patent_id": "patent/CN203774835U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203774835U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202206331U",
+      "primary_language": "en",
+      "publication_date": "2012-04-25",
+      "title": "Solar power generation system",
+      "patent_id": "patent/CN202206331U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202206331U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110829519B",
+      "primary_language": "en",
+      "publication_date": "2024-05-14",
+      "title": "Multi-input energy storage system based on detachable storage battery pack and control method thereof",
+      "patent_id": "patent/CN110829519B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110829519B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2014075902A",
+      "primary_language": "en",
+      "publication_date": "2014-04-24",
+      "title": "Ac power generation device",
+      "patent_id": "patent/JP2014075902A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2014075902A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2010-09-22",
+      "code": "C06",
+      "title": "Publication"
+    },
+    {
+      "date": "2010-09-22",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2010-11-10",
+      "code": "C10",
+      "title": "Entry into substantive examination"
+    },
+    {
+      "date": "2010-11-10",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2013-02-06",
+      "code": "C12",
+      "title": "Rejection of a patent application after its publication"
+    },
+    {
+      "date": "2013-02-06",
+      "code": "RJ01",
+      "title": "Rejection of invention patent application after publication",
+      "attributes": [
+        {
+          "label": "Application publication date",
+          "value": "20100922"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 77
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "239000000295",
+        "name": "fuel oil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000012983",
+        "name": "electrochemical energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000003491",
+        "name": "array",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011897",
+        "name": "real-time detection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "238000005755",
+        "name": "formation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005286",
+        "name": "illumination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "name": "methane",
+        "domain": "Chemical compound",
+        "smiles": "C",
+        "inchi_key": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007812",
+        "name": "deficiency",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005417",
+        "name": "food ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009931",
+        "name": "harmful effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003345",
+        "name": "natural gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013324",
+        "name": "preserved food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001172",
+        "name": "regenerating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}
